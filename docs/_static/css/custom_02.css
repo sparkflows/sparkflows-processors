@@ -511,3 +511,7 @@ footer{
         padding: 0 10px;
     }
 }
+
+readthedocs-flyout{
+    display: none;
+}
