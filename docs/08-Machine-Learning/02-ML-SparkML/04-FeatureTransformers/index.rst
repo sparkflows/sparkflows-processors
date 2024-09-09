@@ -1,0 +1,56 @@
+04-FeatureTransformers
+===============
+
+.. toctree::
+   :maxdepth: 2
+
+   binarizer.rst
+   bucketizer_python.rst
+   bucketizer_transform_python.rst
+   idf.rst
+   imputer.rst
+   imputer_python.rst
+   imputer_python_transform.rst
+   imputer_transform.rst
+   index_to_string_python.rst
+   index_to_string_transform.rst
+   indexstring.rst
+   interactions_python.rst
+   interactions_transform_python.rst
+   maxabs_scaler.rst
+   maxabs_scaler_python.rst
+   maxabs_scaler_transform.rst
+   maxabs_scaler_transform_python.rst
+   ngram.rst
+   normalizer.rst
+   normalizer_python.rst
+   normalizer_transform_python.rst
+   onehotencoder.rst
+   onehotencoder_advanced.rst
+   onehotencoder_advanced_transform.rst
+   onehotencoder_python.rst
+   onehotencoder_transform_python.rst
+   PolynominalExpansion.rst
+   QuantileDiscretizer.rst
+   QuantileDiscretizer_transform.rst
+   robust_scaler.rst
+   robust_scaler_python.rst
+   robust_scaler_transform.rst
+   robust_scaler_transform_python.rst
+   signal_processing.rst
+   smote.rst
+   sqltransformer.rst
+   stopwordsremover.rst
+   stringindexer.rst
+   stringindexer_advanced.rst
+   stringindexer_python.rst
+   stringindexer_transform_python.rst
+   stringindexerTransform.rst
+   tokenizer.rst
+   vectorassembler.rst
+   vectorfunctions.rst
+   vectorindexer.rst
+   vectorindexer_java.rst
+   vectorindexer_transform.rst
+   vectorindexer_transform_java.rst
+   WordToScoreMapping.rst

@@ -1,0 +1,63 @@
+Read JDBC
+=========== 
+
+This node writes data to databases using JDBC.
+
+Type
+--------- 
+
+dataset
+
+Class
+--------- 
+
+fire.nodes.save.NodeReadJDBC
+
+Fields
+--------- 
+
+.. list-table::
+      :widths: 10 5 10
+      :header-rows: 1
+
+      * - Name
+        - Title
+        - Description
+      * - connection
+        - Connection
+        - The JDBC connection to connect
+      * - table
+        - DB Table
+        - The JDBC table that should be read. Note that anything that is valid in a FROM clause of a SQL query can be used. For example, instead of a full table, you could also use a subquery in parentheses
+      * - performance
+        - Performance
+      * - partitionColumn
+        - Partition Column
+        - PartitionColumn must be a numeric, date, or timestamp column from the table
+      * - lowerBound
+        - Lower Bound
+        -  LowerBound and UpperBound are just used to decide the partition stride, not for filtering the rows in the table. All rows in the table will be partitioned and returned. This option applies only to reading
+      * - upperBound
+        - Upper Bound
+        -  LowerBound and UpperBound are just used to decide the partition stride, not for filtering the rows in the table. All rows in the table will be partitioned and returned. This option applies only to reading
+      * - numPartitions
+        - Num Partitions
+        - The maximum number of partitions that can be used for parallelism in table reading
+      * - fetchsize
+        - Fetch Size
+        - The JDBC fetch size, which determines how many rows to fetch per round trip
+      * - schema
+        - Schema
+      * - outputColNames
+        - Column Names of the Table
+        - Output Columns Names of the Table
+      * - outputColTypes
+        - Column Types of the Table
+        - Output Column Types of the Table
+      * - outputColFormats
+        - Column Formats
+        - Output Column Formats
+
+
+
+

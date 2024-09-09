@@ -132,11 +132,14 @@ font-size: 1em;
     border-top: solid 1px #fff;
 }
 
-.wy-menu-vertical .current li.toctree-l1>a {
+.wy-menu-vertical li.current li.toctree-l1>a {
     border-bottom: 1px solid #1CB1C2;
     border-top: 1px solid #1CB1C2;
 }
-
+.wy-menu-vertical li.toctree-l1.current > a {
+    border-bottom: 1px solid #1CB1C2;
+    border-top: 1px solid #1CB1C2;
+  }
 .wy-menu-vertical li.toctree-l2.current > a {
     color: #404040;
     background: #fff;
