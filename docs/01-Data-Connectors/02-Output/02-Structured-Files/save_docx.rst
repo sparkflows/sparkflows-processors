@@ -65,19 +65,13 @@ General:
 +++++++++++++++
 
 
-
 Output Path: Specifies the file path where the DOCX files will be saved. This can be a local path or an S3 path (e.g., s3://bucket_name/prefix/). This field is required.
-+++++++++++++++
-
 
 
 Content Column: Specifies the DataFrame column containing the content to be saved as DOCX. This can include text or markdown content. This field is optional, but required if no default content is provided.
-+++++++++++++++
-
 
 
 Save Mode: Determines the behavior when the output path already exists. Options are:
-+++++++++++++++
 
 
 * Overwrite: Overwrites existing files at the specified path.
@@ -86,12 +80,10 @@ Save Mode: Determines the behavior when the output path already exists. Options 
 
 
 Default File Name: Specifies the default file name for the DOCX output (e.g., "docx_output"). Used when no file name column is provided or when saving a single combined file.
-+++++++++++++++
-
 
 
 Save Option: Specifies how the responses are saved. Options are:
-+++++++++++++++
+
 
 * ALL: Combines all responses into a single DOCX file.
 * PERFILE: Saves each response as a separate DOCX file, based on the file name column.
@@ -99,17 +91,13 @@ Save Option: Specifies how the responses are saved. Options are:
 
 
 File Name Column: Specifies the DataFrame column containing file names for the output DOCX files. This is required when Save Option is set to PERFILE or NONE.
-+++++++++++++++
-
 
 
 Page Number Column: Specifies the DataFrame column containing page numbers for multi-page documents. This is required when Save Option is set to NONE.
-+++++++++++++++
-
 
 
 Translate File Name: Determines whether non-English file names should be translated to English before saving. Options are:
-+++++++++++++++
+
 
 * true: Translates file names to English using an external translation service (e.g., Google Translator).
 * false: Retains original file names without translation.
@@ -119,15 +107,12 @@ System Prompt Configuration:
 +++++++++++++++
 
 
-
 System Prompt: An optional tab for advanced configurations. Currently, no specific system-level prompt is used, but this can be extended for future customization of DOCX generation behavior.
-+++++++++++++++
 
 
 
 Output:
 +++++++++++++++
-
 
 The node does not modify the input DataFrame but saves the content from the specified column as DOCX files to the designated output path. The output DOCX files may include:
 

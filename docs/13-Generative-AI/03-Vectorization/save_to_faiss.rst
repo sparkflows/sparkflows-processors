@@ -69,49 +69,31 @@ General:
 +++++++++++++++
 
 
-
 File Name Column: Specifies the DataFrame column containing file names associated with the content. Default is 'fileName'. This is optional and used for metadata tracking.
-+++++++++++++++
-
 
 
 Page Number Column: Specifies the DataFrame column containing page numbers for multi-page documents. Default is 'pageNumber'. This is optional and relevant for documents like PDFs.
-+++++++++++++++
-
 
 
 Content Column: Specifies the DataFrame column containing the text content to be stored. Default is 'content'. This is required to associate text with the embeddings.
-+++++++++++++++
-
 
 
 Directory Path Column: Specifies the DataFrame column containing directory paths for the source files. Default is 'directoryPath'. This is optional and used for metadata tracking.
-+++++++++++++++
-
 
 
 Embeddings Column: Specifies the DataFrame column containing the embeddings (vector representations) of the text content. Default is 'embeddings'. This is required for storage in the FAISS database.
-+++++++++++++++
-
 
 
 Base64 Image Column: Specifies the DataFrame column containing base64-encoded images associated with the content. Default is 'base64Image'. This is optional and used for storing image-related metadata.
-+++++++++++++++
-
 
 
 FAISS Index Name: Specifies the name of the FAISS index where the embeddings will be stored. Default is 'faiss_index'. This is required to identify the index.
-+++++++++++++++
-
 
 
 FAISS Index Directory Path: Specifies the directory path (local or distributed filesystem) where the FAISS index will be saved. This is required to store the index.
-+++++++++++++++
-
 
 
 Dimension: Specifies the dimensionality of the embeddings. Default is 0, which must be overridden to match the embedding model (e.g., 1536 for text-embedding-ada-002, 1024 for multilingual-e5-large). This is required for proper index creation.
-+++++++++++++++
 
 
 

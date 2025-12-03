@@ -74,14 +74,10 @@ General:
 +++++++++++++++
 
 
-
 Directory/File Path: Specifies the path to a single document file or a directory containing multiple documents. This field is required and must be accessible to the PySpark engine.
-+++++++++++++++
-
 
 
 Document Type: Selects the types of documents to process. Options include:
-+++++++++++++++
 
 
 
@@ -94,9 +90,7 @@ If left empty, the node processes all supported file types (PDF, DOCX, and image
 
 
 
-
 Image Encoding: Determines whether to include a column with base64-encoded data for PDFs and images. Options are:
-+++++++++++++++
 
 
 * true: Adds a column with base64-encoded representations of PDF pages and image files.
@@ -111,10 +105,7 @@ Note: TXT and DOCX files are not converted to base64 encodings, even if this opt
 Recursive Processing:
 +++++++++++++++
 
-
-
 Recursive: Controls whether the node processes documents in subdirectories. Options are:
-+++++++++++++++
 
 
 * true: Recursively processes all documents in the specified directory and its subdirectories.

@@ -60,10 +60,7 @@ The Text Analysis node processes text data to perform various types of analysis,
 General:
 +++++++++++++++
 
-
-
 Word Cloud: Controls whether a word cloud chart is rendered to visualize the text data. Options are:
-+++++++++++++++
 
 
 * true: Generates a word cloud chart based on the input text (default).
@@ -71,7 +68,7 @@ Word Cloud: Controls whether a word cloud chart is rendered to visualize the tex
 
 
 Analysis Type: Specifies the type of text analysis to perform. This field is required. Options include:
-+++++++++++++++
+
 
 * TONE ANALYSIS: Analyzes the tone of the text (e.g., formal, informal, positive, negative).
 * EMOTION ANALYSIS: Identifies emotions expressed in the text (e.g., joy, anger, sadness).
@@ -83,20 +80,15 @@ OpenAI Configuration:
 +++++++++++++++
 
 
-
 Select Connection: Specifies the connection details for the OpenAI API (e.g., API key). This is required to authenticate and access the OpenAI model.
-+++++++++++++++
-
 
 
 OpenAI Model: Specifies the OpenAI model to use for text analysis. Default is 'gpt-4o'. This field is required, and other compatible models can be specified if supported by the OpenAI API.
-+++++++++++++++
 
 
 
 Output:
 +++++++++++++++
-
 
 The node outputs a DataFrame with two columns:
 

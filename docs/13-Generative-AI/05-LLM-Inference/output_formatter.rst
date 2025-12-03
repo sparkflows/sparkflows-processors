@@ -48,16 +48,12 @@ General:
 +++++++++++++++
 
 
-
 Select Column:
-+++++++++++++++
 
 Specifies the column in the input DataFrame from which to extract data. This field is required and must correspond to a valid column name in the DataFrame.
 
 
-
 Key:
-+++++++++++++++
 
 Defines a key name for the formatted output. This field is required and is used to label the extracted column value in the output JSON message.
 

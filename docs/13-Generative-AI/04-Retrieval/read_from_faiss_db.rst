@@ -51,19 +51,13 @@ General:
 +++++++++++++++
 
 
-
 Path Of FAISS Index Directory: Specifies the directory path (local or distributed filesystem) where the FAISS index is stored. This is required and must point to a valid directory containing the FAISS index.
-+++++++++++++++
-
 
 
 Top K: Specifies the number of top results to retrieve from the FAISS index based on similarity. Default is 3. Must be a positive integer.
-+++++++++++++++
-
 
 
 Name Of FAISS Index: Specifies the name of the FAISS index to query. This is required and must match an existing index in the specified directory.
-+++++++++++++++
 
 
 

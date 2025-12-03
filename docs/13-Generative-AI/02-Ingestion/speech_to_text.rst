@@ -70,20 +70,13 @@ The Audio Diarization node processes audio files to transcribe speech and, optio
 General:
 +++++++++++++++
 
-
-
 Directory Or File Path: Specifies the path to a single audio file or a directory containing multiple audio files. This field is required and must be accessible to the PySpark engine.
-+++++++++++++++
-
 
 
 Number of Speakers: Specifies the expected number of speakers in the audio. Default is 1. If set to 1, diarization is not applied, and all dialogue is attributed to a single speaker. Must be an integer.
-+++++++++++++++
-
 
 
 Diarization: Controls whether speaker diarization is performed. Options are:
-+++++++++++++++
 
 
 * true: Enables diarization to identify and label different speakers in the audio.
@@ -91,33 +84,24 @@ Diarization: Controls whether speaker diarization is performed. Options are:
 
 
 Output Save Path: Specifies the file path to save the transcription output as a .txt file. This is optional; if provided, the transcribed text is saved to the specified location.
-+++++++++++++++
-
 
 
 Additional Context: Allows users to provide additional context or details about the conversation (e.g., speaker names, accents, or topics) to improve transcription and diarization accuracy. This is optional.
-+++++++++++++++
 
 
 
 OpenAI Configuration:
 +++++++++++++++
 
-
-
 Select Connection: Specifies the connection details for the OpenAI API (e.g., API key). This is required to authenticate and access the OpenAI model.
-+++++++++++++++
-
 
 
 OpenAI Model: Specifies the OpenAI model to use for transcription. Default is 'whisper-1'. Other compatible models can be specified if supported by the OpenAI API.
-+++++++++++++++
 
 
 
 Output:
 +++++++++++++++
-
 
 The node outputs a DataFrame with the following columns:
 

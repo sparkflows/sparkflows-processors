@@ -45,9 +45,7 @@ General:
 +++++++++++++++
 
 
-
 Select ServiceNow Connection: Specifies the connection details for the ServiceNow API, including the instance URL, user ID, and password. This is required to authenticate and access the ServiceNow instance.
-+++++++++++++++
 
 
 

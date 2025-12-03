@@ -55,31 +55,23 @@ General:
 +++++++++++++++
 
 
-
 Custom Prompt:
-+++++++++++++++
 
 This field lets you specify the user query or task description. If the node is used without a DataFrame, this prompt is the only content passed to the LLM.
 
 
-
 Metadata Columns:
-+++++++++++++++
 
 When a DataFrame is passed into the node, you can select one or more content columns whose text will be sent to the LLM. The prompt and content will be combined and sent to the model.
 
 
 
-
 Select Connection:
-+++++++++++++++
 
 Each model provider requires specific connection credentials (e.g., API keys). These must be configured in the backend and are referenced here.
 
 
-
 Temperature, Max Tokens, and Retries:
-+++++++++++++++
 
 * **Temperature** controls creativity: lower values yield more deterministic outputs.
 * **Max Tokens** sets the maximum length of the generated response.

@@ -60,34 +60,22 @@ General:
 +++++++++++++++
 
 
-
 Top K: Specifies the number of top results to retrieve from the Pinecone index based on similarity. Default is 3. Must be a positive integer.
-+++++++++++++++
-
 
 
 Select Pinecone Connection: Specifies the connection details for the Pinecone API (e.g., API key, environment). This is required to authenticate and access the Pinecone service.
-+++++++++++++++
-
 
 
 Pinecone Index Name: Specifies the name of the Pinecone index to query. This is required and must match an existing index in the Pinecone database.
-+++++++++++++++
-
 
 
 Index Namespace: Specifies the namespace within the Pinecone index to query. This is optional; if provided, it narrows the search to the specified namespace.
-+++++++++++++++
-
 
 
 User Query Column: Specifies the DataFrame column containing the user query (text input for similarity search). Default is 'userQuery'. This is required if querying with text input.
-+++++++++++++++
-
 
 
 Query Embedding Column: Specifies the DataFrame column containing pre-computed query embeddings (vector representations). Default is 'embeddings'. This is required if querying with embeddings instead of text.
-+++++++++++++++
 
 
 

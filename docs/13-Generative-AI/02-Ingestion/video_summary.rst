@@ -60,30 +60,19 @@ The Video Summarization node processes video files to generate a text summary of
 General:
 +++++++++++++++
 
-
-
 Select Connection: Specifies the connection details for the LLM (e.g., API key for the selected provider). This is required to authenticate and access the model used for summarization.
-+++++++++++++++
-
 
 
 Select Video Path: Specifies the file path to the video file to be summarized. This field is required and must point to a valid video file accessible to the PySpark engine.
-+++++++++++++++
-
 
 
 Select Summary Length: Specifies the desired number of words for the generated summary. This is optional; if left empty, the LLM uses a default length determined by the model.
-+++++++++++++++
-
 
 
 Select Language: Specifies the language in which the summary should be generated. This is optional; if left empty, the default language (typically English) is used by the LLM.
-+++++++++++++++
-
 
 
 Output Path: Specifies the file path where the generated summary will be saved as a .txt file. This is optional; if provided, the summary is saved to the specified location.
-+++++++++++++++
 
 
 

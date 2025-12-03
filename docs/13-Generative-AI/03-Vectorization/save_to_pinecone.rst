@@ -72,40 +72,25 @@ The Save to Pinecone node stores document embeddings in a Pinecone vector databa
 General:
 +++++++++++++++
 
-
-
 Select Content Column: Specifies the DataFrame column containing the text content to be stored in the Pinecone vector database. This is required to associate text with the embeddings.
-+++++++++++++++
-
 
 
 Select Embeddings Column: Specifies the DataFrame column containing the embeddings (vector representations) of the text content. This is required for storage in the vector database.
-+++++++++++++++
-
 
 
 Select Pinecone Connection: Specifies the connection details for the Pinecone API (e.g., API key, environment). This is required to authenticate and access the Pinecone service.
-+++++++++++++++
-
 
 
 Index Name: Specifies the name of the Pinecone index where the embeddings will be stored. Default is 'document-index'. If the index does not exist, it will be created.
-+++++++++++++++
-
 
 
 Index Namespace: Specifies the namespace within the Pinecone index to organize the stored embeddings. Default is 'document-namespace'. This is optional and used to group related vectors.
-+++++++++++++++
-
 
 
 Dimension: Specifies the dimensionality of the embeddings. Default is 1024 (suitable for models like multilingual-e5-large). For other models, such as text-embedding-ada-002 or amazon.titan-embed-text-v1, the dimension is typically 1536. This must match the embedding model used.
-+++++++++++++++
-
 
 
 Metric: Specifies the distance metric used for similarity search in the Pinecone index. Options are:
-+++++++++++++++
 
 
 * cosine: Cosine similarity metric.
@@ -114,18 +99,14 @@ Metric: Specifies the distance metric used for similarity search in the Pinecone
 
 
 Metadata Columns: Specifies one or more DataFrame columns to include as metadata for the stored embeddings. This is optional and allows additional context to be stored alongside the vectors.
-+++++++++++++++
-
 
 
 Unique ID Columns: Specifies one or more DataFrame columns to use as unique identifiers for the stored embeddings. This is optional; if provided, these IDs are used to reference the vectors in the Pinecone index.
-+++++++++++++++
 
 
 
 Output:
 +++++++++++++++
-
 
 The node saves the embeddings, content, and optional metadata to the specified Pinecone index and namespace. It does not produce a DataFrame output but confirms the successful storage of data in the Pinecone vector database, ready for similarity search and retrieval.
 
