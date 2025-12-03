@@ -36,6 +36,9 @@ Fields
       * - featuresCols
         - Feature Columns
         - Features to be used for Modelling
+      * - splitRatio
+        - Split Ratio
+        - Split Ratio
       * - standardize
         - Standardize
         - Standardize numeric columns to have zero mean and unit variance.
@@ -93,13 +96,45 @@ Fields
       * - maxRuntimeSecs
         - Max Runtime Secs
         - his argument specifies the maximum time that the AutoML process will run for. If both max_runtime_secs and max_models are specified, then the AutoML run will stop as soon as it hits either of these limits. If neither max_runtime_secs nor max_models are specified, then max_runtime_secs defaults to 3600 seconds (1 hour).
+      * - Grid Search
+        - Grid Search
+        - 
+      * - paramKeys
+        - Param Name
+        - Param Names. eg: maxDepth ,learnRate, nTrees,distribution
+      * - paramValues
+        - Param Value
+        - Enter comma separated values.eg: 4,5,6, eg: gaussian, gamma, bernoulli
+      * - gridStrategy
+        - Grid Search Strategy
+        - Strategy to use for model hyperparameter search. Cartesian does exhaustive search; RandomDiscrete searches randomly within given time or model limits.
+      * - gridMaxModels
+        - Grid Max Models
+        - Maximum number of models to build in the grid search (0 for unlimited).
+      * - gridMaxRuntimeSecs
+        - Grid Max Runtime Seconds
+        - Maximum runtime in seconds for the grid search (0 for unlimited).
+      * - gridStoppingRounds
+        - Grid Stopping Rounds
+        - Early stopping based on convergence of the metric during grid search (0 to disable).
+      * - gridStoppingTolerance
+        - Grid Stopping Tolerance
+        - Tolerance for metric-based stopping criterion during grid search.
+      * - gridStoppingMetric
+        - Grid Stopping Metric
+        - Metric to use for early stopping during grid search (AUTO: logloss for classification, deviance for regression).
+      * - gridParallelism
+        - Grid Parallelism
+        - Level of parallelism to use when building models in the grid.
+      * - gridSelectBestModelBy
+        - Grid Select Best Model By
+        - Metric used to select the best model from the grid.
 
 
 Details
--------
-
-
+===============
 K-Means falls in the general category of clustering algorithms. Clustering is a form of unsupervised learning that tries to find structures in the data without using any labels or target values. Clustering partitions a set of observations into separate groupings such that an observation in a given group is more similar to another observation in the same group than to another observation in a different group.
+
 
 More details are available at : http://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science/k-means.html
 

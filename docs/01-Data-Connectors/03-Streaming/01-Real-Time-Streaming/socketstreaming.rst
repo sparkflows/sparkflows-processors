@@ -39,20 +39,21 @@ Fields
         - Host to connect to for listening
       * - port
         - Port
-        - Port to connect to 
+        - Port to connect to
 
 
 Details
--------
-
-
-
+===============
 This Processor reads in messages from a Socket
 
+
+
 Key Fields
---------------
+===============
+
 
 Below are the key fields of this Processor.
+
 
 
 * hostname: this is the name of the host from where to read in the messages
@@ -60,11 +61,10 @@ Below are the key fields of this Processor.
 
 
 Examples
--------
-
-
+===============
 Below is an example of the fields:
 
 
-*  hostname: localhost
-*  port: 8099
+
+* hostname: localhost
+* port: 8099

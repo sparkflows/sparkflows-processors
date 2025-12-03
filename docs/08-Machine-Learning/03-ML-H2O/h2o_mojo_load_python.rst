@@ -23,9 +23,22 @@ Fields
       * - Name
         - Title
         - Description
+      * - selectChampionModel
+        - Use Champion Model
+        - Uses Champion Model For Prediction.
       * - path
-        - Path
+        - Path To Load H2O model
+        - 
 
 
+Details
+===============
+this node allows a previously trained and saved H2O model to be used again from the file system
 
 
+Examples
+===============
+path-folder1/folder2/H2OModelFileName
+
+
+the model saved in the path is fetched and can be sent to the prophet predict node to be used for prediction

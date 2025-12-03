@@ -31,12 +31,30 @@ Fields
       * - Name
         - Title
         - Description
-      * - path
-        - Path
+      * - inputDataPath
+        - Input Data Path
         - Path of the file/directory
+      * - schemaPath
+        - SchemaPath
+        - Schema File Path with schema:fieldname,datatype,defaultValue,startindex,endindex. When filetype is fixed-length then startindex & endindex columns will be used.
+      * - fileType
+        - File Type
+        - different type of flat files
+      * - addInputFileName
+        - Add Input File Name
+        - Add the new field:input_file_name
       * - schema
-        - Schema Details
-        - Schema details: ColumnName, LengthOfTheField
+        - InferSchema
+        - 
+      * - outputColNames
+        - Column Names
+        - Output Columns
+      * - outputColTypes
+        - Column Types
+        - Data Type of the Output Columns
+      * - outputColFormats
+        - Column Formats
+        - Format of the Output Columns
 
 
 

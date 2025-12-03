@@ -25,7 +25,17 @@ Fields
         - Description
       * - path
         - Path
+        - 
 
 
+Details
+===============
+this node allows a previously trained and saved prophet model to be used again from the file system
 
 
+Examples
+===============
+path-folder1/folder2/ModelFileName
+
+
+the model saved in the path is fetched and can be sent to the prophet predict node to be used for prediction

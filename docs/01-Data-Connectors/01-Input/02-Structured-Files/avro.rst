@@ -37,6 +37,9 @@ Fields
       * - addInputFileName
         - Add Input File Name
         - Add the new field:input_file_name
+      * - schema
+        - InferSchema
+        - 
       * - outputColNames
         - Column Names for the Avro
         - Output Columns of the Avro
@@ -49,9 +52,7 @@ Fields
 
 
 Details
--------
-
-
+===============
 This node reads data from Apache Avro files.
 
 

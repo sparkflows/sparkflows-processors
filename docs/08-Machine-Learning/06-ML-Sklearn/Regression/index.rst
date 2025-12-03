@@ -9,3 +9,4 @@ Regression
    lasso-regression.rst
    random-forest-regression.rst
    ridge-regression.rst
+   xgboost-regression.rst

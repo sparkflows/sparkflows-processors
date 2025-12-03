@@ -40,6 +40,9 @@ Fields
       * - predictionCol
         - Prediction Column
         - The prediction column created during model scoring
+      * - splitRatio
+        - Split Ratio
+        - Split Ratio
       * - maxIter
         - Maximum Iterations
         - Maximum number of iterations (>= 0)
@@ -72,6 +75,7 @@ Fields
         - Param for the name of family which is a description of the label distribution to be used in the model
       * - gridSearch
         - Grid Search
+        - 
       * - regParamGrid
         - Regularization Param Grid Search
         - Regularization Parameters for Grid Search
@@ -80,6 +84,7 @@ Fields
         - ElasticNet Parameters for Grid Search
       * - confusionMatrix
         - Confusion Matrix
+        - 
       * - output_confusion_matrix_chart
         - Output Confusion Matrix Chart
         - whether to display confusion matrix chart.
@@ -88,7 +93,7 @@ Fields
         - Title name to display in Confusion Matrix Chart
       * - cm_chart_description
         - Confusion Matrix Chart Description
-        -  Description to display in Confusion Matrix CHart
+        - Description to display in Confusion Matrix CHart
       * - confusionMatrixTargetLegend
         - Confusion Matrix Target Legend
         - Legend name to display for Target in Confusion Matrix
@@ -103,11 +108,13 @@ Fields
         - Legend name to display for Count in Confusion Matrix
       * - Description
         - Confusion Matrix Description
+        - 
       * - confusionMatrixRowDescription
         - Confusion Matrix Outcome description
         - One can provide the business details of the outcome of the confusion matrix rows
       * - ROC Curve
         - ROC Curve
+        - 
       * - output_roc_curve
         - Output ROC Curve
         - whether to display confusion matrix chart.
@@ -126,52 +133,73 @@ Fields
 
 
 Details
--------
-
-
+===============
 Logistic regression is a popular method to predict a categorical response. 
 
+
 It is a special case of Generalized Linear models that predicts the probability of the outcomes. 
+
 In spark.ml logistic regression can be used to predict a binary outcome by using binomial logistic regression, or it can be used to predict a multiclass outcome by using multinomial logistic regression.
 
+
 More details are available at:
+
 
 http://spark.apache.org/docs/latest/ml-classification-regression.html#logistic-regression
 
 
 Examples
--------
-
-
+===============
 The below example is available at : https://spark.apache.org/docs/2.3.0/ml-classification-regression.html#logistic-regression
-+++++++++++++++
+---------------
+
 
 
 import org.apache.spark.ml.classification.LogisticRegression
 
+
 // Load training data
+
 val training = spark.read.format("libsvm").load("data/mllib/sample_libsvm_data.txt")
 
+
 val lr = new LogisticRegression()
+
   .setMaxIter(10)
+
   .setRegParam(0.3)
+
   .setElasticNetParam(0.8)
+
 
 // Fit the model
+
 val lrModel = lr.fit(training)
 
+
 // Print the coefficients and intercept for logistic regression
+
 println(s"Coefficients: ${lrModel.coefficients} Intercept: ${lrModel.intercept}")
 
+
 // We can also use the multinomial family for binary classification
+
 val mlr = new LogisticRegression()
+
   .setMaxIter(10)
+
   .setRegParam(0.3)
+
   .setElasticNetParam(0.8)
+
   .setFamily("multinomial")
+
 
 val mlrModel = mlr.fit(training)
 
+
 // Print the coefficients and intercepts for logistic regression with multinomial family
+
 println(s"Multinomial coefficients: ${mlrModel.coefficientMatrix}")
+
 println(s"Multinomial intercepts: ${mlrModel.interceptVector}")

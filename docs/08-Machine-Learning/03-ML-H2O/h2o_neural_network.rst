@@ -36,6 +36,9 @@ Fields
       * - ignoredCols
         - Ignored Columns
         - Features to be ignored for Modelling
+      * - splitRatio
+        - Split Ratio
+        - Split Ratio
       * - columnsToCategorical
         - Columns to Categorical
         - Columns to be Categorical encoded
@@ -101,6 +104,7 @@ Fields
         - Adaptive learning rate time decay factor (similarity to prior updates).
       * - advanced
         - Advanced
+        - 
       * - epsilon
         - Epsilon
         - Adaptive learning rate smoothing factor (to avoid divisions by zero and allow progress).
@@ -266,13 +270,81 @@ Fields
       * - aucType
         - AUC Type
         - Set default multinomial AUC type.
+      * - confusionMatrix
+        - Confusion Matrix
+        - 
+      * - output_confusion_matrix_chart
+        - Output Confusion Matrix Chart
+        - whether to display confusion matrix chart.
+      * - cm_chart_title
+        - Confusion Matrix Chart Title
+        - Title name to display in Confusion Matrix Chart
+      * - cm_chart_description
+        - Confusion Matrix Chart Description
+        - Description to display in Confusion Matrix CHart
+      * - confusionMatrixTargetLegend
+        - Confusion Matrix Target Legend
+        - Legend name to display for Target in Confusion Matrix
+      * - confusionMatrixPredictedLabelLegend
+        - Confusion Matrix PredictedLabel Legend
+        - Legend name to display for Predicted Label in Confusion Matrix
+      * - ROC Curve
+        - ROC Curve
+        - 
+      * - output_roc_curve
+        - Output ROC Curve
+        - Whether to display confusion matrix chart.
+      * - roc_title
+        - ROC Curve Chart Title
+        - Title name to display in ROC Curve Chart
+      * - roc_description
+        - ROC Curve Chart Description
+        - Add Description for ROC Curve Chart
+      * - xlabel
+        - X Label
+        - X label
+      * - ylabel
+        - Y Label
+        - Y Label
+      * - Grid Search
+        - Grid Search
+        - 
+      * - paramKeys
+        - Param Name
+        - Param Names. eg: l1 ,hidden
+      * - paramValues
+        - Param Value
+        - Enter comma separated values.eg: 0, 1e-5, eg: 50,50;100,100
+      * - gridStrategy
+        - Grid Search Strategy
+        - Strategy to use for model hyperparameter search. Cartesian does exhaustive search; RandomDiscrete searches randomly within given time or model limits.
+      * - gridMaxModels
+        - Grid Max Models
+        - Maximum number of models to build in the grid search (0 for unlimited).
+      * - gridMaxRuntimeSecs
+        - Grid Max Runtime Seconds
+        - Maximum runtime in seconds for the grid search (0 for unlimited).
+      * - gridStoppingRounds
+        - Grid Stopping Rounds
+        - Early stopping based on convergence of the metric during grid search (0 to disable).
+      * - gridStoppingTolerance
+        - Grid Stopping Tolerance
+        - Tolerance for metric-based stopping criterion during grid search.
+      * - gridStoppingMetric
+        - Grid Stopping Metric
+        - Metric to use for early stopping during grid search (AUTO: logloss for classification, deviance for regression).
+      * - gridParallelism
+        - Grid Parallelism
+        - Level of parallelism to use when building models in the grid.
+      * - gridSelectBestModelBy
+        - Grid Select Best Model By
+        - Metric used to select the best model from the grid.
 
 
 Details
--------
-
-
+===============
 H2O’s Deep Learning is based on a multi-layer feedforward artificial neural network that is trained with stochastic gradient descent using back-propagation. The network can contain a large number of hidden layers consisting of neurons with tanh, rectifier, and maxout activation functions.
+
 
 More details are available at : http://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science/deep-learning.html
 

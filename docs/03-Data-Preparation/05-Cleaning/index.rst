@@ -6,6 +6,7 @@
 
    count_rows_columns_python.rst
    data_cleansing.rst
+   data_cleansing_advanced.rst
    datawrangling.rst
    dedup.rst
    dropduplicaterows.rst
@@ -18,6 +19,7 @@
    ImputingWithMeanValue.rst
    ImputingWithMedianValue.rst
    ImputingWithModeValue.rst
+   nodelookup.rst
    null_count_python.rst
    removeduplicaterows.rst
    removeUnwantedCharacters.rst

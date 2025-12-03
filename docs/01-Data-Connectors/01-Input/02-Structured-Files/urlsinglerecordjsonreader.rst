@@ -26,6 +26,9 @@ Fields
       * - URL
         - URL
         - URL from where to read the JSON string from
+      * - schema
+        - InferSchema
+        - 
       * - outputColNames
         - Column Names
         - Column Names

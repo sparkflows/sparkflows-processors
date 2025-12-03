@@ -31,12 +31,18 @@ Fields
       * - Name
         - Title
         - Description
+      * - connection
+        - Connection
+        - The Bigquery connection to connect
       * - bigQueryDataset
         - BigQuery Dataset
         - bigQueryDataset name
       * - bigQueryTable
         - BigQuery Table
         - BigQueryTable name.
+      * - schema
+        - InferSchema
+        - 
       * - outputColNames
         - Column Names
         - New Output Columns of the SQL
@@ -46,6 +52,15 @@ Fields
       * - outputColFormats
         - Column Formats
         - Format of the Output Columns
+      * - properties
+        - Properties
+        - 
+      * - extraOptionsKeys
+        - Properties Name
+        - Extra options/properites available while executing in Big Query.
+      * - extraOptionsValues
+        - Properties Value
+        - Config Values for the Corresponding properites name
 
 
 

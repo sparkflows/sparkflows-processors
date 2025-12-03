@@ -10,6 +10,7 @@
    casewhenmultiple.rst
    concatcolumns.rst
    expressions.rst
+   generateRecordID.rst
    generateuid.rst
    generateUUID.rst
    hash.rst

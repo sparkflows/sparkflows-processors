@@ -35,19 +35,45 @@ Fields
 
 
 Details
--------
-
-
+===============
 Expect Column Values Lengths to Equal
-+++++++++++++++
+---------------
+
 
 Expect the column entries to be strings with length equal to the provided value.
 
+
+
 Keyword Args
-```````````````
++++++++++++++++
+
 
 Column Name: The column name
+
 strftime_format (str): A strftime format string to use for matching
+
 Mostly (None or a float between 0 and 1): Return `success`: True if at least mostly fraction of values match the expectation.
 
 
+Examples
+===============
+Example
+---------------
+
+
+Let's assume we have a column named date_of_birth with values like "1990-12-25", "12/25/1990", and "25-Dec-1990".
+
+
+Configure the Node:
+
+
+Column Name: date_of_birth
+
+Strftime Format: %Y-%m-%d (for the first format)
+
+Mostly: False (all values must match)
+
+Node Execution:
+
+
+The node will flag records with values like "12/25/1990" and "25-Dec-1990" as they don't match the specified format.

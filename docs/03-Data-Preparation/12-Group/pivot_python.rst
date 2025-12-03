@@ -36,7 +36,8 @@ Fields
         - Aggregate Operation to use
         - Aggregate Operations
       * - schema
-        - Schema
+        - InferSchema
+        - 
       * - outputColNames
         - Column Names of the Table
         - Output Columns Names of the Table

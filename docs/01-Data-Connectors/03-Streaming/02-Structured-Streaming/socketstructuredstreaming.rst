@@ -36,7 +36,7 @@ Fields
         - Host to connect to for listening
       * - port
         - Port
-        - Port to connect to 
+        - Port to connect to
 
 
 

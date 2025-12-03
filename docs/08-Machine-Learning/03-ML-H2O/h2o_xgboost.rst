@@ -42,6 +42,9 @@ Fields
       * - seed
         - Seed
         - Seed for pseudo random number generator (if applicable).
+      * - splitRatio
+        - Split Ratio
+        - Split Ratio
       * - nfolds
         - Number of Folds
         - Number of folds for K-fold cross-validation (0 to disable or >= 2).
@@ -104,15 +107,10 @@ Fields
         - Enables or disables generating a sub-column of detailedPredictionCol containing Shapley values.
       * - advanced
         - Advanced
+        - 
       * - convertUnknownCategoricalLevelsToNa
         - Convert Unknown Categorical Levels to NA
         - If set to ‘true’, the model converts unknown categorical levels to NA during making predictions.
-      * - predictionCol
-        - Prediction Column
-        - Prediction column name
-      * - detailedPredictionCol
-        - Detailed Prediction column
-        - Column containing additional prediction details, its content depends on the model type
       * - withLeafNodeAssignments
         - With Node Assignments
         - Enables or disables computation of leaf node assignments.
@@ -154,8 +152,10 @@ Fields
         - Score the model after every so many trees. Disabled if set to 0.
       * - minSplitImprovement
         - Minimum Split Improvement
+        - 
       * - gamma
         - Gamma
+        - 
       * - nthreads
         - Number of Trees
         - Number of parallel threads that can be used to run XGBoost. Cannot exceed H2O cluster limits (-nthreads parameter). Defaults to maximum available.
@@ -233,6 +233,7 @@ Fields
         - Set default multinomial AUC type.
       * - confusionMatrix
         - Confusion Matrix
+        - 
       * - output_confusion_matrix_chart
         - Output Confusion Matrix Chart
         - whether to display confusion matrix chart.
@@ -241,7 +242,7 @@ Fields
         - Title name to display in Confusion Matrix Chart
       * - cm_chart_description
         - Confusion Matrix Chart Description
-        -  Description to display in Confusion Matrix CHart
+        - Description to display in Confusion Matrix CHart
       * - confusionMatrixTargetLegend
         - Confusion Matrix Target Legend
         - Legend name to display for Target in Confusion Matrix
@@ -250,6 +251,7 @@ Fields
         - Legend name to display for Predicted Label in Confusion Matrix
       * - ROC Curve
         - ROC Curve
+        - 
       * - output_roc_curve
         - Output ROC Curve
         - Whether to display confusion matrix chart.
@@ -265,13 +267,45 @@ Fields
       * - ylabel
         - Y Label
         - Y Label
+      * - Grid Search
+        - Grid Search
+        - 
+      * - paramKeys
+        - Param Name
+        - Param Names. eg: maxDepth ,learnRate, nTrees
+      * - paramValues
+        - Param Value
+        - Param Values. eg: 4,5,6
+      * - gridStrategy
+        - Grid Search Strategy
+        - Strategy to use for model hyperparameter search. Cartesian does exhaustive search; RandomDiscrete searches randomly within given time or model limits.
+      * - gridMaxModels
+        - Grid Max Models
+        - Maximum number of models to build in the grid search (0 for unlimited).
+      * - gridMaxRuntimeSecs
+        - Grid Max Runtime Seconds
+        - Maximum runtime in seconds for the grid search (0 for unlimited).
+      * - gridStoppingRounds
+        - Grid Stopping Rounds
+        - Early stopping based on convergence of the metric during grid search (0 to disable).
+      * - gridStoppingTolerance
+        - Grid Stopping Tolerance
+        - Tolerance for metric-based stopping criterion during grid search.
+      * - gridStoppingMetric
+        - Grid Stopping Metric
+        - Metric to use for early stopping during grid search (AUTO: logloss for classification, deviance for regression).
+      * - gridParallelism
+        - Grid Parallelism
+        - Level of parallelism to use when building models in the grid.
+      * - gridSelectBestModelBy
+        - Grid Select Best Model By
+        - Metric used to select the best model from the grid.
 
 
 Details
--------
-
-
+===============
 XGBoost is a supervised learning algorithm that implements a process called boosting to yield accurate models. Boosting refers to the ensemble learning technique of building many models sequentially, with each new model attempting to correct for the deficiencies in the previous model.
+
 
 More details are available at : https://h2o-release.s3.amazonaws.com/h2o/rel-weierstrass/2/docs-website/h2o-docs/data-science/xgboost.html
 

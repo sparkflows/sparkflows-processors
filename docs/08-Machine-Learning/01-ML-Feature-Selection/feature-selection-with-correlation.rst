@@ -36,39 +36,46 @@ Fields
 
 
 Details
--------
+===============
+Feature Selection With Correlation Node Details
+---------------
 
-
- Feature Selection With Correlation Node Details
-+++++++++++++++
 
 This node enables us to discover the possible correlation which can exist between a defined target column and the feature column's.
 
+
+
 Input Parameters
-```````````````
++++++++++++++++
 
-*  OUTPUT STORAGE LEVEL : Keep this as DEFAULT.
-*  TARGETCOL : Select the target variable for which we want to explore the existence of a relationship.
-*  FEATURE COLUMNS : 
 
-  - Available : A list of numeric feature columns derived from the input dataframe schema.
-  - Selected : A list of columns for whom the node will compute correlational values against the TARGETCOL.
+* OUTPUT STORAGE LEVEL : Keep this as DEFAULT.
+* TARGETCOL : Select the target variable for which we want to explore the existence of a relationship.
+* FEATURE COLUMNS :
+* Available : A list of numeric feature columns derived from the input dataframe schema.
+* Selected : A list of columns for whom the node will compute correlational values against the TARGETCOL.
 
 
 Examples
--------
+===============
+Feature Selection With Correlation Node Example
+---------------
 
-
- Feature Selection With Correlation Node Example
-+++++++++++++++
 
 For a given dataframe having the below housing schema:
-price  | bathrms | stories| bedrooms|
-Double | Double  | Double | Double  |
--------------------------------------
 
-We can select the Target Columns as <b>price</b> and explore the correlation which exists between the target column and the feature columns of <b>bathrms</b>, <b>stories</b> and <b>bedrooms</b>.
+::
+
+    price  | bathrms | stories| bedrooms|
+    Double | Double  | Double | Double  |
+    -------------------------------------
+
+
+We can select the Target Columns as **price** and explore the correlation which exists between the target column and the feature columns of **bathrms**, **stories** and **bedrooms**.
+
 
 This will yield two output sections:
-- A Correlation table showing the correlation value between the target column price and the feature columns &
-- Output of the input dataframe in tabular format
+
+
+* A Correlation table showing the correlation value between the target column price and the feature columns &
+* Output of the input dataframe in tabular format

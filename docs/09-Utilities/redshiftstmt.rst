@@ -1,7 +1,7 @@
 ExecuteRedshiftStatement
 =========== 
 
-This node execute the Redshift statement.
+This node executes the Redshift statement.
 
 Type
 --------- 

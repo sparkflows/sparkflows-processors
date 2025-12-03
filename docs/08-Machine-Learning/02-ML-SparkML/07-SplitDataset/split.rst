@@ -34,16 +34,47 @@ Fields
       * - fraction1
         - Fraction 1
         - Fraction to be used for Splitting the DataFrame into two. The first DataFrame would go to the lower edge output. The other would go to the higher edge output.
+      * - seed
+        - Seed
+        - Random number for Reproducibility
 
 
 Details
--------
-
-
+===============
 This node splits the incoming DataFrame into 2. It takes in the fraction to use in splitting the data.
 
+
 For example, if the fraction is .7, it would split the data into 2 DataFrames, one containing 70% of the rows(passed from lower edge id to next node) and the other containing the remaining 30%(passed from higher edge id to next node).
+
 
 The split node can be used for splitting the DataFrame for training and test datasets used in Machine Learning.
 
 
+Examples
+===============
+lets say you pass a table with 5 rows and the fraction .6(60%),the first and second outcomes of the node will give dataframes as follows
+
+
+First
+
+PartID    SupplierID    PartName    
+
+StringType    StringType    StringType    
+
+P9271    S798    Part_D    
+
+P523    S955    Part_K    
+
+P3201    S332    Part_M    
+
+
+
+Second
+
+PartID    SupplierID    PartName    
+
+StringType    StringType    StringType    
+
+P9634    S527    Part_G    
+
+P9345    S850    Part_M

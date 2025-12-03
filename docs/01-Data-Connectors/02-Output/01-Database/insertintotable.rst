@@ -44,13 +44,27 @@ Fields
 
 
 Details
--------
+===============
+Insert Into HIVE Table Node Details
+---------------
 
 
-When using Insert Into Table, the HIVE table has to already exist.
+This node inserts data into a HIVE table.
 
-Otherwise it throws the following exception:
 
-org.apache.spark.sql.catalyst.analysis.NoSuchTableException: Table or view 'xyz' not found in database 'abc';
+When using Insert Into Table, the HIVE table has to already exist, Otherwise it throws the following exception:org.apache.spark.sql.catalyst.analysis.NoSuchTableException: Table or view 'xyz' not found in database 'abc';
+
+
+
+Parameters to be set:
++++++++++++++++
+
+
+* OUTPUT STORAGE LEVEL: Keep this as DEFAULT.
+* HIVE DATABASE: Specify the HIVE database containing the target table.
+* HIVE TABLE: Specify the table within the HIVE database where data will be inserted.
+* SAVE MODE: Choose how to handle existing data in the table (Append, Overwrite, ErrorIfExists, Ignore).
+* PARTITION BY: (Optional) Specify columns to partition the HIVE table.
+* BUCKET BY: (Optional) Specify columns to bucket the HIVE table.
 
 

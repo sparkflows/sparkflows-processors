@@ -26,9 +26,12 @@ Fields
       * - connection
         - Connection
         - The Incorta connection to connect
-      * - dbtable
-        - DB Table
-        - database and table name
+      * - table
+        - Table
+        - Incorta Table from which to read the data
+      * - schema
+        - InferSchema
+        - 
       * - outputColNames
         - Column Names of the Table
         - Output Columns Names of the Table

@@ -36,6 +36,9 @@ Fields
       * - pcaImpl
         - PCA Implementation
         - Specify the implementation to use for computing PCA (via SVD or EVD): MTJ_EVD_DENSEMATRIX - eigenvalue decompositions for dense matrix using MTJ; MTJ_EVD_SYMMMATRIX - eigenvalue decompositions for symmetric matrix using MTJ; MTJ_SVD_DENSEMATRIX - singular-value decompositions for dense matrix using MTJ; JAMA - eigenvalue decompositions for dense matrix using JAMA. References: JAMA - http://math.nist.gov/javanumerics/jama/; MTJ - https://github.com/fommil/matrix-toolkits-java/.
+      * - splitRatio
+        - Split Ratio
+        - Split Ratio
       * - k
         - K
         - Rank of matrix approximation.
@@ -72,10 +75,9 @@ Fields
 
 
 Details
--------
-
-
+===============
 Principal Components Analysis (PCA) is closely related to Principal Components Regression. The algorithm is carried out on a set of possibly collinear features and performs a transformation to produce a new set of uncorrelated features.
+
 
 More details are available at : http://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science/pca.html
 

@@ -37,11 +37,34 @@ Fields
 
 
 Details
--------
-
-
+===============
 This Node creates a DataFrame by reading data from HDFS, HIVE etc.
+
 
 The data has been defined earlier in Fire by using the Dataset Feature. As a user, you just have to select the Dataset of your interest.
 
 
+Examples
+===============
+Dataset Structured Node Example
+---------------
+
+
+Scenario:
+
+
+Let's say you have multiple datasets available in your workflow and you want to select one of them as input for the next node. You can use the Dataset Structured node to choose the desired dataset.
+
+
+Configuration:
+
+
+1. **Output Storage Level:** Select the desired storage level for the output DataFrame.
+
+2. **Dataset:** Choose the dataset from the dropdown list.
+
+
+Output:
+
+
+The node will output the selected dataset as a DataFrame.

@@ -33,7 +33,7 @@ Fields
         - Description
       * - authType
         - Auth Type
-        - Authentication Type. Possible value is OAUTH or USER_CREDENTIAL
+        - Authentication Type. Possible value is OAUTH or USER_CREDENTIAL or KEYPAIR
       * - connection
         - Connection
         - The Snowflake connection to connect
@@ -49,51 +49,69 @@ Fields
       * - dbtable
         - Snowflake Table
         - Snowflake Table from which to write the data
+      * - columnMapping
+        - Column Mapping
+        - The connector must map columns from the Spark data frame to the Snowflake table
       * - saveMode
         - Save Mode
         - Whether to Append, Overwrite or Error if the table Exists
+      * - properties
+        - Properties
+        - 
+      * - extraOptionsKeys
+        - Properties Name
+        - Extra options/properites available while executing in WriteToSnowFlake.
+      * - extraOptionsValues
+        - Properties Value
+        - Config Values for the Corresponding properites name
 
 
 Details
--------
+===============
+Write To Snowflake Node Details
+---------------
 
-
- Write To Snowflake Node Details
-+++++++++++++++
 
 This node saves the rows of the incoming dataframe into the specified table in Snowflake.
 
- Parameters to be set:
-```````````````
 
-*  OUTPUT STORAGE LEVEL : Keep this as DEFAULT.
-*  CONNECTION : Select the desired snowflake connection to be used.
-*  SNOWFLAKE WAREHOUSE : Specify the virtual warehouse to use for the connection.
-*  SNOWFLAKE DATABASE : Specify the database to use once connected.
-*  SNOWFLAKE SCHEMA : Specify the schema to use for the specified database once connected.
-*  SNOWFLAKE TABLE : Specify the table from which data is to be read.
-*  SAVE MODE : Select the mode of operation on the table. 
+
+Parameters to be set:
++++++++++++++++
+
+
+* OUTPUT STORAGE LEVEL : Keep this as DEFAULT.
+* CONNECTION : Select the desired snowflake connection to be used.
+* SNOWFLAKE WAREHOUSE : Specify the virtual warehouse to use for the connection.
+* SNOWFLAKE DATABASE : Specify the database to use once connected.
+* SNOWFLAKE SCHEMA : Specify the schema to use for the specified database once connected.
+* SNOWFLAKE TABLE : Specify the table from which data is to be read.
+* SAVE MODE : Select the mode of operation on the table.
 
 Append: If data/table already exists, contents of the table are to be appended to existing data. 
+
 Overwrite: If table already exists, existing data is overwritten by the new content. 
+
 ErrorIfExists: If data already exists, an exception is thrown and operation stops.
+
 Ignore: If table already exists, the save operation is ignored.
 
 
 Examples
--------
+===============
+Write To Snowflake Node Examples
+---------------
 
 
- Write To Snowflake Node Examples
+
+The below example will save the input dataframe to the `CUST_BASIC_LA` table.
 +++++++++++++++
 
- The below example will save the input dataframe to the `CUST_BASIC_LA` table.
-```````````````
 
 
-*  CONNECTION : SNOWFLAKE_DEV_ENV_NCUS
-*  SNOWFLAKE WAREHOUSE : SNOWFLAKE_BI_VWH
-*  SNOWFLAKE DATABASE : CUSTOMER_SALES_NCUS
-*  SNOWFLAKE SCHEMA : INT_NA_CUSTSALES
-*  SNOWFLAKE TABLE : CUST_BASIC_LA
-*  SAVE MODE : Overwrite
+* CONNECTION : SNOWFLAKE_DEV_ENV_NCUS
+* SNOWFLAKE WAREHOUSE : SNOWFLAKE_BI_VWH
+* SNOWFLAKE DATABASE : CUSTOMER_SALES_NCUS
+* SNOWFLAKE SCHEMA : INT_NA_CUSTSALES
+* SNOWFLAKE TABLE : CUST_BASIC_LA
+* SAVE MODE : Overwrite

@@ -61,36 +61,47 @@ Fields
 
 
 Details
--------
-
-
+===============
 A Gaussian Mixture Model represents a composite distribution whereby points are drawn from one of k Gaussian sub-distributions, each with its own probability. The spark.ml implementation uses the expectation-maximization algorithm to induce the maximum-likelihood model given a set of samples.
+
 
 GaussianMixture is implemented as an Estimator and generates a GaussianMixtureModel as the base model.
 
+
 More details are available at Apache Spark ML docs page:
+
 
 https://spark.apache.org/docs/latest/ml-clustering.html#gaussian-mixture-model-gmm
 
 
 Examples
--------
-
-
+===============
 Below example is available at : https://spark.apache.org/docs/latest/ml-clustering.html#gaussian-mixture-model-gmm
+
 
 import org.apache.spark.ml.clustering.GaussianMixture
 
+
 // Loads data
+
 val dataset = spark.read.format("libsvm").load("data/mllib/sample_kmeans_data.txt")
 
+
 // Trains Gaussian Mixture Model
+
 val gmm = new GaussianMixture()
+
   .setK(2)
+
 val model = gmm.fit(dataset)
 
+
 // output parameters of mixture model model
+
 for (i <- 0 until model.getK) {
-  println(s"Gaussian $i:\nweight=${model.weights(i)}\n" +
-      s"mu=${model.gaussians(i).mean}\nsigma=\n${model.gaussians(i).cov}\n")
+
+  println(s"Gaussian $i:\\nweight=${model.weights(i)}\\n" +
+
+      s"mu=${model.gaussians(i).mean}\\nsigma=\\n${model.gaussians(i).cov}\\n")
+
 }

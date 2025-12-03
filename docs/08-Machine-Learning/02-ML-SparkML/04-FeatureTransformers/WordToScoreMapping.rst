@@ -1,7 +1,7 @@
 Word To Score Mapping
 =========== 
 
-Map the original word of hashValue to score.
+It maps the original word of hashValue to score.
 
 Type
 --------- 

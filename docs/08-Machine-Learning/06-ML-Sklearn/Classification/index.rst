@@ -7,3 +7,4 @@ Classification
    gradient-boosting-classifier.rst
    logistic-regression.rst
    random-forest-classifier.rst
+   xgboost-classifier.rst

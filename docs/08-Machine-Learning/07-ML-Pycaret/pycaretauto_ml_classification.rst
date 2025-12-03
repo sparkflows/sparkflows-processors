@@ -85,7 +85,7 @@ Fields
         - Defines the method for transformation.
       * - handle_unknown_categorical
         - Handle Unknown Categorical
-        - When set to True, unknown categorical levels in unseen data are replaced by the most or least frequent level as learned in the training dataset. 
+        - When set to True, unknown categorical levels in unseen data are replaced by the most or least frequent level as learned in the training dataset.
       * - unknown_categorical_method
         - Unknown Categorical Method
         - Method used to replace unknown categorical levels in unseen data.
@@ -109,10 +109,10 @@ Fields
         - When set to True, outliers from the training data are removed using the Singular Value Decomposition.
       * - outliers_threshold
         - Outliers Threshold
-        - The percentage outliers to be removed from the training dataset. Ignored when  ``remove outliers`` is not True.
+        - The percentage outliers to be removed from the training dataset. Ignored when ``remove outliers`` is not True.
       * - remove_multicollinearity
         - Remove Multicollinearity
-        - When set to True, features with the inter-correlations higher than the defined threshold are removed. When two features are highly correlated with each other,  the feature that is less correlated with the target variable is removed. Only considers numeric features.
+        - When set to True, features with the inter-correlations higher than the defined threshold are removed. When two features are highly correlated with each other, the feature that is less correlated with the target variable is removed. Only considers numeric features.
       * - multicollinearity_threshold
         - Multicollinearity Threshold
         - Threshold for correlated features. Ignored when ``remove multicollinearity`` is not True.

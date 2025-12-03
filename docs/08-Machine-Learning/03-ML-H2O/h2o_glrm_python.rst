@@ -39,6 +39,9 @@ Fields
       * - columnsToCategorical
         - Columns to Categorical
         - Columns to be Categorical encoded
+      * - splitRatio
+        - Split Ratio
+        - Split Ratio
       * - loss
         - Loss
         - Numeric loss function
@@ -47,7 +50,7 @@ Fields
         - Categorical loss function
       * - period
         - Period
-        - SLength of period (only used with periodic loss function). 
+        - SLength of period (only used with periodic loss function).
       * - regularizationX
         - Regularization X
         - Regularization function for X matrix
@@ -83,7 +86,7 @@ Fields
         - STransformation of training data
       * - loadingName
         - Loading Name
-        - [Deprecated] Use representation_name instead.  Frame key to save resulting X.
+        - [Deprecated] Use representation_name instead. Frame key to save resulting X.
       * - representationName
         - Representation Name
         - SFrame key to save resulting X.
@@ -114,10 +117,9 @@ Fields
 
 
 Details
--------
-
-
+===============
 Generalized Low Rank Models (GLRM) is an algorithm for dimensionality reduction of a dataset. It is a general, parallelized optimization algorithm that applies to a variety of loss and regularization functions. Categorical columns are handled by expansion into 0/1 indicator columns for each level. With this approach, GLRM is useful for reconstructing missing values and identifying important features in heterogeneous data.
+
 
 More details are available at : http://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science/glrm.html
 

@@ -32,6 +32,9 @@ Fields
       * - height
         - Height
         - Height of note
+      * - pushedToBack
+        - PushedToBack
+        - Changing z-index to push the note to back
       * - comment
         - Comment
         - Comments for the Workflow

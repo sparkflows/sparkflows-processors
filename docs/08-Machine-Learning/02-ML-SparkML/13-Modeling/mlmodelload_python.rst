@@ -21,8 +21,12 @@ Fields
       * - Name
         - Title
         - Description
+      * - selectChampionModel
+        - Use Champion Model
+        - Uses Champion Model For Prediction.
       * - path
-        - Path
+        - Path To Load SparkML model
+        - 
       * - modelType
         - Model Type
         - Type of ML model to load

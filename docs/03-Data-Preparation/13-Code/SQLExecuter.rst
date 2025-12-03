@@ -52,9 +52,38 @@ Fields
 
 
 Details
--------
+===============
+SQL Executor Node
+---------------
 
 
-This node allows the user to run the SQL query of any statement type i.e DDL, DML, STORED PROCEDURE, FUNCTION.
+This node executes a specified SQL query against a database. The results of the query are returned as a DataFrame.
 
 
+Examples
+===============
+SQL Executor Node Example
+---------------
+
+
+Given a database table named customers with the following schema:
+
+
+Column Name    Data Type
+
+customer_id    INT
+
+customer_name    STRING
+
+customer_email    STRING
+
+
+To retrieve all customers with the email domain example.com, you can use the following SQL query in the SQL Executor node:
+
+
+SQL
+
+SELECT * FROM customers WHERE customer_email LIKE '%@example.com';
+
+
+The output of this query would be a DataFrame containing the selected customer information.

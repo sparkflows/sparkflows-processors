@@ -1,11 +1,11 @@
 Multi Input To Multi Output PySpark
 =========== 
 
-This node runs any given PySpark code. The input dataframes is passed in the variable inDFs. The output array of dataframes is passed back by registering each dataframe as a temporary table.
+This node runs any given PySpark code. The input dataframe is passed in the variable inDFs. The output array of dataframes is passed back by registering each dataframe as a temporary table.
 
 Input
 --------------
-The input dataframes is passed in the variable inDFs.
+The input dataframe is passed in the variable inDFs.
 
 Output
 --------------
@@ -33,9 +33,10 @@ Fields
         - Description
       * - code
         - PySpark
-        - PySpark code to be run. Input dataframe : "inDF", SparkContext : "sc", SQLContext : "sqlContext",  Output/Result dataframe should be registered as a temporary table - df.registerTempTable("outDF")
+        - PySpark code to be run. Input dataframe : "inDF", SparkContext : "sc", SQLContext : "sqlContext", Output/Result dataframe should be registered as a temporary table - df.registerTempTable("outDF")
       * - schema
-        - Schema
+        - InferSchema
+        - 
       * - outputColNames
         - Column Names for the CSV
         - New Output Columns of the SQL
@@ -48,11 +49,10 @@ Fields
 
 
 Details
--------
-
-
+===============
 Details
-+++++++++++++++
+---------------
+
 
 This node takes an array of Dataframes as input. It also returns an array of Dataframes as the output result.
 

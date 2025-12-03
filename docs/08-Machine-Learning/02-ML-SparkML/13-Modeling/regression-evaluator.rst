@@ -37,15 +37,18 @@ Fields
       * - predictionCol
         - Prediction Column
         - The prediction column.
+      * - modelUUID
+        - Model UUID
+        - Enter the model uuid
 
 
 Details
--------
-
-
+===============
 Evaluator for regression, which expects two input columns: prediction and label.
 
+
 More details are available at Apache Spark ML docs page:
+
 
 https://spark.apache.org/docs/latest/api/java/org/apache/spark/ml/evaluation/RegressionEvaluator.html
 

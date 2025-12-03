@@ -87,3 +87,54 @@ Fields
 
 
 
+Examples
+===============
+Prophet Node Examples
+---------------
+
+
+Example 1: Predicting Product Demand
+
+
+Input Schema:
+
+DS Column: "Date" (e.g., daily timestamps)
+
+Y: "Demand" (e.g., the number of products sold daily)
+
+Other relevant columns are ignored in this configuration.
+
+Configuration:
+
+Growth: linear
+
+Yearly Seasonality: auto
+
+Weekly Seasonality: auto
+
+Seasonality Mode: additive
+
+Output:
+
+Forecasted demand values with confidence intervals for future dates.
+
+Example 2: Forecasting Revenue Growth
+
+
+Input Schema:
+
+DS Column: "Month" (e.g., monthly timestamps)
+
+Y: "Revenue" (e.g., total revenue per month)
+
+Configuration:
+
+Growth: logistic
+
+Specify upper limit for growth as a model parameter.
+
+Enable Yearly Seasonality for capturing annual patterns.
+
+Output:
+
+Predicted revenue growth with changepoints indicating shifts in trends.

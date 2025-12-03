@@ -32,5 +32,28 @@ Fields
         - Number of Partitions
 
 
+Details
+===============
+Repartition Node
 
 
+Overview:
+
+
+This node is used to repartition a DataFrame, which involves distributing the data across multiple partitions for improved performance and parallel processing.
+
+
+Configuration:
+
+
+1. Number of Partitions: Specifies the desired number of partitions.
+
+2. Output Storage Level: Sets the storage level for the repartitioned DataFrame.
+
+
+Examples
+===============
+Example:
+
+
+If you have a DataFrame with 1000 rows and you set the number of partitions to 10, the node will distribute the data evenly across 10 partitions. This can significantly improve performance for operations like joins, aggregations, and sorting.

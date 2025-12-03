@@ -37,6 +37,9 @@ Fields
       * - numFeatures
         - NumFeatures
         - Number of features in feature column
+      * - schema
+        - InferSchema
+        - 
       * - outputColNames
         - Column Names for the CSV
         - New Output Columns of the SQL

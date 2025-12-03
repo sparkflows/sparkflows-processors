@@ -4,6 +4,7 @@
 .. toctree::
    :maxdepth: 2
 
+   databricks_scala.rst
    jython.rst
    multi_input_pyspark.rst
    multiinput_to_multioutput_pyspark.rst

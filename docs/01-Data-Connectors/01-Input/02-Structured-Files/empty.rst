@@ -34,9 +34,7 @@ Fields
 
 
 Details
--------
-
-
+===============
 This node creates an empty DataFrame.
 
 

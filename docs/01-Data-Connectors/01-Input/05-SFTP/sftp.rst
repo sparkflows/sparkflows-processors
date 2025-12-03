@@ -31,7 +31,7 @@ Fields
         - User directory path (File take from)
       * - targetLocation
         - Target Path
-        - S3 Path to upload data.
+        - Path to upload data.
 
 
 

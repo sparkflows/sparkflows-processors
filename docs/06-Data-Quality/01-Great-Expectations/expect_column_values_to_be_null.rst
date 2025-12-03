@@ -32,54 +32,73 @@ Fields
 
 
 Details
--------
-
-
+===============
 Expect Column Values To Be Null Details
-+++++++++++++++
+---------------
+
 
 Expect the column values to be null.
 
+
+
 Keyword Args
-```````````````
++++++++++++++++
+
 
 Column Name: The column name
+
 Mostly (None or a float between 0 and 1): Return `success`: True if at least mostly fraction of values match the expectation.
 
 
 Examples
--------
-
-
+===============
 Example
-+++++++++++++++
+---------------
+
+
 
 Incoming Dataframe
-```````````````
++++++++++++++++
+
 
 In this example we have considered a Incoming Dataframe with following rows:
 
-EMP_CD    |    DEPT        |
---------------------------------------
-E01       |                |
-E02       |                |
-E03       |                |
-E04       |                |
+
+::
+
+    EMP_CD    |    DEPT        |
+    --------------------------------------
+    E01       |                |
+    E02       |                |
+    E03       |                |
+    E04       |                |
+
+
 
 Configuration #1
-```````````````
++++++++++++++++
 
-Column Name   | Mostly  |
--------------------------
-EMP_CD        |         |
+
+::
+
+    Column Name   | Mostly  |
+    -------------------------
+    EMP_CD        |         |
+
 
 The above setup would result in a status of `success: false` as the condition is not satisfied.
 
-Configuration #2
-```````````````
 
-Column Name   | Mostly  |
--------------------------
-DEPT        |   0.9     |
+
+Configuration #2
++++++++++++++++
+
+
+::
+
+    Column Name   | Mostly  |
+    -------------------------
+    DEPT        |   0.9     |
+
 
 The above setup would result in a status of `success: true` as the condition is satisfied.

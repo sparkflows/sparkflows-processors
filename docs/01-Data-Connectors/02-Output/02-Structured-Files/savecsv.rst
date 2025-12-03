@@ -43,15 +43,33 @@ Fields
         - Sets a single character used for escaping quotes inside an already quoted value.
       * - advanced
         - Advanced
+        - 
       * - partitionColNames
         - Partition Column Names
         - Partition Column Names
+      * - enableDownloadLink
+        - Enable Download Link
+        - Generate download links for the saved CSV files
+      * - fileName
+        - File Name To Download
+        - Enter the FileName
+      * - saveAsOneFile
+        - Save as One File
+        - Save the output as a single CSV file using coalesce
 
 
 Details
--------
-
-
+===============
 This node saves incoming Dataframe into the specified location in CSV format.
 
 
+Examples
+===============
+path-folder1/folder2/filename
+
+
+the file will be saved under the file name at the path provided
+
+if folder is not present it will be created and save the file
+
+if the file already exists selection in save mode determines what happens to the file,append-adds the file data to it overwrite-replaces the file altogether

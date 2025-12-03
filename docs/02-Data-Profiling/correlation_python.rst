@@ -33,19 +33,19 @@ Fields
         - Description
       * - title
         - Title
+        - 
       * - inputCols
         - Input Column for Correlation
-        - Column Names to check correlation 
+        - Column Names to check correlation
       * - handleInvalid
         - Handle invalid pairs
         - Handle invalid pairs.
 
 
 Details
--------
-
-
+===============
 This node calculates the correlation between two series of data in a common operation in Statistics.
+
 
 More at Spark MLlib/ML docs page : http://spark.apache.org/docs/latest/mllib-statistics.html#correlations
 

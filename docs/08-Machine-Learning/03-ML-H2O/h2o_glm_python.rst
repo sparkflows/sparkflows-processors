@@ -36,9 +36,9 @@ Fields
       * - featuresCols
         - Feature Columns
         - Features to be used for Modelling
-      * - path
-        - Path
-        - Save Confusion Matrix to Path
+      * - splitRatio
+        - Split Ratio
+        - Split Ratio
       * - columnsToCategorical
         - Columns to Categorical
         - Columns to be Categorical encoded
@@ -48,9 +48,6 @@ Fields
       * - balanceClasses
         - Balance Classes
         - Balance training data class counts via over/under-sampling (for imbalanced data).
-      * - splitRatio
-        - Split Ratio
-        - Split Ratio
       * - nfolds
         - Number of Folds
         - Number of folds for K-fold cross-validation (0 to disable or >= 2).
@@ -71,7 +68,7 @@ Fields
         - In case of linearly dependent columns, remove some of the dependent columns.
       * - family
         - Family
-        - Family. Use binomial for classification with logistic regression, others are for regression problems. 
+        - Family. Use binomial for classification with logistic regression, others are for regression problems.
       * - ignoreConstCols
         - Ignore Const Columns
         - Ignore constant columns.
@@ -93,11 +90,9 @@ Fields
       * - gainsliftBins
         - Gains Lift Bins
         - Gains/Lift table number of bins. 0 means disabled.. Default value -1 means automatic binning.
-      * - withContributions
-        - With Contributions
-        - Enables or disables generating a sub-column of detailedPredictionCol containing Shapley values.
       * - advanced
         - Advanced
+        - 
       * - convertUnknownCategoricalLevelsToNa
         - Convert Unknown Categorical Levels to NA
         - If set to ‘true’, the model converts unknown categorical levels to NA during making predictions.
@@ -107,12 +102,6 @@ Fields
       * - intercept
         - Intercept
         - Include constant term in the model.
-      * - predictionCol
-        - Prediction Column
-        - Prediction column name
-      * - detailedPredictionCol
-        - Detailed Prediction column
-        - Column containing additional prediction details, its content depends on the model type
       * - withLeafNodeAssignments
         - With Node Assignments
         - Enables or disables computation of leaf node assignments.
@@ -136,7 +125,7 @@ Fields
         - Score Iteration Interval
       * - coldStart
         - Cold Start
-        - Only applicable to multiple alpha/lambda values.  If false, build the next model for next set of alpha/lambda values starting from the values provided by current model.  If true will start GLM model from scratch.
+        - Only applicable to multiple alpha/lambda values. If false, build the next model for next set of alpha/lambda values starting from the values provided by current model. If true will start GLM model from scratch.
       * - missingValuesHandling
         - Missing Values Handling
         - Handling of missing values.
@@ -145,13 +134,13 @@ Fields
         - Restrict coefficients (not intercept) to be non-negative.
       * - betaEpsilon
         - Beta Epsilon
-        - Converge if  beta changes less (using L-infinity norm) than beta esilon, ONLY applies to IRLSM solver .
+        - Converge if beta changes less (using L-infinity norm) than beta esilon, ONLY applies to IRLSM solver .
       * - objectiveEpsilon
         - Objective Epsilon
-        - SConverge if  objective value changes less than this. Default (of -1.0) indicates: If lambda_search is set to True the value of objective_epsilon is set to .0001. If the lambda_search is set to False and lambda is equal to zero, the value of objective_epsilon is set to .000001, for any other value of lambda the default value of objective_epsilon is set to .0001.
+        - SConverge if objective value changes less than this. Default (of -1.0) indicates: If lambda_search is set to True the value of objective_epsilon is set to .0001. If the lambda_search is set to False and lambda is equal to zero, the value of objective_epsilon is set to .000001, for any other value of lambda the default value of objective_epsilon is set to .0001.
       * - gradientEpsilon
         - Gradient Epsilon
-        - SConverge if  objective changes less (using L-infinity norm) than this, ONLY applies to L-BFGS solver. Default (of -1.0) indicates: If lambda_search is set to False and lambda is equal to zero, the default value of gradient_epsilon is equal to .000001, otherwise the default value is .0001. If lambda_search is set to True, the conditional values above are 1E-8 and 1E-6 respectively.
+        - SConverge if objective changes less (using L-infinity norm) than this, ONLY applies to L-BFGS solver. Default (of -1.0) indicates: If lambda_search is set to False and lambda is equal to zero, the default value of gradient_epsilon is equal to .000001, otherwise the default value is .0001. If lambda_search is set to True, the conditional values above are 1E-8 and 1E-6 respectively.
       * - objReg
         - Objective Regularizer
         - Likelihood divider in objective value computation, default (of -1.0) will set it to 1/nobs.
@@ -163,7 +152,7 @@ Fields
         - if true, will return likelihood function value for HGLM.
       * - HGLM
         - HGLM
-        - If set to true, will return HGLM model.  Otherwise, normal GLM model will be returned.
+        - If set to true, will return HGLM model. Otherwise, normal GLM model will be returned.
       * - prior
         - Prior
         - SPrior probability for y==1. To be used only for logistic regression iff the data has been sampled and the mean of response does not reflect reality.
@@ -184,7 +173,7 @@ Fields
         - Request p-values computation, p-values work only with IRLSM solver and no regularization.
       * - generateScoringHistory
         - Generate Scoring History
-        - If set to true, will generate scoring history for GLM.  This may significantly slow down the algo.
+        - If set to true, will generate scoring history for GLM. This may significantly slow down the algo.
       * - keepCrossValidationModels
         - Keep Cross Validation Models
         - Whether to keep the cross-validated models. Keeping cross-validation models may consume significantly more memory in the H2O cluster.
@@ -211,6 +200,7 @@ Fields
         - Set default multinomial AUC type.
       * - confusionMatrix
         - Confusion Matrix
+        - 
       * - output_confusion_matrix_chart
         - Output Confusion Matrix Chart
         - whether to display confusion matrix chart.
@@ -219,7 +209,7 @@ Fields
         - Title name to display in Confusion Matrix Chart
       * - cm_chart_description
         - Confusion Matrix Chart Description
-        -  Description to display in Confusion Matrix CHart
+        - Description to display in Confusion Matrix CHart
       * - confusionMatrixTargetLegend
         - Confusion Matrix Target Legend
         - Legend name to display for Target in Confusion Matrix
@@ -229,13 +219,18 @@ Fields
       * - confusionMatrixCountLegend
         - Confusion Matrix Count Legend
         - Legend name to display for Count in Confusion Matrix
+      * - path
+        - Save Confusion Matrix Path
+        - Save Confusion Matrix to Path
       * - Description
         - Confusion Matrix Description
+        - 
       * - confusionMatrixRowDescription
         - Confusion Matrix Outcome description
         - One can provide the business details of the outcome of the confusion matrix rows
       * - ROC Curve
         - ROC Curve
+        - 
       * - output_roc_curve
         - Output ROC Curve
         - whether to display confusion matrix chart.
@@ -251,14 +246,102 @@ Fields
       * - ylabel
         - Y Label
         - Y Label
+      * - Grid Search
+        - Grid Search
+        - 
+      * - paramKeys
+        - Param Name
+        - Param Names. eg: maxDepth ,learnRate, nTrees,distribution
+      * - paramValues
+        - Param Value
+        - Enter comma separated values.eg: 4,5,6, eg: gaussian, gamma, bernoulli
+      * - gridStrategy
+        - Grid Search Strategy
+        - Strategy to use for model hyperparameter search. Cartesian does exhaustive search; RandomDiscrete searches randomly within given time or model limits.
+      * - gridMaxModels
+        - Grid Max Models
+        - Maximum number of models to build in the grid search (0 for unlimited).
+      * - gridMaxRuntimeSecs
+        - Grid Max Runtime Seconds
+        - Maximum runtime in seconds for the grid search (0 for unlimited).
+      * - gridStoppingRounds
+        - Grid Stopping Rounds
+        - Early stopping based on convergence of the metric during grid search (0 to disable).
+      * - gridStoppingTolerance
+        - Grid Stopping Tolerance
+        - Tolerance for metric-based stopping criterion during grid search.
+      * - gridStoppingMetric
+        - Grid Stopping Metric
+        - Metric to use for early stopping during grid search (AUTO: logloss for classification, deviance for regression).
+      * - gridParallelism
+        - Grid Parallelism
+        - Level of parallelism to use when building models in the grid.
+      * - gridSelectBestModelBy
+        - Grid Select Best Model By
+        - Metric used to select the best model from the grid.
 
 
 Details
--------
-
-
+===============
 Generalized Linear Models (GLM) estimate regression models for outcomes following exponential distributions. In addition to the Gaussian (i.e. normal) distribution, these include Poisson, binomial, and gamma distributions. Each serves a different purpose, and depending on distribution and link function choice, can be used either for prediction or classification.
+
 
 More details are available at : http://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science/glm.html
 
 
+Examples
+===============
+H2O Generalized Linear Models Node Examples
+---------------
+
+
+Example 1: Binary Classification
+
+Configuration:
+
+IS RESPONSE COLUMN CATEGORICAL: true
+
+LABEL COLUMN: Churn
+
+FEATURE COLUMNS: Age, Income, AccountBalance, Tenure
+
+Dataset:
+
+Input DataFrame:
+
+
+Age    Income    AccountBalance    Tenure    Churn
+
+25    30000    5000    2    0
+
+45    60000    12000    5    1
+
+Outcome:
+
+The node trains a binary classification model to predict whether a customer will churn.
+
+
+Example 2: Regression
+
+Configuration:
+
+IS RESPONSE COLUMN CATEGORICAL: false
+
+LABEL COLUMN: HousePrice
+
+FEATURE COLUMNS: SquareFeet, Bedrooms, Bathrooms, YearBuilt
+
+Dataset:
+
+Input DataFrame:
+
+
+SquareFeet    Bedrooms    Bathrooms    YearBuilt    HousePrice
+
+2000          3            2            2005        450000
+
+1500          2            1            1995        300000
+
+Outcome:
+
+The node trains a regression model to predict house prices based on the features provided.

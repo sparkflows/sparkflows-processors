@@ -18,3 +18,4 @@ PreProcessing
    standard_scalar.rst
    standard_scalar_transform.rst
    standardscaler_inverse_transform.rst
+   tfidf.rst

@@ -47,9 +47,7 @@ Fields
 
 
 Details
--------
-
-
+===============
 This node reads data from Salesforce.
 
 

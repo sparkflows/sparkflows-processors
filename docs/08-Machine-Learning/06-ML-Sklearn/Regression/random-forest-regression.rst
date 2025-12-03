@@ -29,6 +29,9 @@ Fields
       * - featureCols
         - Feature Columns
         - Feature columns of type - all numeric, boolean and vector
+      * - splitRatio
+        - Split Ratio
+        - Split Ratio
       * - n_estimators
         - Number of Estimators
         - Specifies the number of trees in the forest.
@@ -56,9 +59,6 @@ Fields
       * - min_impurity_decrease
         - Min Impurity Decrease
         - A threshold for early stopping in tree growth. A node will split if its impurity is above the threshold, otherwise it is a leaf.
-      * - min_impurity_split
-        - Min Impurity Split
-        - Threshold for early stopping in tree growth, a node will split if its impurity is above the threshold.
       * - bootstrap
         - Bootstrap
         - Whether bootstrap samples are used when building trees.
@@ -74,9 +74,7 @@ Fields
 
 
 Details
--------
-
-
+===============
 More details are available at : https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html
 
 

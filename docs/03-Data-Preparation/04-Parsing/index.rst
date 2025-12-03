@@ -11,4 +11,5 @@
    ocrtesseract.rst
    paragraphsplitter.rst
    parsejsoncol.rst
+   parsexmlcol.rst
    regextokenizer.rst

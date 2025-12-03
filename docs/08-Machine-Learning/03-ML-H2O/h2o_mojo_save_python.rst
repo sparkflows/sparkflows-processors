@@ -33,10 +33,20 @@ Fields
         - Description
       * - path
         - Path
+        - 
       * - fixedPath
         - Static path
         - Set this to true if you want model to be saved in a static path. It will overwrite the model in the directory specified.
 
 
+Details
+===============
+this node saves the tained H2O model in the file system to be used in the future
 
 
+Examples
+===============
+path-folder1/folder2/ModelFileName
+
+
+the trained model will be saved to the given path,any folder not present will be created and exisiting model in the folder of the will be replaced

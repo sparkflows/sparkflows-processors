@@ -39,3 +39,46 @@ Fields
 
 
 
+Examples
+===============
+Prophet Cross Validator Node Examples
+---------------
+
+
+Example 1: Evaluating Forecast Accuracy for Demand
+
+
+Input Schema:
+
+Time-series data with columns such as "Date" and "Demand".
+
+Configuration:
+
+Horizon: "30 days" (e.g., evaluating forecasts for the next 30 days).
+
+Period: "15 days" (e.g., cutoffs occur every 15 days).
+
+Initial: "90 days" (e.g., initial training period covers 90 days).
+
+Output:
+
+Metrics such as Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE) for each fold of the cross-validation.
+
+Example 2: Cross-Validation for Monthly Revenue Prediction
+
+
+Input Schema:
+
+Time-series data with columns "Month" and "Revenue".
+
+Configuration:
+
+Horizon: "3 months".
+
+Period: "1 month".
+
+Initial: "12 months".
+
+Output:
+
+Forecast error metrics aggregated across all cutoff points.

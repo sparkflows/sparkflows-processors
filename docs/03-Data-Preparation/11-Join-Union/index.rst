@@ -4,10 +4,12 @@
 .. toctree::
    :maxdepth: 2
 
-   geojoin.rst
+   appendfields.rst
    joinoncolumns.rst
    joinoncommoncolumn.rst
    joinoncommoncolumns.rst
    joinusingsql.rst
+   nodejoin.rst
+   unionadvanced.rst
    unionall.rst
    uniondistinct.rst

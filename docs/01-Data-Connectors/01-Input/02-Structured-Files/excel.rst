@@ -32,6 +32,15 @@ Fields
       * - header
         - Header
         - Does the file have a header row
+      * - schema
+        - InferSchema
+        - 
+      * - boxConnection
+        - Box Connection
+        - 
+      * - accessToken
+        - Access Token
+        - 
       * - outputColNames
         - Column Names for the Excel
         - New Output Columns of the SQL
@@ -44,9 +53,7 @@ Fields
 
 
 Details
--------
-
-
+===============
 This node reads data from Excel files.
 
 

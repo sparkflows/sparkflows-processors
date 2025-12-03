@@ -29,6 +29,9 @@ Fields
       * - featureCols
         - Feature Columns
         - Feature columns of type - all numeric, boolean and vector
+      * - splitRatio
+        - Split Ratio
+        - Split Ratio
       * - penalty
         - Penalty
         - The norm used in the penalization.
@@ -68,11 +71,9 @@ Fields
       * - warm_start
         - WarmStart
         - When set to True, reuse the solution of the previous call to fit as initialization.
-      * - path
-        - Save Confusion Matrix Path
-        - Save Confusion Matrix
       * - confusionMatrix
         - Confusion Matrix
+        - 
       * - output_confusion_matrix_chart
         - Output Confusion Matrix Chart
         - whether to display confusion matrix chart.
@@ -81,7 +82,7 @@ Fields
         - Title name to display in Confusion Matrix Chart
       * - cm_chart_description
         - Confusion Matrix Chart Description
-        -  Description to display in Confusion Matrix CHart
+        - Description to display in Confusion Matrix CHart
       * - confusionMatrixTargetLegend
         - Confusion Matrix Target Legend
         - Legend name to display for Target in Confusion Matrix
@@ -91,13 +92,18 @@ Fields
       * - confusionMatrixCountLegend
         - Confusion Matrix Count Legend
         - Legend name to display for Count in Confusion Matrix
+      * - path
+        - Save Confusion Matrix Path
+        - Save Confusion Matrix
       * - Description
         - Confusion Matrix Description
+        - 
       * - confusionMatrixRowDescription
         - Confusion Matrix Outcome description
         - One can provide the business details of the outcome of the confusion matrix rows
       * - ROC Curve
         - ROC Curve
+        - 
       * - output_roc_curve
         - Output ROC Curve
         - whether to display confusion matrix chart.
@@ -116,9 +122,7 @@ Fields
 
 
 Details
--------
-
-
+===============
 More details are available at : https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
 
 

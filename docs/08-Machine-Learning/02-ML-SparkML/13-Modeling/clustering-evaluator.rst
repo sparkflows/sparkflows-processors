@@ -33,6 +33,9 @@ Fields
       * - predictionCol
         - Prediction Column
         - The prediction column.
+      * - modelUUID
+        - Model UUID
+        - Enter the model uuid
 
 
 

@@ -36,16 +36,14 @@ Fields
         - URI of mongodb
       * - mongoDBName
         - mongoDB Name
-        - mongoDB  Name
+        - mongoDB Name
       * - mongoTableName
         - mongo Table Name
         - mongo Table Name
 
 
 Details
--------
-
-
+===============
 This node saves the incoming Dataframe into MongoDB.
 
 

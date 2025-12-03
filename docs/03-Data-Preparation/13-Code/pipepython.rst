@@ -46,34 +46,41 @@ Fields
 
 
 Details
--------
-
-
+===============
 Pipe Python Details
-+++++++++++++++
+---------------
+
 
 The Pipe Python node receives an incoming DataFrame. It pipes the DataFrame through to a Python script that runs the given Python code. The script can operate on each row of the DataFrame and returns an updated row.
 
+
 The input to the script is passed as a string and the output from the script is also passed as a string. The input schema of the DataFrame is also passed to the Python script through the command line argument - argv[1].
+
 
 The output from the Python script has to be written back to Spark using print. The node then creates an updated DataFrame based on the output from the script and passes it on to the next node in the pipeline.
 
 
 Examples
--------
-
-
+===============
 Pipe Python Examples
-+++++++++++++++
+---------------
+
 
 Below are some examples of the Python code that can be run in the Pipe Python node.
 
+
 The schema of the Input DataFrame is : id, price, lotsize, bedrooms, bathrms, stories, driveway, recroom, fullbase, gashw, airco, garagepl, prefarea
 
- Update the value of price
-```````````````
+
+
+Update the value of price
++++++++++++++++
+
 def update_price(record):
+
   record['price'] = int(record['price']) + 1000
+
   return record
+
 
 print(update_price(record))

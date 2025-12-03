@@ -36,3 +36,9 @@ Fields
 
 
 
+Examples
+===============
+Example:
+
+
+If you have a dataset with a "Sales" column and you set the Lower Quantile to 0.25 and the Upper Quantile to 0.75, the node will flag values below the 25th percentile as "low" outliers and values above the 75th percentile as "high" outliers.

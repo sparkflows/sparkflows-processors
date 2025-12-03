@@ -33,7 +33,7 @@ Fields
         - Description
       * - featureCols
         - Feature Columns
-        - Feature columns of type - all numeric, boolean and vector
+        - Features used while Training. Can be kept empty for Supervised Models
       * - targetCol
         - Target Column
         - The label column for model fitting

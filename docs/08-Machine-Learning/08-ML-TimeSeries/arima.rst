@@ -94,7 +94,7 @@ Fields
         - This determines which seasonal unit root test is used if seasonal is True and D is None. Default is OCSB.
       * - stepwise
         - Stepwise
-        - Whether to use the stepwise algorithm to identify the optimal model parameters. 
+        - Whether to use the stepwise algorithm to identify the optimal model parameters.
       * - trend
         - Trend
         - The trend parameter. If with_intercept is True, trend will be used. If with_intercept is False, the trend will be set to a no- intercept value..

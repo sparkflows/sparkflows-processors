@@ -25,6 +25,7 @@ Fields
         - Description
       * - title
         - Title
+        - 
       * - graphType
         - Chart Type
         - input graph type
@@ -34,10 +35,9 @@ Fields
 
 
 Details
--------
-
-
+===============
 This node plots a graph depicting distribution of dataset against each Week Days derived from the specified Date column.
+
 
 Graph can be plotted based on the chart type selected in the node.
 

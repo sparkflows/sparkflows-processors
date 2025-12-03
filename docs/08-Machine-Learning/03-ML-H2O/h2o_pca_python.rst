@@ -45,6 +45,9 @@ Fields
       * - maxIterations
         - Max Iterations
         - Maximum training iterations.
+      * - splitRatio
+        - Split Ratio
+        - Split Ratio
       * - seed
         - Seed
         - Seed for pseudo random number generator (if applicable).
@@ -72,10 +75,9 @@ Fields
 
 
 Details
--------
-
-
+===============
 Principal Components Analysis (PCA) is closely related to Principal Components Regression. The algorithm is carried out on a set of possibly collinear features and performs a transformation to produce a new set of uncorrelated features.
+
 
 More details are available at : http://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science/pca.html
 

@@ -36,9 +36,10 @@ Fields
         - Output Temp Table
       * - code
         - Scala
-        - Scala code to be run. Input dataframe : "inDF", SparkContext : "sc", SQLContext : "sqlContext",  Output/Result dataframe should be registered as a temporary table - df.registerTempTable("outDF")
+        - Scala code to be run. Input dataframe : "inDF", SparkContext : "sc", SQLContext : "sqlContext", Output/Result dataframe should be registered as a temporary table - df.registerTempTable("outDF")
       * - schema
-        - Schema
+        - InferSchema
+        - 
       * - outputColNames
         - Column Names for the CSV
         - New Output Columns of the SQL
@@ -51,45 +52,54 @@ Fields
 
 
 Details
--------
-
-
+===============
 Scala Details
-+++++++++++++++
+---------------
+
 
 This node receives receives an input dataframe.
+
 The input dataframe is passed into the Scala code as a variable called inDF.
 
+
 The scala code operates on the dataframe inDF.
+
 Finally the scala code produces a resulting dataframe to be passed on to the next node. It does so by registering a temporary table called outDF.
 
+
 For DataSet support add below import stmt:
+
 import spark.implicits._
 
 
 Examples
--------
-
-
+===============
 Scala Examples
-+++++++++++++++
+---------------
+
+
 
 Pass the Input dataframe as Output dataframe.
-```````````````
++++++++++++++++
+
 In OUTPUT TEMP TABLE field add the name of the temp table. ex: temp_table
 
 
-*  val outDF = inDF
-*  outDF.registerTempTable("temp_table")
+
+* val outDF = inDF
+* outDF.registerTempTable("temp_table")
 
 
 Calculate Count of Houses by Bathrooms
-```````````````
++++++++++++++++
+
+
 In OUTPUT TEMP TABLE field add the name of the temp table. ex: temp_table
 
 
-*  val outDF = inDF.groupBy("bathrms").count()
-*  outDF.registerTempTable("temp_table")
+
+* val outDF = inDF.groupBy("bathrms").count()
+* outDF.registerTempTable("temp_table")
 
 
 registerTempTable is used to register the result dataframe as a temporary table. Use the `OUTPUT TEMP TABLE` field name for that.

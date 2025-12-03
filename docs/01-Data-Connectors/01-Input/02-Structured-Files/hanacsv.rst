@@ -37,6 +37,9 @@ Fields
       * - hdfsSqlFile
         - SQL File
         - Path of the sql file that contains create table script.
+      * - schema
+        - InferSchema
+        - 
       * - outputColNames
         - Column Names for the CSV
         - New Output Columns of the SQL
@@ -49,9 +52,7 @@ Fields
 
 
 Details
--------
-
-
+===============
 This node reads data from Hana CSV files and creates a DataFrame from it.
 
 

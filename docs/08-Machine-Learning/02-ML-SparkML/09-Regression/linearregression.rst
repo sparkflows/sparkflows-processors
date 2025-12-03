@@ -34,6 +34,9 @@ Fields
       * - modelIdentifier
         - Model Identifier
         - modelIdentifier starts with $loop & columns names separated with underscore. Example: $loop_columnName1_columnName2.
+      * - splitRatio
+        - Split Ratio
+        - Split Ratio
       * - featuresCol
         - Features Column
         - Features column of type vectorUDT for model fitting
@@ -81,6 +84,7 @@ Fields
         - Path to Save Coefficients and Intercept as CSV
       * - gridSearch
         - Grid Search
+        - 
       * - regParamGrid
         - Regularization Param Grid Search
         - Regularization Parameters for Grid Search
@@ -93,42 +97,60 @@ Fields
 
 
 Details
--------
-
-
+===============
 The interface for working with linear regression models and model summaries is similar to the logistic regression case.
 
+
 When fitting LinearRegressionModel without intercept on dataset with constant nonzero column by “l-bfgs” solver, Spark MLlib outputs zero coefficients for constant nonzero columns. This behavior is the same as R glmnet but different from LIBSVM.
+
 
 More details are available at : http://spark.apache.org/docs/latest/ml-classification-regression.html#linear-regression
 
 
 Examples
--------
-
+===============
 Below example is available at : https://spark.apache.org/docs/latest/ml-classification-regression.html#linear-regression
+
 
 import org.apache.spark.ml.regression.LinearRegression
 
+
 // Load training data
+
 val training = spark.read.format("libsvm")
+
   .load("data/mllib/sample_linear_regression_data.txt")
 
+
 val lr = new LinearRegression()
+
   .setMaxIter(10)
+
   .setRegParam(0.3)
+
   .setElasticNetParam(0.8)
 
+
 // Fit the model
+
 val lrModel = lr.fit(training)
 
+
 // Print the coefficients and intercept for linear regression
+
 println(s"Coefficients: ${lrModel.coefficients} Intercept: ${lrModel.intercept}")
 
+
 // Summarize the model over the training set and print out some metrics
+
 val trainingSummary = lrModel.summary
+
 println(s"numIterations: ${trainingSummary.totalIterations}")
+
 println(s"objectiveHistory: [${trainingSummary.objectiveHistory.mkString(",")}]")
+
 trainingSummary.residuals.show()
+
 println(s"RMSE: ${trainingSummary.rootMeanSquaredError}")
+
 println(s"r2: ${trainingSummary.r2}")

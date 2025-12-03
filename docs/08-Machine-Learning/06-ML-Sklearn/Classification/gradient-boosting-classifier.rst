@@ -29,6 +29,9 @@ Fields
       * - featureCols
         - Feature Columns
         - Feature columns of type - all numeric, boolean and vector
+      * - splitRatio
+        - Split Ratio
+        - Split Ratio
       * - loss
         - Loss
         - The loss function to be optimized. 'Deviance' refers to deviance (= logistic regression) for classification with probabilistic outputs.
@@ -59,9 +62,6 @@ Fields
       * - min_impurity_decrease
         - MinImpurityDecrease
         - A node will be split if this split induces a decrease of the impurity greater than or equal to this value.
-      * - min_impurity_split
-        - MinImpuritySplit
-        - Threshold for early stopping in tree growth. A node will split if its impurity is above the threshold.
       * - random_state
         - RandomState
         - Controls the randomness of the bootstrapping of the samples used when building trees.
@@ -86,11 +86,9 @@ Fields
       * - tol
         - Tol
         - 
-      * - path
-        - Save Confusion Matrix Path
-        - Save Confusion Matrix
       * - confusionMatrix
         - Confusion Matrix
+        - 
       * - output_confusion_matrix_chart
         - Output Confusion Matrix Chart
         - whether to display confusion matrix chart.
@@ -99,7 +97,7 @@ Fields
         - Title name to display in Confusion Matrix Chart
       * - cm_chart_description
         - Confusion Matrix Chart Description
-        -  Description to display in Confusion Matrix CHart
+        - Description to display in Confusion Matrix CHart
       * - confusionMatrixTargetLegend
         - Confusion Matrix Target Legend
         - Legend name to display for Target in Confusion Matrix
@@ -109,13 +107,18 @@ Fields
       * - confusionMatrixCountLegend
         - Confusion Matrix Count Legend
         - Legend name to display for Count in Confusion Matrix
+      * - path
+        - Save Confusion Matrix Path
+        - Save Confusion Matrix
       * - Description
         - Confusion Matrix Description
+        - 
       * - confusionMatrixRowDescription
         - Confusion Matrix Outcome description
         - One can provide the business details of the outcome of the confusion matrix rows
       * - ROC Curve
         - ROC Curve
+        - 
       * - output_roc_curve
         - Output ROC Curve
         - whether to display confusion matrix chart.
@@ -134,9 +137,7 @@ Fields
 
 
 Details
--------
-
-
+===============
 More details are available at : https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingClassifier.html
 
 

@@ -80,6 +80,7 @@ Fields
         - Enables or disables generating a sub-column of detailedPredictionCol containing Shapley values.
       * - advanced
         - Advanced
+        - 
       * - convertUnknownCategoricalLevelsToNa
         - Convert Unknown Categorical Levels to NA
         - If set to ‘true’, the model converts unknown categorical levels to NA during making predictions.
@@ -137,10 +138,9 @@ Fields
 
 
 Details
--------
-
-
+===============
 H2O AutoML(for Regression and Classification) The H2O AutoML interface is designed to have as few parameters as possible so that all the user needs to do is point to their dataset, identify the response column and optionally specify a time constraint or limit on the number of total models trained.
+
 
 More details are available at : http://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html#automl-automatic-machine-learning
 

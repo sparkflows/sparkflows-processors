@@ -10,8 +10,10 @@
    delta.rst
    empty.rst
    excel.rst
+   excel_advanced.rst
    flatfile.rst
    hanacsv.rst
+   inMemoryDataset.rst
    json.rst
    libsvm.rst
    parquet.rst

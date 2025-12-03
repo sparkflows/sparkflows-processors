@@ -1,7 +1,7 @@
 Unix Shell Commands
 =========== 
 
-This node execute shell command
+This node executes shell command
 
 Type
 --------- 
@@ -23,19 +23,22 @@ Fields
       * - Name
         - Title
         - Description
+      * - commandSplitter
+        - CommandSplitter
+        - Command Splitter
       * - shellCommand
         - shell Command
         - Unix Shell Command
 
 
 Details
--------
-
-
+===============
 Unix Shell Command Details
-+++++++++++++++
+---------------
 
-The Unix Shell Commands Node executes the given set of Unix Shell Commands one by one.
+
+The Unix Shell Command Node executes the given set of Unix Shell Commands one by one.
+
 
 It captures the output and error of the execution and displays them back to the user.
 

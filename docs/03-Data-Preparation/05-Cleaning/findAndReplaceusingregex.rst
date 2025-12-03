@@ -39,56 +39,72 @@ Fields
 
 
 Details
--------
-
-
+===============
 Find and Replace Details
-+++++++++++++++
+---------------
+
 
 This node allows the user to find and replace patterns of text within the data. This node will only search the columns selected in the Input Columns option. 
-The Find pattern must be in Regex format. This node will only find exact matches for the search pattern. 
+
+The Find pattern must be in Regex format. This node will only find exact matches for the search pattern.
 
 
 Examples
--------
-
-
+===============
 Find and Replace Examples
-+++++++++++++++
+---------------
+
 
 Incoming Dataframe has the following rows:
 
-EMP_CD    |    EMP_NAME    |    DEPT       |    AGE       |    DATE_OF_JOINING   |    SALARY       |    PERFORMANCE
----------------------------------------------------------------------------------------------------------------------------
-E01       |    DAVID       |    HR         |    25        |    2021-01-01        |    12 000.00    |    GOOD
-E02       |    JOHN        |    SALES      |    35        |    2019-05-04        |    11 000.00    |    VERY GOOD
-E03       |    MARTIN      |    MARKETING  |    40        |    2018-06-07        |    34 000       |    AVERAGE
-E04       |    TONY        |    MARKETING  |    45        |    2017-02-01        |    12 500.00    |    VERY VERY GOOD
-E05       |    MARK        |    HR         |    25        |    2020-12-21        |    78 999.00    |    BAD
+
+::
+
+    EMP_CD    |    EMP_NAME    |    DEPT       |    AGE       |    DATE_OF_JOINING   |    SALARY       |    PERFORMANCE
+    ---------------------------------------------------------------------------------------------------------------------------
+    E01       |    DAVID       |    HR         |    25        |    2021-01-01        |    12 000.00    |    GOOD
+    E02       |    JOHN        |    SALES      |    35        |    2019-05-04        |    11 000.00    |    VERY GOOD
+    E03       |    MARTIN      |    MARKETING  |    40        |    2018-06-07        |    34 000       |    AVERAGE
+    E04       |    TONY        |    MARKETING  |    45        |    2017-02-01        |    12 500.00    |    VERY VERY GOOD
+    E05       |    MARK        |    HR         |    25        |    2020-12-21        |    78 999.00    |    BAD
+
+
 
 If FindAndReplaceUsingRegex node is configured to find and replace [-] character in [DATE_OF_JOINING] column with [/]
-```````````````
++++++++++++++++
+
 then outgoing Dataframe would be created as below after replacement of character:
 
-EMP_CD    |    EMP_NAME    |    DEPT       |    AGE       |    DATE_OF_JOINING   |    SALARY       |    PERFORMANCE
----------------------------------------------------------------------------------------------------------------------------
-E01       |    DAVID       |    HR         |    25        |    2021/01/01        |    12 000.00    |    GOOD
-E02       |    JOHN        |    SALES      |    35        |    2019/05/04        |    11 000.00    |    VERY GOOD
-E03       |    MARTIN      |    MARKETING  |    40        |    2018/06/07        |    34 000       |    AVERAGE
-E04       |    TONY        |    MARKETING  |    45        |    2017/02/01        |    12 500.00    |    VERY VERY GOOD
-E05       |    MARK        |    HR         |    25        |    2020/12/21        |    78 999.00    |    BAD
+
+::
+
+    EMP_CD    |    EMP_NAME    |    DEPT       |    AGE       |    DATE_OF_JOINING   |    SALARY       |    PERFORMANCE
+    ---------------------------------------------------------------------------------------------------------------------------
+    E01       |    DAVID       |    HR         |    25        |    2021/01/01        |    12 000.00    |    GOOD
+    E02       |    JOHN        |    SALES      |    35        |    2019/05/04        |    11 000.00    |    VERY GOOD
+    E03       |    MARTIN      |    MARKETING  |    40        |    2018/06/07        |    34 000       |    AVERAGE
+    E04       |    TONY        |    MARKETING  |    45        |    2017/02/01        |    12 500.00    |    VERY VERY GOOD
+    E05       |    MARK        |    HR         |    25        |    2020/12/21        |    78 999.00    |    BAD
+
+
 
 If FindAndReplaceUsingRegex node is configured to find and replace [^VERY GOOD$] string in [PERFORMANCE] column with [EXCELLENT]
-```````````````
++++++++++++++++
+
 where [^] denotes start of string and [$] denotes end of string
+
 then outgoing Dataframe would be created as below after replacement of exact entry of [VERY GOOD] with [EXCELLENT] and not other entries:
 
-EMP_CD    |    EMP_NAME    |    DEPT       |    AGE       |    DATE_OF_JOINING   |    SALARY       |    PERFORMANCE
----------------------------------------------------------------------------------------------------------------------------
-E01       |    DAVID       |    HR         |    25        |    2021-01-01        |    12 000.00    |    GOOD
-E02       |    JOHN        |    SALES      |    35        |    2019-05-04        |    11 000.00    |    EXCELLENT
-E03       |    MARTIN      |    MARKETING  |    40        |    2018-06-07        |    34 000       |    AVERAGE
-E04       |    TONY        |    MARKETING  |    45        |    2017-02-01        |    12 500.00    |    VERY VERY GOOD
-E05       |    MARK        |    HR         |    25        |    2020-12-21        |    78 999.00    |    BAD
+
+::
+
+    EMP_CD    |    EMP_NAME    |    DEPT       |    AGE       |    DATE_OF_JOINING   |    SALARY       |    PERFORMANCE
+    ---------------------------------------------------------------------------------------------------------------------------
+    E01       |    DAVID       |    HR         |    25        |    2021-01-01        |    12 000.00    |    GOOD
+    E02       |    JOHN        |    SALES      |    35        |    2019-05-04        |    11 000.00    |    EXCELLENT
+    E03       |    MARTIN      |    MARKETING  |    40        |    2018-06-07        |    34 000       |    AVERAGE
+    E04       |    TONY        |    MARKETING  |    45        |    2017-02-01        |    12 500.00    |    VERY VERY GOOD
+    E05       |    MARK        |    HR         |    25        |    2020-12-21        |    78 999.00    |    BAD
+
 
 Note: [VERY VERY GOOD] is not replaced as it is not an exact match.

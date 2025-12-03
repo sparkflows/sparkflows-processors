@@ -1,4 +1,4 @@
-Structured Streaming Kafka
+Structured Streaming Kafka Read
 =========== 
 
 Reads in streaming text from topics in Apache Kafka
@@ -49,6 +49,9 @@ Fields
       * - enableAutoCommit
         - enable.auto.commit
         - Enable Auto Commit
+      * - extraOptions
+        - Extra Options
+        - 
       * - kafkaParamsKeys
         - Params Key/Value Pairs
         - More Config Values

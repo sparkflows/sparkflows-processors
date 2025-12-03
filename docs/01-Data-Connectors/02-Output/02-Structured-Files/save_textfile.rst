@@ -31,15 +31,23 @@ Fields
         - Whether to Append, Overwrite or Error if the path Exists
       * - advanced
         - Advanced
+        - 
       * - partitionColNames
         - Partition Column Names
         - Partition Column Names
+      * - enableDownloadLink
+        - Enable Download Link
+        - Generate download links for the saved TEXT files
+      * - fileName
+        - File Name To Download
+        - Enter the FileName
+      * - saveAsOneFile
+        - Save as One File
+        - Save the output as a single TEXT file using coalesce
 
 
 Details
--------
-
-
+===============
 This node saves incoming Dataframe into the specified location in text format.
 
 

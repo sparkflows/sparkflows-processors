@@ -61,79 +61,151 @@ Fields
       * - escape
         - Escape
         - Sets a single character used for escaping quotes inside an already quoted value.
+      * - schema
+        - InferSchema
+        - 
       * - outputColNames
         - Column Names for the CSV
-        - New Output Columns of the SQL
+        - New Columns from CSV
       * - outputColTypes
         - Column Types for the CSV
         - Data Type of the Output Columns
       * - outputColFormats
         - Column Formats for the CSV
         - Format of the Output Columns
+      * - properties
+        - Properties
+        - 
+      * - extraOptionsKeys
+        - Properties Name
+        - Extra options/properites available while executing in Read CSV.
+      * - extraOptionsValues
+        - Properties Value
+        - Config Values for the Corresponding properites name
 
 
 Details
--------
-
-
+===============
 Read CSV Details
-+++++++++++++++
+---------------
+
 
 This node reads CSV files and creates a DataFrame from them. It can read either a single file or a directory containing multiple files. The user can configure the below fields to parse the file.
 
-The user can choose the <b>Output storage level</b> from the drop down. The options in the dropdown can be one of the following:
 
-*  <b>MEMORY_ONLY</b>          Store RDD as deserialized Java objects in the JVM. If the RDD does not fit in memory, some partitions will not be cached and will be recomputed on the fly each time they are needed. This is the default level.
-*  <b>MEMORY_AND_DISK</b>       Store RDD as deserialized Java objects in the JVM. If the RDD does not fit in memory, store the partitions that do not fit on disk, and read them from there when they are needed.
-*  <b>MEMORY_ONLY_SER</b>        Store RDD as serialized Java objects (one byte array per partition). This is generally more space-efficient than deserialized objects, especially when using a fast serializer, but more CPU-intensive to read.
-*  <b>MEMORY_AND_DISK_SER</b>    Similar to MEMORY_ONLY_SER, but spill partitions that do not fit in memory to disk instead of recomputing them on the fly each time they're needed.
-*  <b>DISK_ONLY</b>              Store the RDD partitions only on disk.
-*  <b>MEMORY_ONLY_2, MEMORY_AND_DISK_2 others </b> . Same as the levels above, but replicate each partition on two cluster nodes.
-*  <b>OFF_HEAP</b>               Similar to MEMORY_ONLY_SER, but store the data in off-heap memory. This requires off-heap memory to be enabled.
+The user can choose the **Output storage level** from the drop down. The options in the dropdown can be one of the following:
 
 
-The user needs to provide a data file <b>Path</b> to read the data from. This is a required field.
-
-The user can choose the <b>Separator</b> used in the data file to parse it. The default separator is <b>( , )</b> comma.
-
-In the <b>Header</b> field, one can choose:
-
-*  <b>true</b> if the data file has a header.
-*  <b>false</b> Otherwise.
-
-
-In the <b>Drop special character in column name</b> field, one can choose:
-
-*  <b>true</b> If you want to remove the special characters from column names.
-*  <b>false</b> Otherwise.
+* **MEMORY_ONLY**          Store RDD as deserialized Java objects in the JVM. If the RDD does not fit in memory, some partitions will not be cached and will be recomputed on the fly each time they are needed. This is the default level.
+* **MEMORY_AND_DISK**       Store RDD as deserialized Java objects in the JVM. If the RDD does not fit in memory, store the partitions that do not fit on disk, and read them from there when they are needed.
+* **MEMORY_ONLY_SER**        Store RDD as serialized Java objects (one byte array per partition). This is generally more space-efficient than deserialized objects, especially when using a fast serializer, but more CPU-intensive to read.
+* **MEMORY_AND_DISK_SER**    Similar to MEMORY_ONLY_SER, but spill partitions that do not fit in memory to disk instead of recomputing them on the fly each time they're needed.
+* **DISK_ONLY**              Store the RDD partitions only on disk.
+* **MEMORY_ONLY_2, MEMORY_AND_DISK_2 others ** . Same as the levels above, but replicate each partition on two cluster nodes.
+* **OFF_HEAP**               Similar to MEMORY_ONLY_SER, but store the data in off-heap memory. This requires off-heap memory to be enabled.
 
 
-In the <b>Mode</b> field, one can choose from the below options in the dropdown:
-
-*  <b>PERMISSIVE</b> When the parser meets a corrupt field in a record, it sets the value of the field to NULL and continues to the next record.
-*  <b>DROPMALFORMED</b> ignores the whole corrupted record.
-*  <b>FAILFAST</b> throws an exception when it meets corrupted records.
+The user needs to provide a data file **Path** to read the data from. This is a required field.
 
 
-In the <b>Enforce Schema</b> field, one can choose:
-
-*  <b>true</b> The specified or inferred schema will be forcibly applied to datasource files, and headers in CSV files will be ignored.
-*  <b>false</b> The schema will be validated against all headers in CSV files when the header option is set to <b>false</b>.
+The user can choose the **Separator** used in the data file to parse it. The default separator is **( , )** comma.
 
 
-In the <b>Whether to add input file as a column in DataFrame</b> field, one can choose:
-
-*  <b>true</b> There will be a new column added to the DataFrame at the end, which can be seen in the schema columns. One can enter the name of this column.
-*  <b>false</b> This functionality is disabled, and the DataFrame consists of only the columns read from the data file.
+In the **Header** field, one can choose:
 
 
-In the <b>ENCODING</b> field, one can specify the encoding type to be used for reading the files. By default, it is set as <b>UTF-8</b>.
-
-The <b>QUOTE</b> field sets a single character used for escaping quoted values where the separator can be part of the value. The default value for this is <b>( " )</b>, a double quote.
-
-The <b>ESCAPE</b> field sets a single character used for escaping quotes inside an already quoted value. The default value for this is <b>( \ )</b>, a backslash.	
-
-After the above options are set, one can click on <b>Refresh Schema</b> to see the final columns.
-Users can still add or delete columns using <b>+</b> button next to the refresh schema and <b>-</b> button next to the column names.
+* **true** if the data file has a header.
+* **false** Otherwise.
 
 
+In the **Drop special character in column name** field, one can choose:
+
+
+* **true** If you want to remove the special characters from column names.
+* **false** Otherwise.
+
+
+In the **Mode** field, one can choose from the below options in the dropdown:
+
+
+* **PERMISSIVE** When the parser meets a corrupt field in a record, it sets the value of the field to NULL and continues to the next record.
+* **DROPMALFORMED** ignores the whole corrupted record.
+* **FAILFAST** throws an exception when it meets corrupted records.
+
+
+In the **Enforce Schema** field, one can choose:
+
+
+* **true** The specified or inferred schema will be forcibly applied to datasource files, and headers in CSV files will be ignored.
+* **false** The schema will be validated against all headers in CSV files when the header option is set to **false**.
+
+
+In the **Whether to add input file as a column in DataFrame** field, one can choose:
+
+
+* **true** There will be a new column added to the DataFrame at the end, which can be seen in the schema columns. One can enter the name of this column.
+* **false** This functionality is disabled, and the DataFrame consists of only the columns read from the data file.
+
+
+In the **ENCODING** field, one can specify the encoding type to be used for reading the files. By default, it is set as **UTF-8**.
+
+
+The **QUOTE** field sets a single character used for escaping quoted values where the separator can be part of the value. The default value for this is **( " )**, a double quote.
+
+
+The **ESCAPE** field sets a single character used for escaping quotes inside an already quoted value. The default value for this is **( \ )**, a backslash.    
+
+
+After the above options are set, one can click on **InferSchema** to see the final columns.
+
+Users can still add or delete columns using **+** button next to the InferSchema and **-** button next to the column names.
+
+
+Examples
+===============
+Read CSV Node Example
+---------------
+
+
+Given a CSV file with the following data:
+
+
+SupplierID,SupplierName,Region,YearsInBusiness,LeadTime,PriceIndex,OrderFulfillmentTime,OverallCost,OrderCancellations,CustomerRating
+
+S1,Supplier A,Region 1,10,5,1.2,3,100,2,4
+
+S2,Supplier B,Region 2,15,7,1.1,4,120,1,5
+
+If you configure the Read CSV node as follows:
+
+
+Path: /path/to/your/file.csv
+
+Separator: ,
+
+Header: true
+
+The output would be a DataFrame with the following schema:
+
+
+Column Name    Data Type
+
+SupplierID    String
+
+SupplierName    String
+
+Region    String
+
+YearsInBusiness    Integer
+
+LeadTime    Integer
+
+PriceIndex    Double
+
+OrderFulfillmentTime    Integer
+
+OverallCost    Integer
+
+OrderCancellations    Integer
+
+CustomerRating    Integer

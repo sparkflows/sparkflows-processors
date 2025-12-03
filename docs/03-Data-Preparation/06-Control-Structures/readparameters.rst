@@ -36,5 +36,35 @@ Fields
         - Path of the parameters file containing the parameter name and value in each line
 
 
+Details
+===============
+Read Parameters Node
+---------------
 
 
+This node reads key-value pairs from a file and stores them as parameters, which can be used in subsequent nodes.
+
+
+Examples
+===============
+Read Parameters Node Example
+---------------
+
+
+Given a parameter file with the following content:
+
+
+PartID=A1
+
+SupplierID=S1
+
+PartName=Bolt
+
+PartCategory=Hardware
+
+PartQualityScore=8
+
+If you configure the Read Parameters node to read this file, the parameters will be stored in the node's output and can be used in other nodes.
+
+
+For example, you could use a Filter node to filter data based on the PartID parameter.

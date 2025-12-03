@@ -38,27 +38,33 @@ Fields
         - Output Column
         - Output column name
       * - handleInvalid
-        - HandleInvalid
+        - Handle Invalid
         - How to handle invalid data (NULL values). Options are 'skip' (filter out rows with invalid data), 'error' (throw an error), or 'keep' (return relevant number of NaN in the output).
 
 
 
 
 Examples
--------
+===============
+h2: VectorAssembler Node Example
+---------------
 
-
- h2: VectorAssembler Node Example
-+++++++++++++++
 
 Assume that we have a DataFrame with the columns id, hour, mobile, userFeatures, and clicked:
 
- id | hour | mobile | userFeatures     | clicked
-----|------|--------|------------------|---------
- 0  | 18   | 1.0    | [0.0, 10.0, 0.5] | 1.0
 
- If we set VectorAssembler's <b>input Selected columns</b> to hour, mobile, and userFeatures and <b>output column</b> to features, after transformation we should get the following DataFrame:
+::
 
- id | hour | mobile | userFeatures     | clicked | features
-----|------|--------|------------------|---------|-----------------------------
- 0  | 18   | 1.0    | [0.0, 10.0, 0.5] | 1.0     | [18.0, 1.0, 0.0, 10.0, 0.5]
+     id | hour | mobile | userFeatures     | clicked
+    ----|------|--------|------------------|---------
+     0  | 18   | 1.0    | [0.0, 10.0, 0.5] | 1.0
+
+
+ If we set VectorAssembler's **input Selected columns** to hour, mobile, and userFeatures and **output column** to features, after transformation we should get the following DataFrame:
+
+
+::
+
+     id | hour | mobile | userFeatures     | clicked | features
+    ----|------|--------|------------------|---------|-----------------------------
+     0  | 18   | 1.0    | [0.0, 10.0, 0.5] | 1.0     | [18.0, 1.0, 0.0, 10.0, 0.5]

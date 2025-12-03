@@ -11,6 +11,4 @@
    06-ML-Sklearn/index.rst
    07-ML-Pycaret/index.rst
    08-ML-TimeSeries/index.rst
-   09-ScoreCard/index.rst
    10-OpenNLP/index.rst
-   11-Generative-AI/index.rst

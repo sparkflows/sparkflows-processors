@@ -29,6 +29,9 @@ Fields
       * - featureCols
         - Feature Columns
         - Feature columns of type - all numeric, boolean and vector
+      * - splitRatio
+        - Split Ratio
+        - Split Ratio
       * - n_estimators
         - NEstimators
         - Specifies the number of trees in the forest.
@@ -56,9 +59,6 @@ Fields
       * - min_impurity_decrease
         - MinImpurityDecrease
         - Generally used to control over-fitting. The higher the value, the more conservative the algorithm will be.
-      * - min_impurity_split
-        - MinImpuritySplit
-        - 
       * - bootstrap
         - Bootstrap
         - Whether bootstrap samples are used when building trees. If False, the whole dataset is used to build each tree.
@@ -67,15 +67,13 @@ Fields
         - Whether to use out-of-bag samples to estimate the generalization accuracy.
       * - random_state
         - RandomState
-        - Default value is None 
+        - Default value is None
       * - warm_start
         - WarmStart
         - When set to True, the existing trained trees in the model are reused and additional trees are added to the ensemble. This can save time when incrementally increasing the number of trees in the model.
-      * - path
-        - Save Confusion Matrix Path
-        - Save Confusion Matrix
       * - confusionMatrix
         - Confusion Matrix
+        - 
       * - output_confusion_matrix_chart
         - Output Confusion Matrix Chart
         - whether to display confusion matrix chart.
@@ -84,7 +82,7 @@ Fields
         - Title name to display in Confusion Matrix Chart
       * - cm_chart_description
         - Confusion Matrix Chart Description
-        -  Description to display in Confusion Matrix CHart
+        - Description to display in Confusion Matrix CHart
       * - confusionMatrixTargetLegend
         - Confusion Matrix Target Legend
         - Legend name to display for Target in Confusion Matrix
@@ -94,13 +92,18 @@ Fields
       * - confusionMatrixCountLegend
         - Confusion Matrix Count Legend
         - Legend name to display for Count in Confusion Matrix
+      * - path
+        - Save Confusion Matrix Path
+        - Save Confusion Matrix
       * - Description
         - Confusion Matrix Description
+        - 
       * - confusionMatrixRowDescription
         - Confusion Matrix Outcome description
         - One can provide the business details of the outcome of the confusion matrix rows
       * - ROC Curve
         - ROC Curve
+        - 
       * - output_roc_curve
         - Output ROC Curve
         - whether to display confusion matrix chart.
@@ -119,9 +122,7 @@ Fields
 
 
 Details
--------
-
-
+===============
 More details are available at : https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
 
 

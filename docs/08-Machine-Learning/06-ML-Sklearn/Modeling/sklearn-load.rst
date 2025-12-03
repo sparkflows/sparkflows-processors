@@ -23,8 +23,12 @@ Fields
       * - Name
         - Title
         - Description
+      * - selectChampionModel
+        - Use Champion Model
+        - Uses Champion Model For Prediction.
       * - path
         - Path
+        - 
 
 
 

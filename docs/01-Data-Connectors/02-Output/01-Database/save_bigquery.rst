@@ -31,6 +31,9 @@ Fields
       * - Name
         - Title
         - Description
+      * - connection
+        - Connection
+        - The JDBC connection to connect
       * - bigQueryDataset
         - BigQuery Dataset
         - bigQueryDataset name
@@ -43,6 +46,15 @@ Fields
       * - saveMode
         - Save Mode
         - Whether to Append, Overwrite or Error if the table Exists
+      * - properties
+        - Properties
+        - 
+      * - extraOptionsKeys
+        - Properties Name
+        - Extra options/properites available while executing in Save Big Query.
+      * - extraOptionsValues
+        - Properties Value
+        - Config Values for the Corresponding properites name
 
 
 

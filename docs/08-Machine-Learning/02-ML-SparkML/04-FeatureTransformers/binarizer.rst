@@ -43,39 +43,46 @@ Fields
 
 
 Details
--------
+===============
+Binarizer Node Details
+---------------
 
-
- Binarizer Node Details
-+++++++++++++++
 
 The Binarizer Node is used in the process of thresholding numerical features to binary (0/1) features.
 
+
 Binarizer takes the common parameters inputCol and outputCol, as well as the threshold for binarization. 
+
 Feature values greater than the threshold are binarized to 1.0; values equal to or less than the threshold are binarized to 0.0. 
+
 Both Vector and Double types are supported for inputCol.
 
-Input Parameters
-```````````````
 
-*  OUTPUT STORAGE LEVEL : Keep this as DEFAULT.
-*  INPUT COLUMN : Select the required column for whom binarization has to be done . 
-*  OUTPUT COLUMN : The name of the output binarized column.
-*  THRESHOLD : Set the threshold used to binarize continuous features. The features greater than the threshold, will be binarized to 1.0. The features equal to or less than the threshold, will be binarized to 0.0. Default: 0.0
+
+Input Parameters
++++++++++++++++
+
+
+* OUTPUT STORAGE LEVEL : Keep this as DEFAULT.
+* INPUT COLUMN : Select the required column for whom binarization has to be done .
+* OUTPUT COLUMN : The name of the output binarized column.
+* THRESHOLD : Set the threshold used to binarize continuous features. The features greater than the threshold, will be binarized to 1.0. The features equal to or less than the threshold, will be binarized to 0.0. Default: 0.0
 
 
 Examples
--------
+===============
+Binarization Node Example
+---------------
 
 
- Binarization Node Example
-+++++++++++++++
+Consider the below **Binarizer** output for the **feature** column with **Threshold** set to 0.5
 
-Consider the below <b>Binarizer</b> output for the <b>feature</b> column with <b>Threshold</b> set to 0.5
--------------------------------
-| id|feature|binarized_feature|
--------------------------------
-|  0|    0.1|              0.0|
-|  1|    0.8|              1.0|
-|  2|    0.2|              0.0|
--------------------------------
+::
+
+    -------------------------------
+    | id|feature|binarized_feature|
+    -------------------------------
+    |  0|    0.1|              0.0|
+    |  1|    0.8|              1.0|
+    |  2|    0.2|              0.0|
+    -------------------------------

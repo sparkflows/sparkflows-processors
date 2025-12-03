@@ -7,13 +7,12 @@
    cdcusingfulltablemerge.rst
    columnsrename.rst
    count.rst
-   deltadebeziummerge.rst
+   dynamicrename.rst
    explode.rst
    flatten.rst
    formula.rst
-   geoip.rst
-   geopoint.rst
    jsontoedi.rst
+   lpo.rst
    multiwindowanalyticsfunctions.rst
    multiwindowrankingfunctions.rst
    nodedeltacdc.rst
@@ -22,10 +21,15 @@
    rounddouble.rst
    sample.rst
    savewatermark.rst
+   scdtype2deltamerge.rst
+   scheduling_optimisation.rst
    sortby.rst
    sortcolumns.rst
+   supplier_optimisation.rst
    transpose.rst
+   transpose_columns.rst
    windowaggregation.rst
    windowanalytics.rst
+   windowfunction.rst
    windowranking.rst
    wordcount.rst

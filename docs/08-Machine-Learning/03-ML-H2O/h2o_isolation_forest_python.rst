@@ -90,13 +90,45 @@ Fields
       * - stoppingTolerance
         - StoppingTolerance
         - Relative tolerance for metric-based stopping criterion (stop if relative improvement is not at least this much)
+      * - Grid Search
+        - Grid Search
+        - 
+      * - paramKeys
+        - Param Name
+        - Param Names. eg: maxDepth ,learnRate, nTrees,distribution
+      * - paramValues
+        - Param Value
+        - Enter comma separated values.eg: 4,5,6, eg: gaussian, gamma, bernoulli
+      * - gridStrategy
+        - Grid Search Strategy
+        - Strategy to use for model hyperparameter search. Cartesian does exhaustive search; RandomDiscrete searches randomly within given time or model limits.
+      * - gridMaxModels
+        - Grid Max Models
+        - Maximum number of models to build in the grid search (0 for unlimited).
+      * - gridMaxRuntimeSecs
+        - Grid Max Runtime Seconds
+        - Maximum runtime in seconds for the grid search (0 for unlimited).
+      * - gridStoppingRounds
+        - Grid Stopping Rounds
+        - Early stopping based on convergence of the metric during grid search (0 to disable).
+      * - gridStoppingTolerance
+        - Grid Stopping Tolerance
+        - Tolerance for metric-based stopping criterion during grid search.
+      * - gridStoppingMetric
+        - Grid Stopping Metric
+        - Metric to use for early stopping during grid search (AUTO: logloss for classification, deviance for regression).
+      * - gridParallelism
+        - Grid Parallelism
+        - Level of parallelism to use when building models in the grid.
+      * - gridSelectBestModelBy
+        - Grid Select Best Model By
+        - Metric used to select the best model from the grid.
 
 
 Details
--------
-
-
+===============
 Isolation Forest is similar in principle to Random Forest and is built on the basis of decision trees. Isolation Forest, however, identifies anomalies or outliers rather than profiling normal data points. Isolation Forest isolates observations by randomly selecting a feature and then randomly selecting a split value between the maximum and minimum values of that selected feature. This split depends on how long it takes to separate the points.
+
 
 More details are available at : http://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science/if.html
 

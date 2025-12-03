@@ -43,31 +43,30 @@ Fields
 
 
 Details
--------
-
-
+===============
 This node creates a new DataFrame by casting the specified input columns to a new data type. All the selected columns would be cast to the specified data type.
+
 
 The boolean field Replace Existing Columns indicates whether the existing column should be replaced or a new column should be created.
 
 
 Examples
--------
-
-
+===============
 If incoming Dataframe has following columns with below specified datatype:
 
 
-*  CUST_ID : Integer
-*  CUST_NAME : String
-*  DOB : Datetime
-*  AGE : Integer
+
+* CUST_ID : Integer
+* CUST_NAME : String
+* DOB : Datetime
+* AGE : Integer
 
 
 and [DOB] and [AGE] are selected for casting to [STRING] datatype then outgoing Dataframe would have below datatypes:
 
 
-*  CUST_ID : Integer
-*  CUST_NAME : String
-*  DOB : String
-*  AGE : String
+
+* CUST_ID : Integer
+* CUST_NAME : String
+* DOB : String
+* AGE : String

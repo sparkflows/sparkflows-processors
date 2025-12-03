@@ -37,47 +37,34 @@ Fields
 
 
 Details
--------
-
-
+===============
 Details
-+++++++++++++++
+---------------
 
-Row filter allows the user to filter out rows that do not meet a set condition. Rows that meet the condition are passed on to the next node in a new dataframe. 
+
+Row filter allows the user to filter out rows that do not meet a set condition. Rows that meet the condition are passed on to the next node in a new dataframe.
 
 
 Examples
--------
-
-
+===============
 Examples of Conditional Expression
-+++++++++++++++
+---------------
+
 
 Below are some examples of the Conditions Expression which can be used.
 
 
-*  col1 > 5 AND col2 > 3
 
+* col1 > 5 AND col2 > 3
 
+* name is not NULL
 
-*  name is not NULL
+* name is NULL
 
+* usd_pledged_real > 0 and (category = "Narrative Film" or category == "Music") and goal > 100
 
+* dt > '2021-09-03'  (dt column is of type date)
 
-*  name is NULL
+* datetime > '2011-01-01 00:00:00.0'     (datetime column is of type timestamp)
 
-
-
-*  usd_pledged_real > 0 and (category = "Narrative Film" or category == "Music") and goal > 100
-
-
-
-*  dt > '2021-09-03'  (dt column is of type date)
-
-
-
-*  datetime > '2011-01-01 00:00:00.0'     (datetime column is of type timestamp)
-
-
-
-*  datetime > '2011-01-01 00:00:00.0' and datetime < '2016-01-01 00:00:00.0'
+* datetime > '2011-01-01 00:00:00.0' and datetime < '2016-01-01 00:00:00.0'

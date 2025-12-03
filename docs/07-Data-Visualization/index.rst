@@ -4,6 +4,7 @@
 .. toctree::
    :maxdepth: 2
 
+   01-SPC/index.rst
    boxplot.rst
    BubbleChart.rst
    gauge.rst

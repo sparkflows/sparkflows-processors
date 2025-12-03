@@ -38,7 +38,8 @@ Fields
         - Jython
         - Python code to be run. Input dataframe is in inDF. Output dataframe is in outDF.
       * - schema
-        - Schema
+        - InferSchema
+        - 
       * - outputColNames
         - Column Names for the CSV
         - New Output Columns of the SQL
@@ -51,15 +52,16 @@ Fields
 
 
 Details
--------
-
-
+===============
 Jython Details
-+++++++++++++++
+---------------
+
 
 This node runs any given Jython code.
 
+
 Below is an example Jython code. It takes the input dataframe 'inDF', and returns the new dataframe 'outDF'
+
 
 outDF = inDF.groupBy("c2").count()
 

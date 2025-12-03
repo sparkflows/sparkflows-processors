@@ -9,7 +9,9 @@
    filterAdvanced.rst
    filterByDateRange.rst
    filterByStringLength.rst
+   limit.rst
    numberRangeFilter.rst
+   regex.rst
    rowfilter.rst
    rowFilterWithIndex.rst
    select.rst

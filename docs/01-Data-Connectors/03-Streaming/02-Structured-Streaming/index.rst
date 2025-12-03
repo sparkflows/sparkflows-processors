@@ -9,6 +9,7 @@
    filesinkstructuredstreaming.rst
    jsonstructuredstreaming.rst
    kafkastructuredstreaming.rst
+   kafkastructuredstreamingsave.rst
    kinesisstructuredstreaming.rst
    socketstructuredstreaming.rst
    structuredstreamingfilesink.rst

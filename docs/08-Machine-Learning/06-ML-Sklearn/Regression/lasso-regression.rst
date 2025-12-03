@@ -29,6 +29,9 @@ Fields
       * - featureCols
         - Feature Columns
         - Feature columns of type - all numeric, boolean and vector
+      * - splitRatio
+        - Split Ratio
+        - Split Ratio
       * - alpha
         - Alpha
         - Constant that multiplies the L1 term. Defaults to 1.0. Alpha = 0 is equivalent to an ordinary least square, solved by the LinearRegression object.
@@ -62,9 +65,7 @@ Fields
 
 
 Details
--------
-
-
+===============
 More details are available at : https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Lasso.html
 
 

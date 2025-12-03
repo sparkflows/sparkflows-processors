@@ -18,5 +18,4 @@
    11-Join-Union/index.rst
    12-Group/index.rst
    13-Code/index.rst
-   15-Delta-Capture/index.rst
    16-Others/index.rst

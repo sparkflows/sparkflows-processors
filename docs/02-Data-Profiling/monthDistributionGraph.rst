@@ -25,6 +25,7 @@ Fields
         - Description
       * - title
         - Title
+        - 
       * - graphType
         - Chart Type
         - input graph type
@@ -35,3 +36,9 @@ Fields
 
 
 
+Examples
+===============
+Example:
+
+
+If you have a dataset with a "Month" column and a "Sales" column, you can use the Graph Month Distribution node to create a chart chosen  visualizing the total sales for each month. The X-axis will represent the months, and the Y-axis will represent the total sales.

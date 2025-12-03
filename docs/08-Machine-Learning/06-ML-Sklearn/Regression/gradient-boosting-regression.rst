@@ -29,6 +29,9 @@ Fields
       * - featureCols
         - Feature Columns
         - Feature columns of type - all numeric, boolean and vector
+      * - splitRatio
+        - Split Ratio
+        - Split Ratio
       * - loss
         - Loss
         - The loss function to be optimized. 'ls' refers to least squares regression.
@@ -59,9 +62,6 @@ Fields
       * - min_impurity_decrease
         - Min Impurity Decrease
         - A node will be split if this split induces a decrease of the impurity greater than or equal to this value.
-      * - min_impurity_split
-        - Min Impurity Split
-        - Threshold for early stopping in tree growth. A node will split if its impurity is above the threshold.
       * - random_state
         - Random State
         - Controls the randomness of the bootstrapping of the samples used when building trees.
@@ -92,9 +92,7 @@ Fields
 
 
 Details
--------
-
-
+===============
 More details are available at : https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html
 
 

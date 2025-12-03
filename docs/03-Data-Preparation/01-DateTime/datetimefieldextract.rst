@@ -66,20 +66,49 @@ Fields
         - Extract Month Name
 
 
+Details
+===============
+Date Time Field Extract Details
+---------------
+
+
+Spark functions provides hour(), minute(), second() and weekofyear() functions to extract hour, minute, second and week of the year from Timestamp column respectively along with the standard functions of year(), month() and day().
+
+It creates a new DataFrame by extracting the Date and Time fields.
+
+
+
+Input
++++++++++++++++
+
+  * Column :- The input column is selected here and it should be of Date\TimeStamp datatype.
+
+
+
+Output
++++++++++++++++
+
+
+* The values that can be extracted are YEAR,MONTH,DAY OF MONTH,HOUR,MINUTE,SECOND,WEEKOFYEAR,DAYOFWEEK and MONTHNAME
+* The values that need to be extracted have to be set to true (by default it is false).
+
+* Example:- The incoming Dataframe has a Date value as 2022-01-01 14:30:45 in YYYY-MM-DD HH:mm:ss format
+
+            Set the EXTRACT YEAR as true to get the year( YEAR : 2022 )
 
 
 Examples
--------
-
-
+===============
 If incoming Dataframe has Date value as 2022-01-01 14:30:45 in YYYY-MM-DD HH:mm:ss format then using datetimeextract node would result in followings 
+
 added as new columns to the Dataframe:
 
 
-*  YEAR : 2022 
-*  MONTH : 01
-*  DAY OF MONTH : 01 
-*  HOUR : 14
-*  MINUTE : 30
-*  SECOND : 45
-*  WEEKOFYEAR : 1 
+
+* YEAR : 2022
+* MONTH : 01
+* DAY OF MONTH : 01
+* HOUR : 14
+* MINUTE : 30
+* SECOND : 45
+* WEEKOFYEAR : 1

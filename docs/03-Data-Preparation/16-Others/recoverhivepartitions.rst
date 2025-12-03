@@ -1,7 +1,7 @@
 Recover Hive Partitions
 =========== 
 
-Node to recover the partitions of external hve table.
+Node to recover the partitions of external hive table.
 
 Type
 --------- 
@@ -32,10 +32,9 @@ Fields
 
 
 Details
--------
+===============
+This node is used to recover the partitions of external hive table.
 
-
-This node is used recover the partitions of external hve table.
 
 It will run the command: "MSCK REPAIR TABLE ${databaseName}.${tableName}"
 

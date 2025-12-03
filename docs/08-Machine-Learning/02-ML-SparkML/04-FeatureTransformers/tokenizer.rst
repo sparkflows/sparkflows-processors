@@ -40,37 +40,45 @@ Fields
 
 
 Details
--------
+===============
+Tokenizer Node Details
+---------------
 
-
- Tokenizer Node Details
-+++++++++++++++
 
 Tokenization is essentially splitting a phrase, sentence, paragraph, or an entire text document into smaller units, such as individual words or terms. Each of these smaller units are called tokens. The Tokenizer node accepts an string input and breaks the string into an array of tokens.
-                                                                        
-Input Parameters
-```````````````
 
-*  OUTPUT STORAGE LEVEL : Keep this as DEFAULT.
-*  INPUT COLUMN : Select the required string column for whom tokenization has to be done . 
-*  OUTPUT COLUMN : The name of the output tokenized column.
+
+
+Input Parameters
++++++++++++++++
+
+
+* OUTPUT STORAGE LEVEL : Keep this as DEFAULT.
+* INPUT COLUMN : Select the required string column for whom tokenization has to be done .
+* OUTPUT COLUMN : The name of the output tokenized column.
 
 
 Examples
--------
+===============
+Tokenizer Node Example
+---------------
 
-
- Tokenizer Node Example
-+++++++++++++++
 
 Assume that we have a DataFrame with the column <b>strText<b>:
 
-          strText             | 
------------------------------ |
- Sparkflows is cool to learn. |
- 
- If we set Tokenizer's <b>INPUT COLUMN</b> to strText and <b>OUTPUT COLUMN</b> to tokens, after transformation we should get the following DataFrame:
 
-                  tokens                       | 
----------------------------------------------- |
-WrappedArray(sparkflows, is, cool, to, learn.) |
+::
+
+              strText             | 
+    ----------------------------- |
+     Sparkflows is cool to learn. |
+
+
+ If we set Tokenizer's **INPUT COLUMN** to strText and **OUTPUT COLUMN** to tokens, after transformation we should get the following DataFrame:
+
+
+::
+
+                      tokens                       | 
+    ---------------------------------------------- |
+    WrappedArray(sparkflows, is, cool, to, learn.) |

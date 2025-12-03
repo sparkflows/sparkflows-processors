@@ -1,7 +1,7 @@
 Number Of Partitions
 =========== 
 
-This node will get the number partitions in input dataframe.
+This node will get the number of partitions in input dataframe.
 
 Type
 --------- 

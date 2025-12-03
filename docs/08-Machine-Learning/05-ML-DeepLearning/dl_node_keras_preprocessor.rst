@@ -25,9 +25,10 @@ Fields
         - Description
       * - PreprocessorCode
         - PreprocessorCode
+        - 
       * - preprocessorCode
         - PreprocessorCode
-        - PySpark code to be run. Input dataframe : "inDF", SparkContext : "sc", SQLContext : "sqlContext",  Output/Result dataframe should be registered as a temporary table - df.registerTempTable("outDF")
+        - PySpark code to be run. Input dataframe : "inDF", SparkContext : "sc", SQLContext : "sqlContext", Output/Result dataframe should be registered as a temporary table - df.registerTempTable("outDF")
 
 
 
