@@ -51,7 +51,7 @@ Fields
 
 
 Details
-===============
+-------
 Date Difference Details
 ---------------
 
@@ -85,7 +85,7 @@ Example
 
 
 Examples
-===============
+-------
 Format Examples
 ---------------
 

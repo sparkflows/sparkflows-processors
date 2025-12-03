@@ -37,7 +37,7 @@ Fields
 
 
 Details
-===============
+-------
 This Node creates a DataFrame by reading data from HDFS, HIVE etc.
 
 
@@ -45,7 +45,7 @@ The data has been defined earlier in Fire by using the Dataset Feature. As a use
 
 
 Examples
-===============
+-------
 Dataset Structured Node Example
 ---------------
 

@@ -43,7 +43,7 @@ Fields
 
 
 Details
-===============
+-------
 This node creates a new DataFrame by casting the specified input columns to a new data type. All the selected columns would be cast to the specified data type.
 
 
@@ -51,7 +51,7 @@ The boolean field Replace Existing Columns indicates whether the existing column
 
 
 Examples
-===============
+-------
 If incoming Dataframe has following columns with below specified datatype:
 
 

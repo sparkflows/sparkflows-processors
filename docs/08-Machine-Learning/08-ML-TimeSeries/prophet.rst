@@ -88,7 +88,7 @@ Fields
 
 
 Examples
-===============
+-------
 Prophet Node Examples
 ---------------
 

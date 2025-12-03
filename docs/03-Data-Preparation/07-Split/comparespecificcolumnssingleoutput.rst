@@ -32,7 +32,7 @@ Fields
 
 
 Details
-===============
+-------
 This node takes two Dataframe as input, compares them on specific columns and creates one outgoing Dataframes as output 
 
 based on the Compare Type selected to compare two incoming Dataframes.
@@ -54,7 +54,7 @@ common in both incoming Dataframes in which values in the specified columns have
 
 
 Examples
-===============
+-------
 1st Incoming Dataframe has following rows:
 
 

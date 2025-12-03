@@ -79,7 +79,7 @@ Fields
 
 
 Details
-===============
+-------
 Regex Advanced Node
 ---------------
 
@@ -142,7 +142,7 @@ Advanced Options:
 
 
 Examples
-===============
+-------
 Regex Advanced Node Examples
 ---------------
 

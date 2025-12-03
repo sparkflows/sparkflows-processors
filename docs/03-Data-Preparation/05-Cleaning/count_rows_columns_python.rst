@@ -27,7 +27,7 @@ Fields
 
 
 Details
-===============
+-------
 Count Rows and Columns Node
 ---------------
 
@@ -57,7 +57,7 @@ Variable Name: The name of the variable that will store the count of rows and co
 
 
 Examples
-===============
+-------
 Example:
 
 

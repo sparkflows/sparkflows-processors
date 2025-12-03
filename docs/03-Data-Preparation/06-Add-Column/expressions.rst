@@ -53,7 +53,7 @@ Fields
 
 
 Details
-===============
+-------
 Expressions Node – Your No-Code Business Logic Powerhouse
 ---------------
 
@@ -95,7 +95,7 @@ Pro Tips
 
 
 Examples
-===============
+-------
 Expressions Node – Real Business Examples
 ---------------
 

@@ -61,7 +61,7 @@ Fields
 
 
 Details
-===============
+-------
 Save to Pinecone Node Details
 ---------------
 
@@ -131,7 +131,7 @@ The node saves the embeddings, content, and optional metadata to the specified P
 
 
 Examples
-===============
+-------
 Example: Save to Pinecone Node
 ---------------
 

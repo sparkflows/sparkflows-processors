@@ -32,7 +32,7 @@ Fields
 
 
 Details
-===============
+-------
 Time Functions Details
 ---------------
 
@@ -65,7 +65,7 @@ Example
 
 
 Examples
-===============
+-------
 If Incoming Dataframe has following timestamp column:
 
 

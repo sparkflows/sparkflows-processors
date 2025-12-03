@@ -68,7 +68,7 @@ Fields
 
 
 Details
-===============
+-------
 Pivot By Advance Node Details
 ---------------
 
@@ -176,7 +176,7 @@ Special Behaviors
 
 
 Examples
-===============
+-------
 Pivot By Advance Node Examples
 ---------------
 

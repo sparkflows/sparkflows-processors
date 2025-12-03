@@ -64,7 +64,7 @@ Fields
 
 
 Details
-===============
+-------
 Text Embedder Node Details
 ---------------
 

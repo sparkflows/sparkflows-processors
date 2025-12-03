@@ -71,7 +71,7 @@ Fields
 
 
 Details
-===============
+-------
 Join Node Details
 ---------------
 
@@ -98,7 +98,7 @@ Key features:
 
 
 Examples
-===============
+-------
 Join Node Examples
 ---------------
 

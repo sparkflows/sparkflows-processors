@@ -52,7 +52,7 @@ Fields
 
 
 Details
-===============
+-------
 Jython Details
 ---------------
 

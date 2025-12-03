@@ -38,7 +38,7 @@ Fields
 
 
 Details
-===============
+-------
 h2: Sklearn Quantile Fit Transform Node Details
 
 
@@ -69,7 +69,7 @@ h2: Sklearn Quantile Fit Transform Node Details
 
 
 Examples
-===============
+-------
 h2: Sklearn Quantile Fit Transform Node Example
 
 

@@ -38,7 +38,7 @@ Fields
 
 
 Details
-===============
+-------
 Decision Node Details
 ---------------
 
@@ -64,7 +64,7 @@ Input Parameters
 
 
 Examples
-===============
+-------
 Decision Node Example
 ---------------
 

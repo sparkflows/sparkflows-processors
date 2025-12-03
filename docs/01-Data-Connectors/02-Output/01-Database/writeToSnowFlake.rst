@@ -67,7 +67,7 @@ Fields
 
 
 Details
-===============
+-------
 Write To Snowflake Node Details
 ---------------
 
@@ -98,7 +98,7 @@ Ignore: If table already exists, the save operation is ignored.
 
 
 Examples
-===============
+-------
 Write To Snowflake Node Examples
 ---------------
 

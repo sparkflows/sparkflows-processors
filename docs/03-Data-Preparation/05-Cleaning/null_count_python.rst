@@ -29,7 +29,7 @@ Fields
 
 
 Details
-===============
+-------
 Count Null Values Node
 ---------------
 
@@ -38,7 +38,7 @@ This node counts the number of null values in each specified column of a dataset
 
 
 Examples
-===============
+-------
 Count Null Values Node Example
 ---------------
 

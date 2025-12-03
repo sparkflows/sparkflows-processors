@@ -41,7 +41,7 @@ Fields
 
 
 Details
-===============
+-------
 SQL Transformer Node Details
 ---------------
 
@@ -63,7 +63,7 @@ Input Parameters
 
 
 Examples
-===============
+-------
 SQL Transformer Node Example
 ---------------
 

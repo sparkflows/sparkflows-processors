@@ -42,7 +42,7 @@ Fields
 
 
 Details
-===============
+-------
 Web Scraper Node Details
 ---------------
 

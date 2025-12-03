@@ -26,7 +26,7 @@ Fields
 
 
 Details
-===============
+-------
 Index To String Transform Node Details
 ---------------
 
@@ -45,7 +45,7 @@ FIT MODEL : The output of a previous StringIndexer Estimator Node, which contain
 
 
 Examples
-===============
+-------
 Index To String Transform Node Example
 ---------------
 

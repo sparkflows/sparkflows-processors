@@ -37,7 +37,7 @@ Fields
 
 
 Details
-===============
+-------
 Transpose Node
 ---------------
 
@@ -46,7 +46,7 @@ This node transposes the rows and columns of a DataFrame on the selected column,
 
 
 Examples
-===============
+-------
 Transpose Node Example
 ---------------
 

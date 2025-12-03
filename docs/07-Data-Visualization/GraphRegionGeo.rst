@@ -56,7 +56,7 @@ Fields
 
 
 Details
-===============
+-------
 Geo Chart Details
 ---------------
 

@@ -35,7 +35,7 @@ Fields
 
 
 Details
-===============
+-------
 This node plots a graph depicting distribution of dataset against each Year derived from the specified Date column.
 
 
@@ -53,7 +53,7 @@ Key Configuration Options:
 
 
 Examples
-===============
+-------
 Example:
 
 

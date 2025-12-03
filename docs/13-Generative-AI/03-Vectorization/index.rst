@@ -2,7 +2,8 @@
 ===============
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :titlesonly:
 
    save_to_chroma.rst
    save_to_faiss.rst

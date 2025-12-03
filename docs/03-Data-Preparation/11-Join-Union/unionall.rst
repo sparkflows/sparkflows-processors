@@ -27,7 +27,7 @@ Fields
 
 
 Details
-===============
+-------
 Union All Node Details
 ---------------
 
@@ -39,7 +39,7 @@ Union All Node Details
 
 
 Examples
-===============
+-------
 Union All Node Examples
 ---------------
 

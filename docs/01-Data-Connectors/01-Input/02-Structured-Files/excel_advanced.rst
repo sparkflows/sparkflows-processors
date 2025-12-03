@@ -106,7 +106,7 @@ Fields
 
 
 Details
-===============
+-------
 Read Excel Advanced Node – Complete Guide
 ---------------
 
@@ -200,7 +200,7 @@ Define exact column names, data types, and date formats. When Enforce Schema = t
 
 
 Examples
-===============
+-------
 Read Excel Advanced – Real-World Examples
 ---------------
 

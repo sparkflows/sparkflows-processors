@@ -48,7 +48,7 @@ Fields
 
 
 Details
-===============
+-------
 Hive Incremental Node Details
 ---------------
 
@@ -70,7 +70,7 @@ Parameters to be set:
 
 
 Examples
-===============
+-------
 Hive Incremental Node Examples
 ---------------
 

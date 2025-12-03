@@ -40,7 +40,7 @@ Fields
 
 
 Details
-===============
+-------
 GE Decision Node
 ---------------
 
@@ -71,7 +71,7 @@ The data is routed to the specified path based on the evaluation of the expressi
 
 
 Examples
-===============
+-------
 Example
 ---------------
 

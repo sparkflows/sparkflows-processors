@@ -43,7 +43,7 @@ Fields
 
 
 Details
-===============
+-------
 Predict node takes in a DataFrame and Model and makes predictions on the data using the Model.
 
 

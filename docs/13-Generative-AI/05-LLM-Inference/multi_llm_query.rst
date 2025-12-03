@@ -82,7 +82,7 @@ Fields
 
 
 Details
-===============
+-------
 Multi LLM Query Node Details
 ---------------
 
@@ -222,7 +222,7 @@ The response column contains the LLM-generated text or error messages if the API
 
 
 Examples
-===============
+-------
 Multi LLM Query Node Examples
 ---------------
 

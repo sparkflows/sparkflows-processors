@@ -46,7 +46,7 @@ Fields
 
 
 Details
-===============
+-------
 N-Gram Transformer Node Details
 ---------------
 
@@ -67,7 +67,7 @@ Input Parameters
 
 
 Examples
-===============
+-------
 N-Gram Transformer Node Example
 ---------------
 

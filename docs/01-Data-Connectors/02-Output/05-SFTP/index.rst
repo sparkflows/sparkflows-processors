@@ -2,6 +2,7 @@
 ===============
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :titlesonly:
 
    write_sftp.rst

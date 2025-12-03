@@ -95,7 +95,7 @@ Fields
 
 
 Details
-===============
+-------
 More details are available at : https://xgboost.readthedocs.io/en/stable/python/python_api.html#xgboost.XGBRegressor
 
 

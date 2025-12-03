@@ -53,7 +53,7 @@ Fields
 
 
 Details
-===============
+-------
 ChiSqSelector stands for Chi-Squared feature selection. It operates on labeled data with categorical features. ChiSqSelector uses the Chi-Squared test of independence to decide which features to choose.
 
 
@@ -61,7 +61,7 @@ More details are available at : http://spark.apache.org/docs/latest/ml-features.
 
 
 Examples
-===============
+-------
 The below example is available at :  http://spark.apache.org/docs/latest/ml-features.html#chisqselector
 ---------------
 

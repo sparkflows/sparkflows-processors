@@ -35,7 +35,7 @@ Fields
 
 
 Details
-===============
+-------
 Cube Node generates a result set that shows aggregates for all combinations of values in the selected columns.
 
 
@@ -46,7 +46,7 @@ More than one aggregations can be selected.
 
 
 Examples
-===============
+-------
 Incoming Dataframe has following rows:
 
 

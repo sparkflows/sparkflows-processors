@@ -37,7 +37,7 @@ Fields
 
 
 Details
-===============
+-------
 Generate UUID Node Details
 ---------------
 
@@ -60,7 +60,7 @@ Output
 
 
 Examples
-===============
+-------
 Generate UUID Node Examples
 ---------------
 

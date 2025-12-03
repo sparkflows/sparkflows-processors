@@ -35,7 +35,7 @@ Fields
 
 
 Details
-===============
+-------
 This node saves the rows of the incoming DataFrame into Apache Cassandra.
 
 

@@ -74,7 +74,7 @@ Fields
 
 
 Details
-===============
+-------
 Read JDBC Node Details
 ---------------
 

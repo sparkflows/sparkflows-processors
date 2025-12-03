@@ -32,7 +32,7 @@ Fields
 
 
 Details
-===============
+-------
 Index String Node Details
 ---------------
 
@@ -53,7 +53,7 @@ Input Parameters
 
 
 Examples
-===============
+-------
 Index String Node Example
 ---------------
 

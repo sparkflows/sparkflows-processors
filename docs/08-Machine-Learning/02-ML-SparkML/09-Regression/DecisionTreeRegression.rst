@@ -91,7 +91,7 @@ Fields
 
 
 Details
-===============
+-------
 Decision tree supports both continuous and categorical features.
 
 
@@ -99,7 +99,7 @@ More details are available at Apache Spark ML docs page : https://spark.apache.o
 
 
 Examples
-===============
+-------
 Below example is available at : https://spark.apache.org/docs/latest/ml-classification-regression.html#decision-tree-regression
 
 

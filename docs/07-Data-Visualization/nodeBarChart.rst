@@ -81,7 +81,7 @@ Fields
 
 
 Details
-===============
+-------
 Bar Chart Node
 ---------------
 
@@ -92,7 +92,7 @@ You can rename columns,sort the categories and make changes in labels as needed 
 
 
 Examples
-===============
+-------
 Bar Chart Node Example
 ---------------
 

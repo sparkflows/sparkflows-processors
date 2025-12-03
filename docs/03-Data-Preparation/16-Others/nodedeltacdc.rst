@@ -77,7 +77,7 @@ Fields
 
 
 Details
-===============
+-------
 Delta Merge Node Details
 ---------------
 
@@ -115,7 +115,7 @@ When Not Matched Tab:
 
 
 Examples
-===============
+-------
 Delta Merge Node Examples
 ---------------
 

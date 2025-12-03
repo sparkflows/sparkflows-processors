@@ -122,7 +122,7 @@ Fields
 
 
 Details
-===============
+-------
 More details are available at : https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
 
 

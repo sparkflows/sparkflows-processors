@@ -55,7 +55,7 @@ Fields
 
 
 Details
-===============
+-------
 Read Databricks Table Node Details
 ---------------
 
@@ -75,7 +75,7 @@ Parameters to be set:
 
 
 Examples
-===============
+-------
 Read Databricks Table Node Examples
 ---------------
 

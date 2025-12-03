@@ -50,7 +50,7 @@ Fields
 
 
 Details
-===============
+-------
 This node creates a DataFrame by transposing (unpivoting) the incoming DataFrame.
 
 
@@ -63,7 +63,7 @@ This means any new or unknown columns appearing in the input will also be includ
 
 
 Examples
-===============
+-------
 ### Example 1: Standard Transpose
 
 

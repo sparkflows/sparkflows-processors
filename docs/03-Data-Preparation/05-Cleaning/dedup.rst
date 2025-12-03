@@ -52,7 +52,7 @@ Fields
 
 
 Details
-===============
+-------
 Levenstein
 ---------------
 
@@ -123,7 +123,7 @@ Date Difference gives number of days between two dates(yyyy-MM-dd).
 
 
 Examples
-===============
+-------
 Dedup Node Example
 ---------------
 

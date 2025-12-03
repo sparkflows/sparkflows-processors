@@ -73,7 +73,7 @@ Fields
 
 
 Details
-===============
+-------
 Window Function Node Details
 ---------------
 
@@ -96,7 +96,7 @@ For different configurations, chain multiple nodes.
 
 
 Examples
-===============
+-------
 Window Function Node Examples
 ---------------
 

@@ -66,7 +66,7 @@ Fields
 
 
 Details
-===============
+-------
 This node creates a scatter plot to visualize the relationship between two numerical variables. Each data point is represented by a dot on the chart.
 
 
@@ -102,7 +102,7 @@ Clustering: Group similar data points together.
 
 
 Examples
-===============
+-------
 Example:
 
 

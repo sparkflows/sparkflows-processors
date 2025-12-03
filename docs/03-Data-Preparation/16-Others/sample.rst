@@ -35,7 +35,7 @@ Fields
 
 
 Details
-===============
+-------
 Sample Node
 ---------------
 
@@ -44,7 +44,7 @@ This node samples a specified fraction of rows from the input DataFrame. It can 
 
 
 Examples
-===============
+-------
 Sample Node Example
 ---------------
 

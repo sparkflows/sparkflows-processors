@@ -59,7 +59,7 @@ Fields
 
 
 Details
-===============
+-------
 This node creates a Dataframe based on the Pivot table created out of the incoming Dataframe.
 
 
@@ -67,7 +67,7 @@ Pivot table is created by Aggregation of rows by applying the Aggregate function
 
 
 Examples
-===============
+-------
 Incoming Dataframe has following rows:
 
 

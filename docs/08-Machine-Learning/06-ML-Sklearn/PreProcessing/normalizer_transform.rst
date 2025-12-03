@@ -26,7 +26,7 @@ Fields
 
 
 Details
-===============
+-------
 Sklearn Normalizer Transform Node Details
 ---------------
 

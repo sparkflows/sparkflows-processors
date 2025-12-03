@@ -32,7 +32,7 @@ Fields
 
 
 Details
-===============
+-------
 This node displays distribution of categorical data. Calculates the count of records for each unique value for the column specified.
 
 
@@ -40,7 +40,7 @@ This node facilitates selection of multiple String columns. Distribution of each
 
 
 Examples
-===============
+-------
 If ColumnsCardinality node is configured to display distribution on two columns i.e. [DEPT] and [SALARY_GRADE] from the incoming dataset 
 
 then output would be created as below:

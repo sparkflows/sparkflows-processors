@@ -32,7 +32,7 @@ Fields
 
 
 Details
-===============
+-------
 Sort By Node – Full Control Over Data Ordering
 ---------------
 
@@ -72,7 +72,7 @@ Pro Tips
 
 
 Examples
-===============
+-------
 Sort By Node – Real Business Examples
 ---------------
 

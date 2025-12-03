@@ -72,7 +72,7 @@ Fields
 
 
 Details
-===============
+-------
 Bar Group Chart Node
 ---------------
 
@@ -81,7 +81,7 @@ This node creates a grouped bar chart to visualize data with multiple categories
 
 
 Examples
-===============
+-------
 Bar Group Chart Node Example
 ---------------
 

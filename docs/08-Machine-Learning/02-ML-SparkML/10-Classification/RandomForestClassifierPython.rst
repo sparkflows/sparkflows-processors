@@ -151,7 +151,7 @@ Fields
 
 
 Details
-===============
+-------
 Random forests are a popular family of classification and regression methods.
 
 Random forests supports both binary and multiclass labels, as well as both continuous and categorical features.
@@ -167,7 +167,7 @@ http://spark.apache.org/docs/latest/ml-classification-regression.html#random-for
 
 
 Examples
-===============
+-------
 Below example is available at : https://spark.apache.org/docs/latest/ml-classification-regression.html#random-forest-classifier
 
 

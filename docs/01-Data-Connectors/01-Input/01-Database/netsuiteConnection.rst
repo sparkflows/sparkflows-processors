@@ -52,7 +52,7 @@ Fields
 
 
 Details
-===============
+-------
 Read Netsuite Node Details
 ---------------
 

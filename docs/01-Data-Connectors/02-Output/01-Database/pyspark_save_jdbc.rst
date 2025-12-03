@@ -50,7 +50,7 @@ Fields
 
 
 Details
-===============
+-------
 Save JDBC Node Details
 ---------------
 
@@ -71,7 +71,7 @@ Parameters to be set:
 
 
 Examples
-===============
+-------
 Save JDBC Node Examples
 ---------------
 

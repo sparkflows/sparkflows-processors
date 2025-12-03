@@ -39,7 +39,7 @@ Fields
 
 
 Details
-===============
+-------
 Node H2O Clustering Evaluator Details:
 +++++++++++++++
 

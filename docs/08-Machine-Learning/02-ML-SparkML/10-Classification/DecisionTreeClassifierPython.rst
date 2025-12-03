@@ -136,7 +136,7 @@ Fields
 
 
 Details
-===============
+-------
 Decision trees supports both binary and multiclass labels, as well as both continuous and categorical features.
 
 
@@ -144,7 +144,7 @@ More at Spark MLlib/ML docs page : http://spark.apache.org/docs/latest/ml-classi
 
 
 Examples
-===============
+-------
 Below example is available at : https://spark.apache.org/docs/latest/ml-classification-regression.html#decision-tree-classifier
 
 

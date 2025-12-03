@@ -37,7 +37,7 @@ Fields
 
 
 Details
-===============
+-------
 Rename one column to another
 
 rename col:c1 to c2;
@@ -68,7 +68,7 @@ Sets the new value of Name column to be trim(Name)
 
 
 Examples
-===============
+-------
 Example:
 ---------------
 

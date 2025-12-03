@@ -35,7 +35,7 @@ Fields
 
 
 Details
-===============
+-------
 Model OCR Extract Node
 ---------------
 
@@ -44,7 +44,7 @@ This node extracts text from images using an OCR (Optical Character Recognition)
 
 
 Examples
-===============
+-------
 Model OCR Extract Node Example
 ---------------
 

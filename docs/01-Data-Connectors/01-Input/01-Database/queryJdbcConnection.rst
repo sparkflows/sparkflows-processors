@@ -85,7 +85,7 @@ Fields
 
 
 Details
-===============
+-------
 Query JDBC Node Details
 ---------------
 
@@ -105,7 +105,7 @@ Parameters to be set:
 
 
 Examples
-===============
+-------
 Query JDBC Node Examples
 ---------------
 

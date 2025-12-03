@@ -38,7 +38,7 @@ Fields
 
 
 Details
-===============
+-------
 Regex Tokenizer Node
 ---------------
 
@@ -73,7 +73,7 @@ The node creates a new column containing the tokenized text.
 
 
 Examples
-===============
+-------
 Example:
 ---------------
 

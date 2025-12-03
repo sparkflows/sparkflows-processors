@@ -55,7 +55,7 @@ Fields
 
 
 Details
-===============
+-------
 This node Generates a new Dataframe with Moving Window Function based computed Column appended to the incoming Dataframe.
 
 
@@ -63,7 +63,7 @@ New Column is populated with value based on selected Moving Window Function appl
 
 
 Examples
-===============
+-------
 Incoming Dataframe has following rows:
 
 

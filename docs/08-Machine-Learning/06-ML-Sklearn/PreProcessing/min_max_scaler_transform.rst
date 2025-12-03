@@ -26,7 +26,7 @@ Fields
 
 
 Details
-===============
+-------
 Sklearn MinMax Scaler Transform Node Details
 ---------------
 

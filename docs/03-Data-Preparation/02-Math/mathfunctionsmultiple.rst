@@ -38,7 +38,7 @@ Fields
 
 
 Details
-===============
+-------
 Math functions Details
 ---------------
 
@@ -68,7 +68,7 @@ Examples:
 
 
 Examples
-===============
+-------
 Incoming Dataframe has following rows:
 
 

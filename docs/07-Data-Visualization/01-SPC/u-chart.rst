@@ -59,7 +59,7 @@ Fields
 
 
 Details
-===============
+-------
 The U chart in Statistical Process Control (SPC) is used to monitor the number of defects per unit in a process where the sample size can vary. Unlike other control charts, the U chart accounts for different sample sizes by focusing on the defect rate rather than the absolute number of defects. It tracks the average number of defects per unit over time, making it ideal for processes with varying opportunities for defects, such as healthcare or service industries. The U chart helps detect shifts, trends, or outliers, ensuring the process remains stable and defect rates stay within control limits.
 
 

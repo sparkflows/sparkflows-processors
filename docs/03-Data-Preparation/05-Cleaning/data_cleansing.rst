@@ -94,7 +94,7 @@ Fields
 
 
 Details
-===============
+-------
 Data Cleansing Node – Fix 95% of Real-World Data Mess in One Click
 ---------------
 
@@ -152,7 +152,7 @@ Pro Tips
 
 
 Examples
-===============
+-------
 Data Cleansing – Before & After Real Examples
 ---------------
 

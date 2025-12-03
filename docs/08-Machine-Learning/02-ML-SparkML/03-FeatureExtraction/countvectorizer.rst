@@ -55,7 +55,7 @@ Fields
 
 
 Details
-===============
+-------
 Count Vectorizer Node Details
 ---------------
 
@@ -82,7 +82,7 @@ Input Parameters
 
 
 Examples
-===============
+-------
 Count Vectorizer Node Example
 ---------------
 

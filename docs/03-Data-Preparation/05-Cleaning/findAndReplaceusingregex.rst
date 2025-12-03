@@ -39,7 +39,7 @@ Fields
 
 
 Details
-===============
+-------
 Find and Replace Details
 ---------------
 
@@ -50,7 +50,7 @@ The Find pattern must be in Regex format. This node will only find exact matches
 
 
 Examples
-===============
+-------
 Find and Replace Examples
 ---------------
 

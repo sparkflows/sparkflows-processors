@@ -35,7 +35,7 @@ Fields
 
 
 Details
-===============
+-------
 Has Max Node
 ---------------
 
@@ -67,7 +67,7 @@ The node will flag records where the specified column value is greater than the 
 
 
 Examples
-===============
+-------
 Example:
 
 

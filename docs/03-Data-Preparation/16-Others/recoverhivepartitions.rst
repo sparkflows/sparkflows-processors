@@ -32,7 +32,7 @@ Fields
 
 
 Details
-===============
+-------
 This node is used to recover the partitions of external hive table.
 
 

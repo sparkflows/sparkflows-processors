@@ -39,7 +39,7 @@ Fields
 
 
 Details
-===============
+-------
 Read Faiss DB Node Details
 ---------------
 
@@ -78,7 +78,7 @@ The node outputs a DataFrame with the following columns:
 
 
 Examples
-===============
+-------
 Example: Read Faiss DB Node
 ---------------
 

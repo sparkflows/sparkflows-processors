@@ -35,7 +35,7 @@ Fields
 
 
 Details
-===============
+-------
 Imputer Node Details
 ---------------
 
@@ -58,7 +58,7 @@ STRATEGY : The imputation strategy can be mean, median or mode.
 
 
 Examples
-===============
+-------
 Imputer Node Example
 ---------------
 

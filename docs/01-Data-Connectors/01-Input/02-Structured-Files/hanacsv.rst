@@ -52,7 +52,7 @@ Fields
 
 
 Details
-===============
+-------
 This node reads data from Hana CSV files and creates a DataFrame from it.
 
 

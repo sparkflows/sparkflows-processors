@@ -32,7 +32,7 @@ Fields
 
 
 Details
-===============
+-------
 Sklearn Standard Scalar Node Details
 ---------------
 
@@ -58,7 +58,7 @@ WITH STD : If it is set to true, it will scale the data to unit variance (or equ
 
 
 Examples
-===============
+-------
 Sklearn Standard Scalar Node Example
 ---------------
 

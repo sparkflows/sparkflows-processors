@@ -64,14 +64,14 @@ Fields
 
 
 Details
-===============
+-------
 It executes the query in BigQuery and creates a DataFrame from it
 
 This node allows you to execute SQL queries directly against a BigQuery database. It provides a flexible way to interact with BigQuery and retrieve data for further processing.
 
 
 Examples
-===============
+-------
 Execute BigQuery Node Example
 ---------------
 

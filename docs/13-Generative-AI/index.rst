@@ -2,7 +2,8 @@
 ===============
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :titlesonly:
 
    01-Hugging-Face/index.rst
    02-Ingestion/index.rst

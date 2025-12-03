@@ -43,7 +43,7 @@ Fields
 
 
 Details
-===============
+-------
 Union Advanced Node – The Smart Way to Combine Data
 ---------------
 
@@ -82,7 +82,7 @@ Best Practices
 
 
 Examples
-===============
+-------
 Union Advanced – Practical Business Examples
 ---------------
 

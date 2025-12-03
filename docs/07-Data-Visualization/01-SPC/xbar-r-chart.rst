@@ -62,7 +62,7 @@ Fields
 
 
 Details
-===============
+-------
 The XBAR-R chart is a control chart in Statistical Process Control (SPC) used to monitor the process mean and variability using small sample sizes. The "XBAR" chart tracks the average (mean) of samples over time, while the "R" chart monitors the range (difference between the highest and lowest values) within each sample, reflecting process variability. It is most effective when sample sizes are small (typically 2 to 10 units per subgroup). The XBAR-R chart helps identify shifts in the process mean and changes in variability, ensuring the process remains stable and under control for consistent quality.
 
 

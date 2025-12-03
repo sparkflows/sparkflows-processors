@@ -36,12 +36,12 @@ Fields
 
 
 Details
-===============
+-------
 This node loads a previously saved Spark ML model into the workflow. This allows you to reuse trained models for scoring new data or further analysis.
 
 
 Examples
-===============
+-------
 Configuration:
 
 

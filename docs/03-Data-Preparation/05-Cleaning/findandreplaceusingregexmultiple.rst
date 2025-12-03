@@ -39,7 +39,7 @@ Fields
 
 
 Details
-===============
+-------
 This node finds and replaces text in a column containing string with another one.
 
 
@@ -53,7 +53,7 @@ Outgoing Dataframe would be created after processing of all conditions.
 
 
 Examples
-===============
+-------
 Incoming Dataframe has following rows:
 
 

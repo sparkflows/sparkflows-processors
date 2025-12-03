@@ -34,7 +34,7 @@ Fields
 
 
 Details
-===============
+-------
 Vector Indexer Transform Node Details
 ---------------
 
@@ -51,7 +51,7 @@ DataFrame : The input DataFrame which contains the features to be indexed.
 
 
 Examples
-===============
+-------
 Vector Indexer Transform Node Example
 ---------------
 

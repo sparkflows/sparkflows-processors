@@ -50,7 +50,7 @@ Fields
 
 
 Details
-===============
+-------
 Pdf Attachments From Email Node Details
 ---------------
 

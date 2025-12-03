@@ -59,7 +59,7 @@ Fields
 
 
 Details
-===============
+-------
 Save Delta Node Details
 ---------------
 
@@ -86,7 +86,7 @@ Ignore: If table already exists, the save operation is ignored.
 
 
 Examples
-===============
+-------
 Save Delta Node Examples
 ---------------
 

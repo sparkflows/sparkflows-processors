@@ -35,7 +35,7 @@ Fields
 
 
 Details
-===============
+-------
 This node Generates a new Dataframe with Rank Column appended to the incoming Dataframe.
 
 
@@ -43,7 +43,7 @@ Rank Column is populated with value based on the Window Function selected.
 
 
 Examples
-===============
+-------
 Incoming Dataframe has following rows:
 
 

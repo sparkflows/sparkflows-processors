@@ -38,12 +38,12 @@ Fields
 
 
 Details
-===============
+-------
 This node imputes missing values or replaces  specified values in the selected columns by mean, meadian, mode or constant.
 
 
 Examples
-===============
+-------
 Incoming Dataframe has following rows and missing value / [NULL] for some rows:
 
 

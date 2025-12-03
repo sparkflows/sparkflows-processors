@@ -2,7 +2,8 @@
 ===============
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :titlesonly:
 
    count_rows_columns_python.rst
    data_cleansing.rst

@@ -34,7 +34,7 @@ Fields
 
 
 Details
-===============
+-------
 Min Max Scaler Transform Node Details
 ---------------
 
@@ -53,7 +53,7 @@ FIT MODEL : The output of a previous Min Max Scaler Estimator Node, which contai
 
 
 Examples
-===============
+-------
 Min Max Scaler Transform Node Example
 ---------------
 

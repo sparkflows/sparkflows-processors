@@ -43,7 +43,7 @@ Fields
 
 
 Details
-===============
+-------
 Principal component analysis (PCA) is a statistical method to find a rotation such that the first coordinate has the largest variance possible, and each succeeding coordinate in turn has the largest variance possible. 
 
 The columns of the rotation matrix are called principal components.
@@ -53,7 +53,7 @@ More at Spark MLlib/ML docs page : https://spark.apache.org/docs/2.0.0/mllib-dim
 
 
 Examples
-===============
+-------
 The below example is available at : https://spark.apache.org/docs/2.0.0/mllib-dimensionality-reduction.html#principal-component-analysis-pca
 ---------------
 

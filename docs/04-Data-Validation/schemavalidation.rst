@@ -29,7 +29,7 @@ Fields
 
 
 Details
-===============
+-------
 Schema Validation Node Details
 ---------------
 
@@ -45,7 +45,7 @@ Validation definition for multiple columns can be entered in separate row.
 
 
 Examples
-===============
+-------
 Schema Validation Node Examples
 ---------------
 

@@ -42,7 +42,7 @@ Fields
 
 
 Details
-===============
+-------
 Purpose:
 
 
@@ -79,7 +79,7 @@ Topic Modeling: Discover underlying topics in a text corpus.
 
 
 Examples
-===============
+-------
 Example:
 
 

@@ -157,7 +157,7 @@ Fields
 
 
 Details
-===============
+-------
 Gradient-boosted trees (GBTs) are a popular classification and regression method using ensembles of decision trees. 
 
 
@@ -165,7 +165,7 @@ More details are available at : http://spark.apache.org/docs/latest/ml-classific
 
 
 Examples
-===============
+-------
 Below example is available at :https://spark.apache.org/docs/latest/ml-classification-regression.html#gradient-boosted-tree-classifier
 
 

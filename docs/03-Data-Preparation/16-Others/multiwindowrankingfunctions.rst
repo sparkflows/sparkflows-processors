@@ -38,7 +38,7 @@ Fields
 
 
 Details
-===============
+-------
 This node Generates a new Dataframe with Rank Columns appended to the incoming Dataframe.
 
 
@@ -49,7 +49,7 @@ This node facilitates computation of multiple Rank Columns.
 
 
 Examples
-===============
+-------
 Incoming Dataframe has following rows:
 
 

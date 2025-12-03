@@ -40,7 +40,7 @@ Fields
 
 
 Details
-===============
+-------
 One Hot Encoder Node Details
 ---------------
 
@@ -61,7 +61,7 @@ OUTPUT COLUMN : The name of the output column after encoding.
 
 
 Examples
-===============
+-------
 One Hot Encoder Node Example
 ---------------
 

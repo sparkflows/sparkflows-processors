@@ -2,7 +2,8 @@
 ===============
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :titlesonly:
 
    interactive_llm_agent.rst
    invoice_extraction.rst

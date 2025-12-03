@@ -62,7 +62,7 @@ Fields
 
 
 Details
-===============
+-------
 The I-MR-S chart in Statistical Process Control (SPC) is a control chart used to monitor both individual measurements and the variability within subgroups. The "I" chart tracks individual data points over time, the "MR" chart monitors the moving range between consecutive measurements, and the "S" chart measures the standard deviation within subgroups. This chart is ideal for processes with small sample sizes and helps detect shifts in both the process mean and variability. By identifying trends, shifts, or outliers, the I-MR-S chart ensures that a process remains stable and operates within control limits for consistent quality.
 
 

@@ -32,7 +32,7 @@ Fields
 
 
 Details
-===============
+-------
 WhatIf Summary Statistics Node Details
 ---------------
 
@@ -56,7 +56,7 @@ Input Parameters
 
 
 Examples
-===============
+-------
 WhatIf Summary Statistics Node Example
 ---------------
 

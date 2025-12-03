@@ -43,7 +43,7 @@ Fields
 
 
 Details
-===============
+-------
 Formula Node Details
 ---------------
 
@@ -52,7 +52,7 @@ This node allows the user to use functions to build expressions that perform a v
 
 
 Examples
-===============
+-------
 conditional
 ---------------
 

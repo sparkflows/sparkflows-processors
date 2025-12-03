@@ -46,7 +46,7 @@ Fields
 
 
 Details
-===============
+-------
 Pipe Python Details
 ---------------
 
@@ -61,7 +61,7 @@ The output from the Python script has to be written back to Spark using print. T
 
 
 Examples
-===============
+-------
 Pipe Python Examples
 ---------------
 

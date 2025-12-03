@@ -29,7 +29,7 @@ Fields
 
 
 Details
-===============
+-------
 This node takes two Dataframes as input, compares them on specific columns and creates three Dataframes as output.
 
 
@@ -43,7 +43,7 @@ Third Dataframe (A intersection B) is created with rows common in both incoming 
 
 
 Examples
-===============
+-------
 1st Incoming Dataframe has following rows:
 
 

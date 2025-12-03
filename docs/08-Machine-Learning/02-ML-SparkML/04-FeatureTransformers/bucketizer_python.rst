@@ -43,7 +43,7 @@ Fields
 
 
 Details
-===============
+-------
 Bucketizer Node Details
 ---------------
 
@@ -66,7 +66,7 @@ SPLITS : The splits for the buckets, specified as an array of floats.
 
 
 Examples
-===============
+-------
 Bucketizer Node Example
 ---------------
 

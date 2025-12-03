@@ -49,7 +49,7 @@ Fields
 
 
 Details
-===============
+-------
 Video Summarization Node Details
 ---------------
 
@@ -94,7 +94,7 @@ The node outputs the generated summary as a text file saved at the specified Out
 
 
 Examples
-===============
+-------
 Example: Video Summarization Node
 ---------------
 

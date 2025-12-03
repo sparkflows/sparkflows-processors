@@ -29,7 +29,7 @@ Fields
 
 
 Details
-===============
+-------
 Row Numbering Node
 ---------------
 
@@ -59,7 +59,7 @@ Output Column: The name of the new column to store the row numbers.
 
 
 Examples
-===============
+-------
 Example:
 ---------------
 

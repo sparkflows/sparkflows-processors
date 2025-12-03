@@ -46,7 +46,7 @@ Fields
 
 
 Details
-===============
+-------
 Standard Scaler Node Details
 ---------------
 
@@ -72,7 +72,7 @@ WITH STANDARD DEVIATION : Scales the data to unit standard deviation.
 
 
 Examples
-===============
+-------
 Standard Scaler Node Example
 ---------------
 

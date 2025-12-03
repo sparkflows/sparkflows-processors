@@ -2,7 +2,8 @@
 ===============
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :titlesonly:
 
    hf_custom_categories_sentiment_analysis.rst
    hf_grammatical_correctness.rst

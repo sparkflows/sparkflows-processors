@@ -58,7 +58,7 @@ Fields
 
 
 Details
-===============
+-------
 Word2Vec Node Details
 ---------------
 
@@ -86,7 +86,7 @@ Input Parameters
 
 
 Examples
-===============
+-------
 Word2Vec Node Example
 ---------------
 

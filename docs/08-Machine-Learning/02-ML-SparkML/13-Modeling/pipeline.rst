@@ -34,7 +34,7 @@ Fields
 
 
 Details
-===============
+-------
 This node represents Pipeline from Spark ML.
 
 

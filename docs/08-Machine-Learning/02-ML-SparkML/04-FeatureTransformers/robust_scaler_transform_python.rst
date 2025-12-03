@@ -26,7 +26,7 @@ Fields
 
 
 Details
-===============
+-------
 Robust Scaler Transform Node Details
 ---------------
 
@@ -45,7 +45,7 @@ FIT MODEL : The output of a previous Robust Scaler Estimator Node, which contain
 
 
 Examples
-===============
+-------
 Robust Scaler Transform Node Example
 ---------------
 

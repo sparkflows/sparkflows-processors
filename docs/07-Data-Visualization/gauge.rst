@@ -57,7 +57,7 @@ Fields
 
 
 Details
-===============
+-------
 Gauge Details
 ---------------
 
@@ -94,7 +94,7 @@ Output
 
 
 Examples
-===============
+-------
 Example:
 
 

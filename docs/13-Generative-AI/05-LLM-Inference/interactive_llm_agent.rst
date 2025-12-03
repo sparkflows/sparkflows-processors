@@ -43,7 +43,7 @@ Fields
 
 
 Details
-===============
+-------
 Interactive LLM Agent Node Details
 ---------------
 
@@ -99,7 +99,7 @@ If a DataFrame is passed in with metadata columns, their values are merged into 
 
 
 Examples
-===============
+-------
 Example: Interactive LLM Agent Node
 ---------------
 

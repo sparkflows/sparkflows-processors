@@ -35,7 +35,7 @@ Fields
 
 
 Details
-===============
+-------
 Unix Time To String Details
 ---------------
 
@@ -69,7 +69,7 @@ Example
 
 
 Examples
-===============
+-------
 Format Examples
 ---------------
 

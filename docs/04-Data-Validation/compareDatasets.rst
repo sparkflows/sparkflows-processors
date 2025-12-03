@@ -26,7 +26,7 @@ Fields
 
 
 Details
-===============
+-------
 Compare Dataset Node Details
 ---------------
 
@@ -42,7 +42,7 @@ It doesn't result in any output if set of fields of incoming Dataframes are diff
 
 
 Examples
-===============
+-------
 Compare Dataset Node Examples
 ---------------
 

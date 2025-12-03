@@ -43,7 +43,7 @@ Fields
 
 
 Details
-===============
+-------
 This node calculates the correlation between two series of data in a common operation in Statistics.
 
 

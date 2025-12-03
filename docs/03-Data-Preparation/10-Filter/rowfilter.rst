@@ -37,7 +37,7 @@ Fields
 
 
 Details
-===============
+-------
 Details
 ---------------
 
@@ -46,7 +46,7 @@ Row filter allows the user to filter out rows that do not meet a set condition. 
 
 
 Examples
-===============
+-------
 Examples of Conditional Expression
 ---------------
 

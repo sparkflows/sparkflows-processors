@@ -106,7 +106,7 @@ Fields
 
 
 Details
-===============
+-------
 Random forests are a popular family of classification and regression methods.
 
 The DataFrame API supports two major tree ensemble algorithms: Random Forests and Gradient-Boosted Trees (GBTs). Both use spark.ml decision trees as their base models.
@@ -119,7 +119,7 @@ http://spark.apache.org/docs/latest/ml-classification-regression.html#random-for
 
 
 Examples
-===============
+-------
 Below example is available at : https://spark.apache.org/docs/latest/ml-classification-regression.html#random-forest-regression
 
 

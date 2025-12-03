@@ -61,7 +61,7 @@ Fields
 
 
 Details
-===============
+-------
 DocumentToText Node Details
 ---------------
 
@@ -142,7 +142,7 @@ The node outputs a DataFrame with the following default columns:
 
 
 Examples
-===============
+-------
 Example: DocumentToText Node
 ---------------
 

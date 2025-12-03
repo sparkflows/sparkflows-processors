@@ -35,7 +35,7 @@ Fields
 
 
 Details
-===============
+-------
 This node plots a graph depicting distribution of dataset against each Week Days derived from the specified Date column.
 
 

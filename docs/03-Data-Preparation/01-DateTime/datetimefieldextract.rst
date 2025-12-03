@@ -67,7 +67,7 @@ Fields
 
 
 Details
-===============
+-------
 Date Time Field Extract Details
 ---------------
 
@@ -98,7 +98,7 @@ Output
 
 
 Examples
-===============
+-------
 If incoming Dataframe has Date value as 2022-01-01 14:30:45 in YYYY-MM-DD HH:mm:ss format then using datetimeextract node would result in followings 
 
 added as new columns to the Dataframe:

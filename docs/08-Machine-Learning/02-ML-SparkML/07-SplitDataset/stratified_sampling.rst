@@ -43,7 +43,7 @@ Fields
 
 
 Details
-===============
+-------
 Split With Stratified Sampling, which is the preferred way to sample from populations with varing subpopulation sizes.
 
 

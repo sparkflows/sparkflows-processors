@@ -35,7 +35,7 @@ Fields
 
 
 Details
-===============
+-------
 Pattern Match Node
 ---------------
 
@@ -66,7 +66,7 @@ The node will flag records where the specified column value matches any of the d
 
 
 Examples
-===============
+-------
 Example:
 ---------------
 

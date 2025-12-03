@@ -43,7 +43,7 @@ Fields
 
 
 Details
-===============
+-------
 This node classifies text into pre-defined categories using OpenNLP
 
 

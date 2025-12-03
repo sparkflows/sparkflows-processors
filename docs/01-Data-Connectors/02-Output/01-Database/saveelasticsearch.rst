@@ -59,7 +59,7 @@ Fields
 
 
 Details
-===============
+-------
 This node stores the rows of the incoming DataFrame into Elastic Search.
 
 

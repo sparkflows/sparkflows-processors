@@ -39,7 +39,7 @@ Fields
 
 
 Details
-===============
+-------
 This node detects sentences using OpenNLP -
 
 

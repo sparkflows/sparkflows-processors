@@ -75,7 +75,7 @@ Fields
 
 
 Details
-===============
+-------
 Principal Components Analysis (PCA) is closely related to Principal Components Regression. The algorithm is carried out on a set of possibly collinear features and performs a transformation to produce a new set of uncorrelated features.
 
 

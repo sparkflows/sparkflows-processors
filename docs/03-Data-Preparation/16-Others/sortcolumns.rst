@@ -29,12 +29,12 @@ Fields
 
 
 Details
-===============
+-------
 This node reorders columns present in the incoming DataFrame as specified.
 
 
 Examples
-===============
+-------
 Incoming Dataframe has following rows:
 
 

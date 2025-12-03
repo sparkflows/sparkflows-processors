@@ -38,7 +38,7 @@ Fields
 
 
 Details
-===============
+-------
 Update JDBC Node Details
 ---------------
 
@@ -59,7 +59,7 @@ Parameters to be set:
 
 
 Examples
-===============
+-------
 Update JDBC Node Examples
 ---------------
 

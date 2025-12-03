@@ -46,7 +46,7 @@ Fields
 
 
 Details
-===============
+-------
 Min Max Scaler Node Details
 ---------------
 
@@ -67,7 +67,7 @@ Input Parameters
 
 
 Examples
-===============
+-------
 Min Max Scaler Node Example
 ---------------
 

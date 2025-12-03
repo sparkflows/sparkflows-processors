@@ -57,7 +57,7 @@ Fields
 
 
 Details
-===============
+-------
 Save Faiss DB Node Details
 ---------------
 
@@ -122,7 +122,7 @@ The node saves the embeddings, content, and optional metadata (file names, page 
 
 
 Examples
-===============
+-------
 Example: Save Faiss DB Node
 ---------------
 

@@ -47,7 +47,7 @@ Fields
 
 
 Details
-===============
+-------
 Parse XML Column Node
 ---------------
 
@@ -78,7 +78,7 @@ The node creates new columns for each specified XML field, with rootTag, extract
 
 
 Examples
-===============
+-------
 Example:
 
 

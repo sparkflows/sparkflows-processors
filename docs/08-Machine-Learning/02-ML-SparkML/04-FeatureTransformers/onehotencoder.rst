@@ -40,7 +40,7 @@ Fields
 
 
 Details
-===============
+-------
 One Hot Encoder Node Details
 ---------------
 
@@ -63,7 +63,7 @@ Input Parameters
 
 
 Examples
-===============
+-------
 One Hot Encoder Node Example
 ---------------
 

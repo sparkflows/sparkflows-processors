@@ -2,7 +2,8 @@ Classification
 ===============
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :titlesonly:
 
    gradient-boosting-classifier.rst
    logistic-regression.rst

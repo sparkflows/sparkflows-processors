@@ -27,7 +27,7 @@ Fields
 
 
 Details
-===============
+-------
 Union Distinct Node Details
 ---------------
 
@@ -40,7 +40,7 @@ Union Distinct Node Details
 
 
 Examples
-===============
+-------
 Union Distinct Example
 ---------------
 

@@ -29,7 +29,7 @@ Fields
 
 
 Details
-===============
+-------
 Run Python File Node
 ---------------
 
@@ -38,7 +38,7 @@ This node executes a specified Python script, allowing you to incorporate custom
 
 
 Examples
-===============
+-------
 Run Python File Node Example
 ---------------
 

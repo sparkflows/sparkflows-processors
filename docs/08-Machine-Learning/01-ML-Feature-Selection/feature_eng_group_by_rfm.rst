@@ -64,7 +64,7 @@ Fields
 
 
 Details
-===============
+-------
 Feature Engineering Node Details
 ---------------
 
@@ -162,7 +162,7 @@ The node outputs a DataFrame with the group-by columns and one or more additiona
 
 
 Examples
-===============
+-------
 Feature Engineering Node Examples
 ---------------
 

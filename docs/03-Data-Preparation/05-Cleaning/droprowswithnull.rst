@@ -27,12 +27,12 @@ Fields
 
 
 Details
-===============
+-------
 This node creates a new DataFrame by dropping rows containing NULL values in any of the columns.
 
 
 Examples
-===============
+-------
 Incoming Dataframe has following rows:
 
 

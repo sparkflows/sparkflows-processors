@@ -138,7 +138,7 @@ Fields
 
 
 Details
-===============
+-------
 H2O AutoML(for Regression and Classification) The H2O AutoML interface is designed to have as few parameters as possible so that all the user needs to do is point to their dataset, identify the response column and optionally specify a time constraint or limit on the number of total models trained.
 
 

@@ -59,7 +59,7 @@ Fields
 
 
 Details
-===============
+-------
 Audio Diarization Node Details
 ---------------
 
@@ -129,7 +129,7 @@ If the Output Save Path is specified, the transcription is also saved as a .txt 
 
 
 Examples
-===============
+-------
 Example: Audio Diarization Node
 ---------------
 

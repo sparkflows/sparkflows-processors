@@ -48,7 +48,7 @@ Fields
 
 
 Details
-===============
+-------
 Read Pinecone DB Node Details
 ---------------
 
@@ -102,7 +102,7 @@ The node outputs a DataFrame with the following columns:
 
 
 Examples
-===============
+-------
 Example: Read Pinecone DB Node
 ---------------
 

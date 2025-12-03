@@ -32,7 +32,7 @@ Fields
 
 
 Details
-===============
+-------
 Math Expression Details
 ---------------
 
@@ -66,7 +66,7 @@ Valid examples of Math functions - abs, acros, asin, atan, atan2, bin, cbrt, cei
 
 
 Examples
-===============
+-------
 Incoming Dataframe has following rows:
 
 

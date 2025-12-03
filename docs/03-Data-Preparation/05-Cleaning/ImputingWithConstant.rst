@@ -32,7 +32,7 @@ Fields
 
 
 Details
-===============
+-------
 This node imputes the missing value with constant value.
 
 
@@ -40,7 +40,7 @@ It fills missing values (None) in selected columns with given constant value for
 
 
 Examples
-===============
+-------
 Incoming Dataframe has following rows and [AGE] column has missing values / [NULL] for some rows:
 
 

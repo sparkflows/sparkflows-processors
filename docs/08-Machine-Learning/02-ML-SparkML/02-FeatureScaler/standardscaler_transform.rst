@@ -34,7 +34,7 @@ Fields
 
 
 Details
-===============
+-------
 Standard Scaler Transform Node Details
 ---------------
 
@@ -53,7 +53,7 @@ FIT MODEL : The output of a previous Standard Scaler Estimator Node, which conta
 
 
 Examples
-===============
+-------
 Standard Scaler Transform Node Example
 ---------------
 

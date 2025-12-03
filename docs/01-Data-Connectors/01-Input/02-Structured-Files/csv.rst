@@ -85,7 +85,7 @@ Fields
 
 
 Details
-===============
+-------
 Read CSV Details
 ---------------
 
@@ -162,7 +162,7 @@ Users can still add or delete columns using **+** button next to the InferSchema
 
 
 Examples
-===============
+-------
 Read CSV Node Example
 ---------------
 

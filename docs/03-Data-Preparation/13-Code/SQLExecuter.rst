@@ -52,7 +52,7 @@ Fields
 
 
 Details
-===============
+-------
 SQL Executor Node
 ---------------
 
@@ -61,7 +61,7 @@ This node executes a specified SQL query against a database. The results of the 
 
 
 Examples
-===============
+-------
 SQL Executor Node Example
 ---------------
 

@@ -72,7 +72,7 @@ Fields
 
 
 Details
-===============
+-------
 Graph Values Details
 ---------------
 
@@ -130,7 +130,7 @@ Example
 
 
 Examples
-===============
+-------
 Example:
 
 

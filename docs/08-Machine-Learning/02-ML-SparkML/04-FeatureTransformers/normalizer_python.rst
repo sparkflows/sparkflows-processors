@@ -43,7 +43,7 @@ Fields
 
 
 Details
-===============
+-------
 Normalizer Node Details
 ---------------
 
@@ -68,7 +68,7 @@ Input Parameters
 
 
 Examples
-===============
+-------
 Normalizer Node Example
 ---------------
 

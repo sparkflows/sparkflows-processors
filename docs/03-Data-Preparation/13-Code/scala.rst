@@ -52,7 +52,7 @@ Fields
 
 
 Details
-===============
+-------
 Scala Details
 ---------------
 
@@ -73,7 +73,7 @@ import spark.implicits._
 
 
 Examples
-===============
+-------
 Scala Examples
 ---------------
 

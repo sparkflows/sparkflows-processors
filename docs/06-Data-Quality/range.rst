@@ -38,7 +38,7 @@ Fields
 
 
 Details
-===============
+-------
 Column Values To Be Between Node
 ---------------
 
@@ -72,7 +72,7 @@ The node will flag records where the specified column value is outside the defin
 
 
 Examples
-===============
+-------
 Example:
 
 

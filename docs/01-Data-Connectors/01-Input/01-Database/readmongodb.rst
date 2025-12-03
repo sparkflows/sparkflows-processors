@@ -44,7 +44,7 @@ Fields
 
 
 Details
-===============
+-------
 This node reads a table from MongoDB.
 
 

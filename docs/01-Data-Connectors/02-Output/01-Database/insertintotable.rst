@@ -44,7 +44,7 @@ Fields
 
 
 Details
-===============
+-------
 Insert Into HIVE Table Node Details
 ---------------
 

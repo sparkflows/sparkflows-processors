@@ -39,7 +39,7 @@ Fields
 
 
 Details
-===============
+-------
 Filter By Number Range Node Details
 ---------------
 
@@ -67,7 +67,7 @@ Output
 
 
 Examples
-===============
+-------
 Filter By Number Range Node Examples
 ---------------
 

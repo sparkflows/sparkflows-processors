@@ -2,7 +2,8 @@
 ===============
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :titlesonly:
 
    AFTSurvivalRegression.rst
    DecisionTreeRegression.rst

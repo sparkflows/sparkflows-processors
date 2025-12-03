@@ -37,7 +37,7 @@ Fields
 
 
 Details
-===============
+-------
 Run HIVEQL Details
 ---------------
 
@@ -49,7 +49,7 @@ The input to this node is a DataFrame and the output is another DataFrame genera
 
 
 Examples
-===============
+-------
 Run HIVEQL Examples
 ---------------
 

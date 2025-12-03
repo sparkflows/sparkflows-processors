@@ -38,7 +38,7 @@ Fields
 
 
 Details
-===============
+-------
 Check Outliers Node
 ---------------
 
@@ -72,7 +72,7 @@ The node will flag records that are identified as outliers.
 
 
 Examples
-===============
+-------
 Example:
 
 

@@ -29,12 +29,12 @@ Fields
 
 
 Details
-===============
+-------
 This node identifies number of Null values and its percentage against the total data length in the selected columns.
 
 
 Examples
-===============
+-------
 A set of columns can be selected to display count of Null values on.
 
 

@@ -40,7 +40,7 @@ Fields
 
 
 Details
-===============
+-------
 String Indexer Node Details
 ---------------
 
@@ -63,7 +63,7 @@ OUTPUT COLUMN: The name of the output column after encoding.
 
 
 Examples
-===============
+-------
 String Indexer Node Example
 ---------------
 

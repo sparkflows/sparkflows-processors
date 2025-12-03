@@ -42,7 +42,7 @@ Fields
 
 
 Details
-===============
+-------
 SharePoint Data Extraction Node Details
 ---------------
 

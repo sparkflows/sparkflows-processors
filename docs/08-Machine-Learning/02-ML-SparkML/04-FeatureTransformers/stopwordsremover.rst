@@ -42,7 +42,7 @@ Fields
 
 
 Details
-===============
+-------
 Stop Words Remover Node Details
 ---------------
 
@@ -66,7 +66,7 @@ Input Parameters
 
 
 Examples
-===============
+-------
 Stop Words Remover Node Example
 ---------------
 

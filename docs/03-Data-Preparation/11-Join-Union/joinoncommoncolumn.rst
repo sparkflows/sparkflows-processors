@@ -52,7 +52,7 @@ Fields
 
 
 Details
-===============
+-------
 Join On Common Column Node Details
 ---------------
 
@@ -75,7 +75,7 @@ Joining modes supported by this node is as follows:
 
 
 Examples
-===============
+-------
 Join On Common Column Example
 ---------------
 

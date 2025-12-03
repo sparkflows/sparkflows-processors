@@ -48,12 +48,12 @@ Fields
 
 
 Details
-===============
+-------
 This node removes unwanted characters from the specified input columns
 
 
 Examples
-===============
+-------
 Incoming Dataframe has following row:
 
 

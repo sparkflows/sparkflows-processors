@@ -63,7 +63,7 @@ Fields
 
 
 Details
-===============
+-------
 The Word2vec algorithm takes a text corpus as an input and produces the word vectors as output. The algorithm first creates a vocabulary from the training text data and then learns vector representations of the words.
 
 

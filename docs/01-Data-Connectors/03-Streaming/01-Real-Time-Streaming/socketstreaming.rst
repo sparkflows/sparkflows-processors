@@ -43,7 +43,7 @@ Fields
 
 
 Details
-===============
+-------
 This Processor reads in messages from a Socket
 
 
@@ -61,7 +61,7 @@ Below are the key fields of this Processor.
 
 
 Examples
-===============
+-------
 Below is an example of the fields:
 
 

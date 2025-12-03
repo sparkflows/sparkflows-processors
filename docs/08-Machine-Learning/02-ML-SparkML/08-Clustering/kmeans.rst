@@ -67,7 +67,7 @@ Fields
 
 
 Details
-===============
+-------
 ::
 
     k-means is one of the most commonly used clustering algorithms that clusters the data points into a predefined number of clusters. The MLlib implementation includes a parallelized variant of the k-means++ method called kmeans||.
@@ -83,7 +83,7 @@ https://spark.apache.org/docs/latest/ml-clustering.html#k-means
 
 
 Examples
-===============
+-------
 Below example is available at : https://spark.apache.org/docs/latest/ml-clustering.html#k-means
 
 

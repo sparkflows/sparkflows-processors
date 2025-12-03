@@ -37,7 +37,7 @@ Fields
 
 
 Details
-===============
+-------
 Select Columns Node Details
 ---------------
 
@@ -52,7 +52,7 @@ Columns that need to be included in the outgoing Dataframe are to be selected in
 
 
 Examples
-===============
+-------
 Select Columns Node Examples
 ---------------
 

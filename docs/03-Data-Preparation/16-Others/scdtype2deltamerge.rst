@@ -56,7 +56,7 @@ Fields
 
 
 Details
-===============
+-------
 SCDType2 Delta Merge Node Details
 ---------------
 
@@ -83,7 +83,7 @@ Parameters to be set:
 
 
 Examples
-===============
+-------
 SCD Type 2 Delta Merge Node Examples
 ---------------
 

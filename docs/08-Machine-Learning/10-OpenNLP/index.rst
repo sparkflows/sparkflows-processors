@@ -2,7 +2,8 @@
 ===============
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :titlesonly:
 
    open-nlp-document-categorizer.rst
    open-nlp-name-finder.rst

@@ -40,7 +40,7 @@ Fields
 
 
 Details
-===============
+-------
 Correlation Node Details
 ---------------
 
@@ -64,7 +64,7 @@ Input Parameters
 
 
 Examples
-===============
+-------
 Correlation Node Example
 ---------------
 

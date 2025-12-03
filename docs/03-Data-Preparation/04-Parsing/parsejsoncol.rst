@@ -59,7 +59,7 @@ Fields
 
 
 Details
-===============
+-------
 Parse JSON Column Node
 ---------------
 
@@ -90,7 +90,7 @@ The node creates new columns for each specified JSON field, extracting the relev
 
 
 Examples
-===============
+-------
 Example:
 
 

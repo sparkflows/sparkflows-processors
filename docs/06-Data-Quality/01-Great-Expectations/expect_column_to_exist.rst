@@ -29,7 +29,7 @@ Fields
 
 
 Details
-===============
+-------
 Expect Column To Exist Node
 ---------------
 
@@ -59,7 +59,7 @@ The node will flag the pipeline as failed if the specified column does not exist
 
 
 Examples
-===============
+-------
 Example:
 
 

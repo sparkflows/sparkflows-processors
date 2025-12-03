@@ -43,7 +43,7 @@ Fields
 
 
 Details
-===============
+-------
 SMOTE Node Details
 ---------------
 
@@ -78,7 +78,7 @@ Input Parameters
 
 
 Examples
-===============
+-------
 SMOTE Node Example
 ---------------
 

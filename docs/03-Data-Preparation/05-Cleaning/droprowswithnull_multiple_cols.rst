@@ -37,12 +37,12 @@ Fields
 
 
 Details
-===============
+-------
 This node creates a new DataFrame by dropping rows containing NULL values in selected columns.
 
 
 Examples
-===============
+-------
 Incoming Dataframe has following rows:
 
 

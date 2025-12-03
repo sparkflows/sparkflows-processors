@@ -36,7 +36,7 @@ Fields
 
 
 Details
-===============
+-------
 Output Formatter Node Details
 ---------------
 
@@ -85,7 +85,7 @@ The JSON message is sent to the workflow context for further processing or displ
 
 
 Examples
-===============
+-------
 Example: Output Formatter Node
 ---------------
 

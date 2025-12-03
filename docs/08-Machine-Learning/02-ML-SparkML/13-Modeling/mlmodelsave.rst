@@ -45,7 +45,7 @@ Fields
 
 
 Examples
-===============
+-------
 path-folder1/folder2/filename
 
 static path-true/false -keep it true then it overwrites if there is existing model at the path

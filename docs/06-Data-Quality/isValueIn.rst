@@ -35,7 +35,7 @@ Fields
 
 
 Details
-===============
+-------
 Is Value In Node
 ---------------
 
@@ -67,7 +67,7 @@ The node will flag records where the specified column value is present in the li
 
 
 Examples
-===============
+-------
 Example:
 
 

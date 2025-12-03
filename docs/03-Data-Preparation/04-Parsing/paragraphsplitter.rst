@@ -38,7 +38,7 @@ Fields
 
 
 Details
-===============
+-------
 Paragraph Splitter Node
 ---------------
 
@@ -74,7 +74,7 @@ The node outputs a new column containing the split paragraphs.
 
 
 Examples
-===============
+-------
 Example:
 
 

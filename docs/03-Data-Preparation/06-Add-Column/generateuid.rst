@@ -29,7 +29,7 @@ Fields
 
 
 Details
-===============
+-------
 Generate UID Node Details
 ---------------
 
@@ -52,7 +52,7 @@ Output
 
 
 Examples
-===============
+-------
 Generate UID Node Examples
 ---------------
 

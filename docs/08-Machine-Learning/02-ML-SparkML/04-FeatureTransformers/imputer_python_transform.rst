@@ -26,7 +26,7 @@ Fields
 
 
 Details
-===============
+-------
 Imputer Transform Node Details
 ---------------
 
@@ -43,7 +43,7 @@ FIT MODEL : The output of a previous Imputer Estimator Node, which contains the 
 
 
 Examples
-===============
+-------
 Imputer Transform Node Example
 ---------------
 

@@ -43,7 +43,7 @@ Fields
 
 
 Details
-===============
+-------
 Polynominal Expansion Node Details
 ---------------
 
@@ -66,7 +66,7 @@ Input Parameters
 
 
 Examples
-===============
+-------
 Polynominal Expansion Node Example
 ---------------
 

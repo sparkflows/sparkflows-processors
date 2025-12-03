@@ -47,7 +47,7 @@ Fields
 
 
 Details
-===============
+-------
 Save JSON Node Details
 ---------------
 
@@ -66,7 +66,7 @@ Parameters to be set:
 
 
 Examples
-===============
+-------
 Save JSON Node Examples
 ---------------
 

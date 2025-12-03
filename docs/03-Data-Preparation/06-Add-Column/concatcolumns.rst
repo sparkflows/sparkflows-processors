@@ -43,7 +43,7 @@ Fields
 
 
 Details
-===============
+-------
 Concat Columns Node Details
 ---------------
 
@@ -80,7 +80,7 @@ Output
 
 
 Examples
-===============
+-------
 Concat Columns Examples
 ---------------
 

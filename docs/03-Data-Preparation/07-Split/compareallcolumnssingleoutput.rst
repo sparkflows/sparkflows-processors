@@ -29,7 +29,7 @@ Fields
 
 
 Details
-===============
+-------
 This node takes two Dataframes as input and creates one outgoing Dataframes as an output based on the Compare Type selected to compare two incoming Dataframes.
 
 
@@ -49,7 +49,7 @@ and it consists of rows that are part of both incoming Dataframes.
 
 
 Examples
-===============
+-------
 1st Incoming Dataframe has following rows:
 
 

@@ -43,7 +43,7 @@ Fields
 
 
 Details
-===============
+-------
 This node creates a new DataFrame by casting the specified columns into new types.
 
 
@@ -51,7 +51,7 @@ Option to replace existing column or create a new column after conversion can be
 
 
 Examples
-===============
+-------
 Incoming Dataframe has following rows:
 
 

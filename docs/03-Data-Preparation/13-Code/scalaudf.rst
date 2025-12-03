@@ -33,7 +33,7 @@ Fields
 
 
 Details
-===============
+-------
 Scala UDF Details
 ---------------
 
@@ -47,7 +47,7 @@ In this node, you can define your UDF code in the field "Scala". The code should
 
 
 Examples
-===============
+-------
 Scala UDF Examples
 ---------------
 

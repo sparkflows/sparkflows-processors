@@ -2,7 +2,8 @@
 ===============
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :titlesonly:
 
    01-Spark-Performance/index.rst
    02-Data-Partition/index.rst

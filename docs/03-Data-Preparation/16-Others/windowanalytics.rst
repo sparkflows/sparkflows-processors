@@ -41,7 +41,7 @@ Fields
 
 
 Details
-===============
+-------
 This node Generates a new Dataframe with Analytics Column appended to the incoming Dataframe.
 
 
@@ -49,7 +49,7 @@ Analytics Column is populated with value based on the Window Function selected.
 
 
 Examples
-===============
+-------
 Incoming Dataframe has following rows:
 
 

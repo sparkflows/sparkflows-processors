@@ -65,7 +65,7 @@ Fields
 
 
 Details
-===============
+-------
 The EWMA (Exponentially Weighted Moving Average) chart is a control chart in Statistical Process Control (SPC) used to monitor process performance by giving more weight to recent data points. Unlike traditional control charts that treat all data equally, the EWMA chart emphasizes the latest observations, making it highly sensitive to small shifts in the process mean. This makes it ideal for detecting gradual trends or drifts in the process. The EWMA chart is particularly useful in processes where maintaining tight control over small variations is critical, such as in continuous manufacturing or quality-sensitive industries.
 
 

@@ -32,7 +32,7 @@ Fields
 
 
 Details
-===============
+-------
 Split Into Good And Bad Records Details
 ---------------
 
@@ -43,7 +43,7 @@ Higher numbered edge outputs the rows which failed the checks.
 
 
 Examples
-===============
+-------
 Example:
 ---------------
 

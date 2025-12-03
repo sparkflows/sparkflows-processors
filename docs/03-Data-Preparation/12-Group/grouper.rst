@@ -50,7 +50,7 @@ Fields
 
 
 Details
-===============
+-------
 Group By Details
 ---------------
 
@@ -76,7 +76,7 @@ Both the Where and Having Clauses are similar in use to those that exist in many
 
 
 Examples
-===============
+-------
 Incoming Dataframe has following rows:
 
 

@@ -52,7 +52,7 @@ Fields
 
 
 Details
-===============
+-------
 SQL Details
 ---------------
 
@@ -64,7 +64,7 @@ The resulting data frame of running the SQL is passed on to the next node.
 
 
 Examples
-===============
+-------
 SQL Examples
 ---------------
 

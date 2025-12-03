@@ -97,7 +97,7 @@ Fields
 
 
 Details
-===============
+-------
 The interface for working with linear regression models and model summaries is similar to the logistic regression case.
 
 
@@ -108,7 +108,7 @@ More details are available at : http://spark.apache.org/docs/latest/ml-classific
 
 
 Examples
-===============
+-------
 Below example is available at : https://spark.apache.org/docs/latest/ml-classification-regression.html#linear-regression
 
 

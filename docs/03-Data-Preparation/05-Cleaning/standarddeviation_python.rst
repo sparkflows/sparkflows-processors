@@ -29,7 +29,7 @@ Fields
 
 
 Details
-===============
+-------
 Standard Deviation Node
 ---------------
 
@@ -38,7 +38,7 @@ This node calculates the standard deviation for the specified numeric columns in
 
 
 Examples
-===============
+-------
 Standard Deviation Node Example
 ---------------
 

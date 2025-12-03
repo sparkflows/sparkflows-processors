@@ -32,7 +32,7 @@ Fields
 
 
 Details
-===============
+-------
 Unix Shell Command Details
 ---------------
 

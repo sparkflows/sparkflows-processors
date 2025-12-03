@@ -88,7 +88,7 @@ Fields
 
 
 Details
-===============
+-------
 Moving Average Features Node Details
 ---------------
 
@@ -244,7 +244,7 @@ The node outputs the original DataFrame with additional columns based on the ena
 
 
 Examples
-===============
+-------
 Moving Average Features Node Examples
 ---------------
 

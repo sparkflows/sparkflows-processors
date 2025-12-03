@@ -73,7 +73,7 @@ Fields
 
 
 Details
-===============
+-------
 It creates a new DataFrame by adding new columns to the input Dataframe. 
 
 
@@ -84,7 +84,7 @@ Names for new columns along with values can be provided.
 
 
 Examples
-===============
+-------
 If option for adding new columns is selected as below with new column names specified in bracket
 
 

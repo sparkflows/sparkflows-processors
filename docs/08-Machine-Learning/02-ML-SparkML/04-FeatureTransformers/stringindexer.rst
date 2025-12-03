@@ -46,7 +46,7 @@ Fields
 
 
 Details
-===============
+-------
 String Indexer Node Details
 ---------------
 
@@ -80,7 +80,7 @@ Input Parameters
 
 
 Examples
-===============
+-------
 String Indexer Node Example
 ---------------
 

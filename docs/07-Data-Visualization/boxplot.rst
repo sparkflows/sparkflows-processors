@@ -56,7 +56,7 @@ Fields
 
 
 Details
-===============
+-------
 BoxPlot details
 ---------------
 
@@ -92,7 +92,7 @@ Example
 
 
 Examples
-===============
+-------
 Example Scenario:
 
 

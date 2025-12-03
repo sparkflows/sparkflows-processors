@@ -35,7 +35,7 @@ Fields
 
 
 Details
-===============
+-------
 Upsert JDBC Node Details
 ---------------
 
@@ -55,7 +55,7 @@ Parameters to be set:
 
 
 Examples
-===============
+-------
 Upsert JDBC Node Examples
 ---------------
 

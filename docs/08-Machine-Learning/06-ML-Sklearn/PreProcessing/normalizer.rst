@@ -32,7 +32,7 @@ Fields
 
 
 Details
-===============
+-------
 Sklearn Normalizer Node Details
 ---------------
 
@@ -54,7 +54,7 @@ NORM : The norm to use to normalize the data. It can be "l2", "l1" or "max".
 
 
 Examples
-===============
+-------
 Sklearn Normalizer Node Example
 ---------------
 

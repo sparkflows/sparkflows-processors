@@ -39,7 +39,7 @@ Fields
 
 
 Details
-===============
+-------
 Filter Unique Details
 ---------------
 
@@ -51,7 +51,7 @@ It outputs rest of the values (duplicates which were dropped) in the higher edge
 
 
 Examples
-===============
+-------
 Incoming Dataframe has following rows:
 +++++++++++++++
 

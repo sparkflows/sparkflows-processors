@@ -79,7 +79,7 @@ Fields
 
 
 Details
-===============
+-------
 Data Cleansing Advanced – Enterprise-Grade Column-Level Cleaning
 ---------------
 
@@ -116,7 +116,7 @@ Pro Tips
 
 
 Examples
-===============
+-------
 Data Cleansing Advanced – Real-World Column-Specific Rules
 ---------------
 

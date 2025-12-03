@@ -33,7 +33,7 @@ Fields
 
 
 Details
-===============
+-------
 Service Now Data Extraction Node Details
 ---------------
 
@@ -63,7 +63,7 @@ The node outputs a DataFrame with the following columns:
 
 
 Examples
-===============
+-------
 Example: Service Now Data Extraction Node
 ---------------
 

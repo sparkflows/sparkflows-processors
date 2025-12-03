@@ -32,7 +32,7 @@ Fields
 
 
 Details
-===============
+-------
 Expect Table Row Count To Be Between Details
 ---------------
 
@@ -62,7 +62,7 @@ If `Max Count` is None, then `Min Count` is treated as a lower bound, and the nu
 
 
 Examples
-===============
+-------
 Expect Table Row Count To Be Between Example
 ---------------
 

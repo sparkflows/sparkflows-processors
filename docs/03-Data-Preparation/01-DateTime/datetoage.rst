@@ -35,7 +35,7 @@ Fields
 
 
 Details
-===============
+-------
 Date To Age Details
 ---------------
 
@@ -63,7 +63,7 @@ Output
 
 
 Examples
-===============
+-------
 Examples when date is 06-25-2019
 ---------------
 

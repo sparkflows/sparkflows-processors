@@ -38,7 +38,7 @@ Fields
 
 
 Details
-===============
+-------
 Robust Scaler Node Details
 ---------------
 
@@ -63,7 +63,7 @@ WITH SCALING : A Boolean parameter which indicates whether to scale the data.
 
 
 Examples
-===============
+-------
 Robust Scaler Node Example
 ---------------
 

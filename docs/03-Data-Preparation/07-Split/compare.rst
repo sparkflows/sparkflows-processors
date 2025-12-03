@@ -26,7 +26,7 @@ Fields
 
 
 Details
-===============
+-------
 This node takes two Dataframes as input and creates three Dataframes as output.
 
 
@@ -40,7 +40,7 @@ Third Dataframe (A intersection B) is created with rows that are part of both in
 
 
 Examples
-===============
+-------
 1st Incoming Dataframe has following rows:
 
 

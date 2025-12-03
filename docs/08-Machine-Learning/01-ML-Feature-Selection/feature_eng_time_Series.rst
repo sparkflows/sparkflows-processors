@@ -133,7 +133,7 @@ Fields
 
 
 Details
-===============
+-------
 Time Series Features Node Details
 ---------------
 
@@ -404,7 +404,7 @@ The node outputs the original DataFrame with additional columns based on the ena
 
 
 Examples
-===============
+-------
 Time Series Features Node Examples
 ---------------
 

@@ -32,7 +32,7 @@ Fields
 
 
 Details
-===============
+-------
 MaxAbs Scaler Node Details
 ---------------
 
@@ -53,7 +53,7 @@ OUTPUT COLUMN : The name of the output column after scaling.
 
 
 Examples
-===============
+-------
 MaxAbs Scaler Node Example
 ---------------
 

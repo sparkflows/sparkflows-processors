@@ -32,7 +32,7 @@ Fields
 
 
 Details
-===============
+-------
 Is Not Null Node
 ---------------
 
@@ -62,7 +62,7 @@ The node will flag records where the specified column contains null values.
 
 
 Examples
-===============
+-------
 Example:
 
 

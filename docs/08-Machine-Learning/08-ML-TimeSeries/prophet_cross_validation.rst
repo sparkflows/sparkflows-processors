@@ -40,7 +40,7 @@ Fields
 
 
 Examples
-===============
+-------
 Prophet Cross Validator Node Examples
 ---------------
 

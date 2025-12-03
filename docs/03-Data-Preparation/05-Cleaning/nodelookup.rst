@@ -59,7 +59,7 @@ Fields
 
 
 Details
-===============
+-------
 Lookup Node Details
 ===============
 
@@ -159,7 +159,7 @@ For Replace: Original schema with the target column updated (unmatched rows unch
 
 
 Examples
-===============
+-------
 Lookup Node Examples
 ---------------
 

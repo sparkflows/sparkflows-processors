@@ -46,7 +46,7 @@ Fields
 
 
 Details
-===============
+-------
 This node creates a new DataFrame by casting the specified columns into new types.
 
 
@@ -57,7 +57,7 @@ New format for the Date column can be specified.
 
 
 Examples
-===============
+-------
 Incoming Dataframe has following rows:
 
 

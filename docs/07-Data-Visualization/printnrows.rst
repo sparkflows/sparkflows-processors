@@ -41,7 +41,7 @@ Fields
 
 
 Details
-===============
+-------
 Print N Rows Node Details
 ---------------
 
@@ -70,7 +70,7 @@ Output
 
 
 Examples
-===============
+-------
 Example 1: Display All Columns (No Column Selection)
 +++++++++++++++
 

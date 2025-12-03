@@ -29,7 +29,7 @@ Fields
 
 
 Details
-===============
+-------
 Zip With Index
 ---------------
 
@@ -41,7 +41,7 @@ This column is added to the outgoing Dataframe. It can be used to access a row w
 
 
 Examples
-===============
+-------
 Zip With Index
 ---------------
 

@@ -58,7 +58,7 @@ Fields
 
 
 Details
-===============
+-------
 Read Delta Node Details
 ---------------
 
@@ -77,7 +77,7 @@ Parameters to be set:
 
 
 Examples
-===============
+-------
 Read Delta Node Examples
 ---------------
 

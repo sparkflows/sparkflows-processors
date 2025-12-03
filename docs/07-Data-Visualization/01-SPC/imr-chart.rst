@@ -62,7 +62,7 @@ Fields
 
 
 Details
-===============
+-------
 The I-MR (Individual-Moving Range) chart in Statistical Process Control (SPC) monitors process stability using individual data points. The "I" chart tracks individual measurements over time, while the "MR" chart shows the moving range between consecutive measurements to detect variability. It's ideal when sample sizes are small or when it's difficult to collect multiple measurements. By identifying shifts, trends, or outliers, the I-MR chart helps ensure that a process stays within control limits and operates consistently, making it a key tool for maintaining quality control in manufacturing and other processes.
 
 

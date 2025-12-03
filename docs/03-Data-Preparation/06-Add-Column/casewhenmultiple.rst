@@ -83,7 +83,7 @@ Fields
 
 
 Details
-===============
+-------
 Case When Node Details
 ---------------
 
@@ -171,7 +171,7 @@ Assigning Current Date and Current Timestamp
 
 
 Examples
-===============
+-------
 Case When Node Examples
 ---------------
 

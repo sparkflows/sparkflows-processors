@@ -249,7 +249,7 @@ Fields
 
 
 Details
-===============
+-------
 Distributed Random Forest (DRF) is a powerful classification and regression tool. When given a set of data, DRF generates a forest of classification or regression trees, rather than a single classification or regression tree. Each of these trees is a weak learner built on a subset of rows and columns. More trees will reduce the variance. Both classification and regression take the average prediction over all of their trees to make a final prediction, whether predicting for a class or numeric value.
 
 
@@ -257,7 +257,7 @@ More details are available at : http://docs.h2o.ai/h2o/latest-stable/h2o-docs/da
 
 
 Examples
-===============
+-------
 Input:
 
 Label Column: "HousePrice"

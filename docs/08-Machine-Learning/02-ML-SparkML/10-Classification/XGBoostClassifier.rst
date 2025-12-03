@@ -127,7 +127,7 @@ Fields
 
 
 Details
-===============
+-------
 Deatils: https://xgboost.readthedocs.io/en/latest/jvm/xgboost4j_spark_tutorial.html#xgboost4j-spark-tutorial-version-0-9
 
 
@@ -166,7 +166,7 @@ Eta: The learning rate, which controls the step size at each boosting round.
 
 
 Examples
-===============
+-------
 XGBoost Classifier Node Example
 ---------------
 

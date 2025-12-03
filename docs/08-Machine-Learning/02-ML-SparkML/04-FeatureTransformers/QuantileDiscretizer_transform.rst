@@ -34,7 +34,7 @@ Fields
 
 
 Details
-===============
+-------
 Quantile Discretizer Transform Node Details
 ---------------
 
@@ -53,7 +53,7 @@ FIT MODEL : The output of a previous Quantile Discretizer Estimator Node, which 
 
 
 Examples
-===============
+-------
 Quantile Discretizer Transform Node Example
 ---------------
 

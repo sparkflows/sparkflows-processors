@@ -41,7 +41,7 @@ Fields
 
 
 Details
-===============
+-------
 It creates a new Dataframe with new ouuput columns appended to the incoming Dataframe which are computed based on application of Window Function on Analytics Columns.
 
 
@@ -49,7 +49,7 @@ This node facilitates computation of multiple Analytics Columns.
 
 
 Examples
-===============
+-------
 Incoming Dataframe has following rows:
 
 

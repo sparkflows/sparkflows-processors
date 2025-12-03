@@ -34,7 +34,7 @@ Fields
 
 
 Details
-===============
+-------
 One Hot Encoder Transform Node Details
 ---------------
 
@@ -53,7 +53,7 @@ FIT MODEL : The output of a previous One Hot Encoder Estimator Node, which conta
 
 
 Examples
-===============
+-------
 One Hot Encoder Transform Node Example
 ---------------
 

@@ -73,7 +73,7 @@ Fields
 
 
 Details
-===============
+-------
 This node creates a new DataFrame by renaming existing columns with the new name.
 
 
@@ -81,7 +81,7 @@ For the columns to be renamed, provide the new column name. The output dataframe
 
 
 Examples
-===============
+-------
 If incoming Dataframe has a column as [CUST NAME] that needs to be renamed to [CUST_NAME] then below details need to be provided in the node:
 
 

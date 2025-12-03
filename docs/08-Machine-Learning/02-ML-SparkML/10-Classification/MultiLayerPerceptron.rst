@@ -104,14 +104,14 @@ Fields
 
 
 Details
-===============
+-------
 Multilayer perceptron classifier (MLPC) is a classifier based on the feedforward artificial neural network. 
 
 MLPC consists of multiple layers of nodes. Each layer is fully connected to the next layer in the network. Nodes in the input layer represent the input data.
 
 
 Examples
-===============
+-------
 Below example is available at : https://spark.apache.org/docs/latest/ml-classification-regression.html#multilayer-perceptron-classifier
 
 

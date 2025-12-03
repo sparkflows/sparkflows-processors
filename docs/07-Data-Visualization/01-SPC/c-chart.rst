@@ -59,7 +59,7 @@ Fields
 
 
 Details
-===============
+-------
 The C chart in Statistical Process Control (SPC) is used to monitor the count of defects in a process when the sample size remains constant. It tracks the total number of defects or non-conformities in each sample, making it suitable for processes where multiple defects can occur in a single unit, such as manufacturing or inspection processes. The C chart helps identify trends, shifts, or out-of-control points by assessing the variation in defect counts. By ensuring that defect counts stay within control limits, the C chart helps maintain process stability and supports consistent quality management.
 
 

@@ -2,6 +2,7 @@ Clustering
 ===============
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :titlesonly:
 
    kmeans.rst

@@ -62,7 +62,7 @@ Fields
 
 
 Details
-===============
+-------
 The XBAR-S chart is a control chart used in Statistical Process Control (SPC) to monitor the mean and variability of a process using sample data. The "XBAR" chart tracks the average (mean) of samples over time, while the "S" chart monitors the standard deviation within each sample, providing insight into process variability. This chart is ideal for larger sample sizes, typically when data is collected in subgroups. It helps detect shifts in the process mean and changes in variability, ensuring that the process remains stable and within control limits for consistent quality.
 
 

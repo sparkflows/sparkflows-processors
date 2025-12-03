@@ -37,12 +37,12 @@ Fields
 
 
 Details
-===============
+-------
 This node Creates a dataset with the specified number of rows and nine pre-defined columns.
 
 
 Examples
-===============
+-------
 the node will give such table for the number of rows defined
 
 

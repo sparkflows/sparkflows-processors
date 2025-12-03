@@ -55,7 +55,7 @@ Fields
 
 
 Details
-===============
+-------
 Select Node – Your DataFrame Column Superpower
 ---------------
 
@@ -95,7 +95,7 @@ Pro Tips
 
 
 Examples
-===============
+-------
 Select Node – Real-World Business Examples
 ---------------
 

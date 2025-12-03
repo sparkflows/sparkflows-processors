@@ -35,7 +35,7 @@ Fields
 
 
 Details
-===============
+-------
 Rollup Node generates a result set that shows aggregates for a hierarchy of values in the selected columns.
 
 
@@ -49,7 +49,7 @@ It is same as Cube node with data displayed in hierarchical order.
 
 
 Examples
-===============
+-------
 Incoming Dataframe has following rows:
 
 

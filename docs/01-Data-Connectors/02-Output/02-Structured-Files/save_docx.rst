@@ -53,7 +53,7 @@ Fields
 
 
 Details
-===============
+-------
 Save DOCX Node Details
 ---------------
 
@@ -139,7 +139,7 @@ The node does not modify the input DataFrame but saves the content from the spec
 
 
 Examples
-===============
+-------
 Example: Save DOCX Node
 ---------------
 

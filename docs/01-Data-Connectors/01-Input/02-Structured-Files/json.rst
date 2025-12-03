@@ -47,7 +47,7 @@ Fields
 
 
 Details
-===============
+-------
 Read JSON Node Details
 ---------------
 
@@ -68,7 +68,7 @@ Parameters to be set:
 
 
 Examples
-===============
+-------
 Read JSON Node Examples
 ---------------
 

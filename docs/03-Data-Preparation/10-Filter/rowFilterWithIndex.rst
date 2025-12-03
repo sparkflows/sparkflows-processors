@@ -40,7 +40,7 @@ Fields
 
 
 Details
-===============
+-------
 Node Row Filter By Index Node Details
 ---------------
 
@@ -67,7 +67,7 @@ Output
 
 
 Examples
-===============
+-------
 Node Row Filter By Index Node Examples
 ---------------
 

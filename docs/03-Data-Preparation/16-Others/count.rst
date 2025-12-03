@@ -40,7 +40,7 @@ Fields
 
 
 Details
-===============
+-------
 This node counts the number of records in the incoming Dataframe and puts the count into result page.
 
 
@@ -48,7 +48,7 @@ Variable Name to display count value and option to display it in the output can 
 
 
 Examples
-===============
+-------
 Incoming Dataframe has following rows:
 
 

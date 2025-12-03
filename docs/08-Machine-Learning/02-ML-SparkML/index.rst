@@ -2,7 +2,8 @@
 ===============
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :titlesonly:
 
    02-FeatureScaler/index.rst
    03-FeatureExtraction/index.rst

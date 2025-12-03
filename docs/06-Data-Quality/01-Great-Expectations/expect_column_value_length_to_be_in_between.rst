@@ -35,7 +35,7 @@ Fields
 
 
 Details
-===============
+-------
 Expect Column Value length To be in Between Details
 ---------------
 
@@ -67,7 +67,7 @@ If `Max` is None, then `Min` is treated as a lower bound, and there is no maximu
 
 
 Examples
-===============
+-------
 If the incoming DataFrame has the following values in column6:
 
 

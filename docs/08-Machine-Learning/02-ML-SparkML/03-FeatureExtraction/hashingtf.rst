@@ -40,7 +40,7 @@ Fields
 
 
 Details
-===============
+-------
 Hashing TF Node Details
 ---------------
 
@@ -62,7 +62,7 @@ Input Parameters
 
 
 Examples
-===============
+-------
 Hashing TF Node Example
 ---------------
 

@@ -26,7 +26,7 @@ Fields
 
 
 Details
-===============
+-------
 MaxAbs Scaler Transform Node Details
 ---------------
 

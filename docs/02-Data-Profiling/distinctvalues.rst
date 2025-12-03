@@ -29,7 +29,7 @@ Fields
 
 
 Details
-===============
+-------
 This node displays distinct combination of values in the selected columns. 
 
 
@@ -39,7 +39,7 @@ If more than one column is selected then it displays distinct combination of val
 
 
 Examples
-===============
+-------
 If DistinctValuesInColumn node is configured to display distinct values in [Location] and [Dept] columns from incoming dataset
 
 then outgoing Dataframe would be created in tabular format displaying unique combination of data between the selected columns.

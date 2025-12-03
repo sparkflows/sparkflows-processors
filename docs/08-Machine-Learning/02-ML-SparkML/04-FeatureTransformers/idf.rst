@@ -43,7 +43,7 @@ Fields
 
 
 Details
-===============
+-------
 IDF Node Details
 ---------------
 
@@ -63,7 +63,7 @@ Input Parameters
 
 
 Examples
-===============
+-------
 IDF Node Example
 ---------------
 

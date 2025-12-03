@@ -73,7 +73,7 @@ Fields
 
 
 Details
-===============
+-------
 Filter Advanced Details
 ---------------
 
@@ -84,7 +84,7 @@ This Node outputs two dataframe. Lower Edge outputs the filtered data and the Hi
 
 
 Examples
-===============
+-------
 Examples of Basic Filter
 ---------------
 

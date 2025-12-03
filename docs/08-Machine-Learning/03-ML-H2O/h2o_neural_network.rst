@@ -342,7 +342,7 @@ Fields
 
 
 Details
-===============
+-------
 H2O’s Deep Learning is based on a multi-layer feedforward artificial neural network that is trained with stochastic gradient descent using back-propagation. The network can contain a large number of hidden layers consisting of neurons with tanh, rectifier, and maxout activation functions.
 
 

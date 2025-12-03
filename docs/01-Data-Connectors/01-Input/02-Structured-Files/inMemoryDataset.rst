@@ -55,7 +55,7 @@ Fields
 
 
 Details
-===============
+-------
 Read InMemoryDataset Node Details
 ---------------
 
@@ -64,7 +64,7 @@ Dataset Node for creating the InMemoryDataset.
 
 
 Examples
-===============
+-------
 InMemoryDataset Node Examples
 ---------------
 

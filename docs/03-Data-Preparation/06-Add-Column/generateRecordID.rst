@@ -58,7 +58,7 @@ Fields
 
 
 Details
-===============
+-------
 Record ID Node Details
 ---------------
 
@@ -147,7 +147,7 @@ The node returns a DataFrame identical to the input but with an additional colum
 
 
 Examples
-===============
+-------
 Example: Record ID Node
 ---------------
 

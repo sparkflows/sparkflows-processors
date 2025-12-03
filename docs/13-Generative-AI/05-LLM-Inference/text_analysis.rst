@@ -49,7 +49,7 @@ Fields
 
 
 Details
-===============
+-------
 Text Analysis Node Details
 ---------------
 
@@ -108,7 +108,7 @@ If Word Cloud is set to true, a word cloud chart is also generated to visualize 
 
 
 Examples
-===============
+-------
 Example: Text Analysis Node
 ---------------
 

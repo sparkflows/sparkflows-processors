@@ -56,7 +56,7 @@ Fields
 
 
 Details
-===============
+-------
 Validate Fields Advanced Node Details
 ---------------
 
@@ -73,7 +73,7 @@ Multiple validation rules can be defined for multiple columns. Succeeded and Fai
 
 
 Examples
-===============
+-------
 Validate Fields Advanced Node Examples
 ---------------
 

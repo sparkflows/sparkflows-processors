@@ -52,7 +52,7 @@ Fields
 
 
 Details
-===============
+-------
 Save Databricks Table Node Details
 ---------------
 
@@ -81,7 +81,7 @@ Ignore: If table already exists, the save operation is ignored.
 
 
 Examples
-===============
+-------
 Save Databricks Table Node Examples
 ---------------
 

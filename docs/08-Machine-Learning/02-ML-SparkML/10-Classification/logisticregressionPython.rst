@@ -133,7 +133,7 @@ Fields
 
 
 Details
-===============
+-------
 Logistic regression is a popular method to predict a categorical response. 
 
 
@@ -149,7 +149,7 @@ http://spark.apache.org/docs/latest/ml-classification-regression.html#logistic-r
 
 
 Examples
-===============
+-------
 The below example is available at : https://spark.apache.org/docs/2.3.0/ml-classification-regression.html#logistic-regression
 ---------------
 

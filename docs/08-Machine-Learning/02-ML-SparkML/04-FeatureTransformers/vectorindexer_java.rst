@@ -43,7 +43,7 @@ Fields
 
 
 Details
-===============
+-------
 Vector Indexer Node Details
 ---------------
 
@@ -70,7 +70,7 @@ MAX CATEGORIES : Threshold for the number of values a categorical feature can ta
 
 
 Examples
-===============
+-------
 Vector Indexer Node Example
 ---------------
 

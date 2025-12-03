@@ -35,7 +35,7 @@ Fields
 
 
 Details
-===============
+-------
 MultiFlagOutliers Node
 
 Overview:
@@ -55,7 +55,7 @@ Upper Quantile: Set the upper quantile threshold (e.g., 0.95 for the 95th percen
 
 
 Examples
-===============
+-------
 Example:
 
 

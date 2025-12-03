@@ -43,7 +43,7 @@ Fields
 
 
 Details
-===============
+-------
 It creates a new DataFrame by adding new columns to the input Dataframe.
 
 
@@ -63,7 +63,7 @@ This node supports the multiple add columns - Multiple constant type columns can
 
 
 Examples
-===============
+-------
 If option for adding new columns is selected as below with new column names specified in bracket
 
 

@@ -32,12 +32,12 @@ Fields
 
 
 Details
-===============
+-------
 This node displays distribution of data between all possible combination of all distinct values of two series.
 
 
 Examples
-===============
+-------
 If CrossTab node is configured below i.e. selecting two columns from the dataset:
 
 

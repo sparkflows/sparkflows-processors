@@ -95,7 +95,7 @@ Fields
 
 
 Details
-===============
+-------
 H2O Score Node
 ---------------
 
@@ -104,7 +104,7 @@ This node scores a new dataset using an existing H2O model. It takes a trained H
 
 
 Examples
-===============
+-------
 H2O Score Node Example
 ---------------
 

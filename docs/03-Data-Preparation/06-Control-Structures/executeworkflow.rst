@@ -38,7 +38,7 @@ Fields
 
 
 Details
-===============
+-------
 Execute Workflow Node Details
 ---------------
 
@@ -60,7 +60,7 @@ Input Parameters
 
 
 Examples
-===============
+-------
 Execute Workflow Node Example
 ---------------
 

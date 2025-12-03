@@ -2,7 +2,8 @@ PreProcessing
 ===============
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :titlesonly:
 
    binarizer.rst
    binarizer_transform.rst

@@ -38,7 +38,7 @@ Fields
 
 
 Details
-===============
+-------
 String To Date Multi Details
 ---------------
 
@@ -82,7 +82,7 @@ Example
 
 
 Examples
-===============
+-------
 Format Examples
 ---------------
 

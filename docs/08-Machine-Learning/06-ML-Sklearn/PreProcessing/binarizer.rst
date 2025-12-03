@@ -29,7 +29,7 @@ Fields
 
 
 Details
-===============
+-------
 Sklearn Binarizer Node Details
 ---------------
 
@@ -49,7 +49,7 @@ THRESHOLD : A scalar value above which the feature values will be set to 1 and b
 
 
 Examples
-===============
+-------
 Sklearn Binarizer Node Example
 ---------------
 

@@ -40,7 +40,7 @@ Fields
 
 
 Details
-===============
+-------
 Tokenizer Node Details
 ---------------
 
@@ -59,7 +59,7 @@ Input Parameters
 
 
 Examples
-===============
+-------
 Tokenizer Node Example
 ---------------
 

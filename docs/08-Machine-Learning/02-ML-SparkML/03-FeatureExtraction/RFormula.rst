@@ -35,7 +35,7 @@ Fields
 
 
 Details
-===============
+-------
 RFormula selects columns specified by an R model formula. Currently we support a limited subset of the R operators, including ‘~’, ‘.’, ‘:’, ‘+’, and ‘-‘. 
 
 
@@ -43,7 +43,7 @@ More details are available at : https://spark.apache.org/docs/latest/ml-features
 
 
 Examples
-===============
+-------
 The below example is available at : https://spark.apache.org/docs/latest/ml-features.html#rformula
 ---------------
 

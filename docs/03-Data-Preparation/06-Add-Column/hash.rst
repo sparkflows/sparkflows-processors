@@ -49,7 +49,7 @@ Fields
 
 
 Details
-===============
+-------
 Hash Node
 ---------------
 
@@ -64,7 +64,7 @@ Column Name needs to be entered for the new column listing the Generated Hash va
 
 
 Examples
-===============
+-------
 Hash Node
 ---------------
 

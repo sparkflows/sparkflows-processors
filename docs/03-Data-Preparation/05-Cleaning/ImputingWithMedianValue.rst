@@ -29,12 +29,12 @@ Fields
 
 
 Details
-===============
+-------
 This node imputes the missing values in the specified columns by median of the values in the column.
 
 
 Examples
-===============
+-------
 Incoming Dataframe has following rows and [AGE] column has missing value / [NULL] for some rows:
 
 

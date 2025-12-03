@@ -69,7 +69,7 @@ Fields
 
 
 Details
-===============
+-------
 Read from Snowflake Node Details
 ---------------
 
@@ -91,7 +91,7 @@ Parameters to be set:
 
 
 Examples
-===============
+-------
 Read From Snowflake Node Examples
 ---------------
 

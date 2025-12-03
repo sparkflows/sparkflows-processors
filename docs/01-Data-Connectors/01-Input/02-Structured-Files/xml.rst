@@ -55,7 +55,7 @@ Fields
 
 
 Details
-===============
+-------
 Read XML Node Details
 ---------------
 
@@ -76,7 +76,7 @@ Parameters to be set:
 
 
 Examples
-===============
+-------
 Read XML Node Examples
 ---------------
 

@@ -50,7 +50,7 @@ Fields
 
 
 Details
-===============
+-------
 Save As HIVE Table Node Details
 ---------------
 
@@ -80,7 +80,7 @@ Advanced:
 
 
 Examples
-===============
+-------
 Save As HIVE Table Node Examples
 ---------------
 

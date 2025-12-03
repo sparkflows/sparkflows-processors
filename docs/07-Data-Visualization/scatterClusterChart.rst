@@ -57,7 +57,7 @@ Fields
 
 
 Details
-===============
+-------
 Scatter Cluster Chart Node
 ---------------
 
@@ -110,7 +110,7 @@ Anomaly Detection: Detect outliers that don't belong to any cluster.
 
 
 Examples
-===============
+-------
 Example:
 
 

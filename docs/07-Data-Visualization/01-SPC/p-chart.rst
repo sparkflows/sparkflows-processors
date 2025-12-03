@@ -59,7 +59,7 @@ Fields
 
 
 Details
-===============
+-------
 The P chart, or Proportion Chart, in Statistical Process Control (SPC) is used to monitor the proportion of defective or non-conforming units in a process. It tracks the percentage of defective items in a sample over time, helping to detect any significant changes in quality. The P chart is ideal for processes where data are categorical (e.g., pass/fail, defective/non-defective) and where sample sizes may vary. By identifying trends, shifts, or out-of-control points, the P chart helps maintain process stability and ensure that the proportion of defects remains within acceptable control limits.
 
 

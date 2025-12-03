@@ -40,7 +40,7 @@ Fields
 
 
 Details
-===============
+-------
 This node splits the incoming DataFrame into 2. It takes in the fraction to use in splitting the data.
 
 
@@ -51,7 +51,7 @@ The split node can be used for splitting the DataFrame for training and test dat
 
 
 Examples
-===============
+-------
 lets say you pass a table with 5 rows and the fraction .6(60%),the first and second outcomes of the node will give dataframes as follows
 
 

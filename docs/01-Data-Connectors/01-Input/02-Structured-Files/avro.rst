@@ -52,7 +52,7 @@ Fields
 
 
 Details
-===============
+-------
 This node reads data from Apache Avro files.
 
 

@@ -2,7 +2,8 @@ Regression
 ===============
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :titlesonly:
 
    bayesian-ridge-regression.rst
    gradient-boosting-regression.rst

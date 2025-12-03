@@ -40,7 +40,7 @@ Fields
 
 
 Details
-===============
+-------
 This node drops duplicate rows from the incoming DataFrame. 
 
 
@@ -51,7 +51,7 @@ One of the matching rows either first or last one is included in the outgoing Da
 
 
 Examples
-===============
+-------
 Incoming Dataframe has following rows:
 
 

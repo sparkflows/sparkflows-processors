@@ -29,7 +29,7 @@ Fields
 
 
 Details
-===============
+-------
 Select Weather to Maximise or minimise the objective function :
 
 The Node takes in two dataframes as Input:
@@ -52,7 +52,7 @@ Variables Names and Values,Constraints Names and Values & Objective Value
 
 
 Examples
-===============
+-------
 Incoming Dataframe has following rows:
 
 

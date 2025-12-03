@@ -34,7 +34,7 @@ Fields
 
 
 Details
-===============
+-------
 Bucketizer Transform Node Details
 ---------------
 
@@ -53,7 +53,7 @@ FIT MODEL : The output of a previous Bucketizer Estimator Node, which contains t
 
 
 Examples
-===============
+-------
 Bucketizer Transform Node Example
 ---------------
 

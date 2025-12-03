@@ -35,7 +35,7 @@ Fields
 
 
 Details
-===============
+-------
 Expect Column Values To Match Regex Details
 ---------------
 
@@ -67,7 +67,7 @@ Example: If a column named "Email" is expected to contain only valid email addre
 
 
 Examples
-===============
+-------
 If an "ID" column is expected to contain only numbers with exactly 5 digits, setting the Regex field to ^\d{5}$ would result in the following outcomes for a sample DataFrame:
 
 

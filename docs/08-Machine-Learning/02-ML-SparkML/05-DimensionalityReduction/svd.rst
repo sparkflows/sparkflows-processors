@@ -30,7 +30,7 @@ Fields
 
 
 Details
-===============
+-------
 Singular value decomposition (SVD) factorizes a matrix into three matrices: U, Σ, and V such that
 
 
@@ -51,7 +51,7 @@ More details are available at: https://spark.apache.org/docs/2.0.0/mllib-dimensi
 
 
 Examples
-===============
+-------
 The below example is available at : https://spark.apache.org/docs/2.0.0/mllib-dimensionality-reduction.html#singular-value-decomposition-svd
 ---------------
 

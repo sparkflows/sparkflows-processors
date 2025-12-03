@@ -37,7 +37,7 @@ Fields
 
 
 Details
-===============
+-------
 Drop Columns Node Details
 ---------------
 
@@ -52,7 +52,7 @@ Columns that need to be dropped are to be selected in the 'Selected' list. Multi
 
 
 Examples
-===============
+-------
 Drop Columns Node Examples
 ---------------
 

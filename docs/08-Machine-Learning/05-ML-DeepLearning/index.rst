@@ -2,7 +2,8 @@
 ===============
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :titlesonly:
 
    dl_layer_dense.rst
    dl_node_keras_preprocessor.rst

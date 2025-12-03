@@ -2,7 +2,8 @@ Modeling
 ===============
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :titlesonly:
 
    custom-metrics.rst
    sklearn-classification-evaluator.rst

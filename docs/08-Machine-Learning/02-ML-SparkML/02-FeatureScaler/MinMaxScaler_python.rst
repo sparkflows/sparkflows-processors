@@ -46,7 +46,7 @@ Fields
 
 
 Details
-===============
+-------
 Min Max Scaler Transform Node Details
 ---------------
 
@@ -68,7 +68,7 @@ OUTPUT COLUMN : The name of the output column after rescaling.
 
 
 Examples
-===============
+-------
 Min Max Scaler Transform Node Example
 ---------------
 

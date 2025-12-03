@@ -35,7 +35,7 @@ Fields
 
 
 Details
-===============
+-------
 Summary Statistics Node Details
 ---------------
 
@@ -59,7 +59,7 @@ Input Parameters
 
 
 Examples
-===============
+-------
 Summary Statistics Node Example
 ---------------
 

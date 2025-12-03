@@ -34,7 +34,7 @@ Fields
 
 
 Details
-===============
+-------
 Normalizer Transform Node Details
 ---------------
 
@@ -53,7 +53,7 @@ FIT MODEL : The output of a previous Normalizer Estimator Node, which contains t
 
 
 Examples
-===============
+-------
 Normalizer Transform Node Example
 ---------------
 

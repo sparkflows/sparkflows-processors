@@ -62,7 +62,7 @@ Fields
 
 
 Details
-===============
+-------
 Evaluator for multiclass classification, which expects two input columns: score and label.
 
 
@@ -70,7 +70,7 @@ More at Spark MLlib/ML docs page :https://spark.apache.org/docs/1.6.0/mllib-eval
 
 
 Examples
-===============
+-------
 Below example is available at : https://spark.apache.org/docs/latest/mllib-evaluation-metrics.html#multiclass-classification
 ---------------
 

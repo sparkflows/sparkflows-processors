@@ -50,7 +50,7 @@ Fields
 
 
 Details
-===============
+-------
 Naive Bayes classifiers are a family of simple probabilistic, multiclass classifiers based on applying Bayes’ theorem with strong (naive) independence assumptions between every pair of features.
 
 
@@ -64,7 +64,7 @@ http://spark.apache.org/docs/latest/ml-classification-regression.html#naive-baye
 
 
 Examples
-===============
+-------
 Below example is available at : https://spark.apache.org/docs/latest/ml-classification-regression.html#naive-bayes
 
 

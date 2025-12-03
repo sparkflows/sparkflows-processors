@@ -43,7 +43,7 @@ Fields
 
 
 Details
-===============
+-------
 This node saves the incoming Dataframe into MongoDB.
 
 

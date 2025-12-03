@@ -38,7 +38,7 @@ Fields
 
 
 Details
-===============
+-------
 NodeDataQualityCheckAndAlert
 ---------------
 
@@ -82,7 +82,7 @@ The node will send an email alert if the threshold is exceeded and save a detail
 
 
 Examples
-===============
+-------
 Example:
 
 

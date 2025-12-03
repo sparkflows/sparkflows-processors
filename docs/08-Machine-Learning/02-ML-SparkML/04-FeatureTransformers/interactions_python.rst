@@ -32,7 +32,7 @@ Fields
 
 
 Details
-===============
+-------
 Interaction Node Details
 ---------------
 
@@ -53,7 +53,7 @@ OUTPUT COLUMN : The name of the output column after interaction.
 
 
 Examples
-===============
+-------
 Interaction Node Example
 ---------------
 

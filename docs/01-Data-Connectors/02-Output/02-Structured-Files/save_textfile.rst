@@ -47,7 +47,7 @@ Fields
 
 
 Details
-===============
+-------
 This node saves incoming Dataframe into the specified location in text format.
 
 

@@ -35,7 +35,7 @@ Fields
 
 
 Details
-===============
+-------
 Index To String Node Details
 ---------------
 
@@ -58,7 +58,7 @@ LABELS : The user-supplied labels for the input column of label indices
 
 
 Examples
-===============
+-------
 Index To String Node Example
 ---------------
 

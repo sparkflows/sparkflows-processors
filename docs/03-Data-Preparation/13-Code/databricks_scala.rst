@@ -52,7 +52,7 @@ Fields
 
 
 Details
-===============
+-------
 Scala Details
 ---------------
 
@@ -68,7 +68,7 @@ Finally the scala code produces a resulting dataframe to be passed on to the nex
 
 
 Examples
-===============
+-------
 Scala Examples
 ---------------
 

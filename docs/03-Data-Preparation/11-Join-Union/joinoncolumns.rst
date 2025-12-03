@@ -35,7 +35,7 @@ Fields
 
 
 Details
-===============
+-------
 Join On Columns Node Details
 ---------------
 
@@ -56,7 +56,7 @@ Joining modes supported by this node are as follows:
 
 
 Examples
-===============
+-------
 Join On Columns Example
 ---------------
 

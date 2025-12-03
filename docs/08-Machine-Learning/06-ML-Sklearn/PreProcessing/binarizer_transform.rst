@@ -26,7 +26,7 @@ Fields
 
 
 Details
-===============
+-------
 Sklearn Binarizer Transform Node Details
 ---------------
 
@@ -43,7 +43,7 @@ THRESHOLD : The threshold value used to determine which feature values will be s
 
 
 Examples
-===============
+-------
 Sklearn Binarizer Transform Node Example
 ---------------
 

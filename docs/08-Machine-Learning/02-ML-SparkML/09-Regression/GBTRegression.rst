@@ -112,7 +112,7 @@ Fields
 
 
 Details
-===============
+-------
 Gradient-Boosted Trees (GBTs) are ensembles of decision trees. GBTs iteratively train decision trees in order to minimize a loss function. 
 
 The spark.ml implementation supports GBTs for binary classification and for regression, using both continuous and categorical features.
@@ -125,7 +125,7 @@ http://spark.apache.org/docs/latest/ml-classification-regression.html#gradient-b
 
 
 Examples
-===============
+-------
 Below example is available at : https://spark.apache.org/docs/latest/ml-classification-regression.html#gradient-boosted-tree-regression
 
 

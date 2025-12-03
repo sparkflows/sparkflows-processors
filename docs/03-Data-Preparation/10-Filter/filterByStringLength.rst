@@ -39,7 +39,7 @@ Fields
 
 
 Details
-===============
+-------
 Filter By String Length Node Details
 ---------------
 
@@ -67,7 +67,7 @@ Output
 
 
 Examples
-===============
+-------
 Filter By String Length Node Examples
 ---------------
 

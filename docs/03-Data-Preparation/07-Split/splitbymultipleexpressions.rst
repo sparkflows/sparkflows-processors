@@ -45,12 +45,12 @@ Fields
 
 
 Details
-===============
+-------
 This node splits the incoming DataFrame into multiple output DataFrames by applying the provided conditional logic.
 
 
 Examples
-===============
+-------
 Incoming Dataframe has following rows:
 
 

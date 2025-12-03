@@ -46,12 +46,12 @@ Fields
 
 
 Details
-===============
+-------
 This node extracts data from columns present in the incoming Dataframe based on provided pattern and add them as new columns in outgoing Dataframe.
 
 
 Examples
-===============
+-------
 Incoming Dataframe has following rows:
 
 

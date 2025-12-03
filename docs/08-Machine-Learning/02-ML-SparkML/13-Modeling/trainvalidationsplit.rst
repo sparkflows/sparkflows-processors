@@ -37,7 +37,7 @@ Fields
 
 
 Details
-===============
+-------
 This node represents Train Validation Split from Spark ML.
 
 
@@ -60,7 +60,7 @@ More at Spark MLlib/ML docs page : https://spark.apache.org/docs/latest/ml-tunin
 
 
 Examples
-===============
+-------
 Below example is available at : https://spark.apache.org/docs/latest/ml-tuning.html#train-validation-split
 ---------------
 

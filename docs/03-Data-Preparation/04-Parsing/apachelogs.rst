@@ -29,7 +29,7 @@ Fields
 
 
 Details
-===============
+-------
 The Apache Log Parser node provides the following functionality:
 
 
@@ -41,7 +41,7 @@ The Apache Log Parser node provides the following functionality:
 
 
 Examples
-===============
+-------
 Input
 +++++++++++++++
 

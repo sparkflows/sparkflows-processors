@@ -35,7 +35,7 @@ Fields
 
 
 Details
-===============
+-------
 This node identifies whether a data point is outlier in a series or not based on the lower and upper quantile set. 
 
 
@@ -43,7 +43,7 @@ It can be checked against numeric columns only.
 
 
 Examples
-===============
+-------
 FlagOutlier node can be configured as below:
 
 

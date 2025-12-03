@@ -68,7 +68,7 @@ Fields
 
 
 Details
-===============
+-------
 Bubble Chart Details
 ---------------
 
@@ -123,7 +123,7 @@ Geographic Analysis: Map geographic data, with bubble size representing populati
 
 
 Examples
-===============
+-------
 Example:
 
 

@@ -38,7 +38,7 @@ Fields
 
 
 Details
-===============
+-------
 Mining frequent items, itemsets, subsequences, or other substructures is usually among the first steps to analyze a large-scale dataset, which has been an active research topic in data mining for years.
 
 
@@ -61,7 +61,7 @@ http://spark.apache.org/docs/latest/ml-frequent-pattern-mining.html
 
 
 Examples
-===============
+-------
 Below example is available at : https://spark.apache.org/docs/latest/ml-frequent-pattern-mining.html#fp-growth
 ---------------
 

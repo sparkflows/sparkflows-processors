@@ -62,7 +62,7 @@ Fields
 
 
 Details
-===============
+-------
 The I-MR-R chart in Statistical Process Control (SPC) is a variation of the I-MR chart, designed for monitoring individual measurements and ranges across subgroups. The "I" chart tracks individual data points, the "MR" chart monitors the moving range between consecutive points, and the "R" chart shows the range within subgroups, helping to detect variability. This chart is useful when dealing with processes where subgroup size is small or where both individual observations and subgroup variation need monitoring. It helps ensure process stability by identifying shifts, trends, and variability, ensuring the process stays within control limits.
 
 

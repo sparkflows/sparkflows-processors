@@ -76,7 +76,7 @@ Fields
 
 
 Details
-===============
+-------
 Aggregate Node – The Ultimate Business Aggregation Tool
 ---------------
 
@@ -116,7 +116,7 @@ Pro Tips
 
 
 Examples
-===============
+-------
 Aggregate Node – Real-World Business Examples
 ---------------
 

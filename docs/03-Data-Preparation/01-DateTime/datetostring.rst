@@ -35,7 +35,7 @@ Fields
 
 
 Details
-===============
+-------
 Date To String Details
 ---------------
 
@@ -76,7 +76,7 @@ Example
 
 
 Examples
-===============
+-------
 Format Examples
 ---------------
 

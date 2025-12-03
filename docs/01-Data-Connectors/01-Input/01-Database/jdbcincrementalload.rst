@@ -75,7 +75,7 @@ Fields
 
 
 Details
-===============
+-------
 JDBC Incremental Load Node Details
 ---------------
 

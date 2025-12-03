@@ -33,7 +33,7 @@ Fields
 
 
 Details
-===============
+-------
 Repartition Node
 
 
@@ -52,7 +52,7 @@ Configuration:
 
 
 Examples
-===============
+-------
 Example:
 
 

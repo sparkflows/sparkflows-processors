@@ -47,7 +47,7 @@ Fields
 
 
 Details
-===============
+-------
 This node creates a histogram of the data using specified number of bins evenly spaced between the minimum and maximum of the specific columns.
 
 
@@ -58,7 +58,7 @@ Chart can be viewed in Column, Bar and Line format.
 
 
 Examples
-===============
+-------
 Incoming Dataframe has following rows:
 
 

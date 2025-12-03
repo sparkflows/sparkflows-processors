@@ -26,7 +26,7 @@ Fields
 
 
 Details
-===============
+-------
 Prophet Predict Node Details
 ---------------
 
@@ -40,7 +40,7 @@ Output Storage Level: Specifies the storage persistence level for the output Dat
 
 
 Examples
-===============
+-------
 Prophet Predict Node Examples
 ---------------
 

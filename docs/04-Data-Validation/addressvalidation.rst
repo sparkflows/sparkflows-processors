@@ -37,7 +37,7 @@ Fields
 
 
 Details
-===============
+-------
 Address Validation Node Details
 ---------------
 
@@ -56,7 +56,7 @@ Some of the valid address formats are as below:
 
 
 Examples
-===============
+-------
 Address Validation Node Examples
 ---------------
 

@@ -67,7 +67,7 @@ Fields
 
 
 Details
-===============
+-------
 SerperAI Search Node Details
 ---------------
 
@@ -199,7 +199,7 @@ The node outputs a DataFrame with columns depending on the *Search Type* and *Ou
 
 
 Examples
-===============
+-------
 Example: SerperAI Search Node
 ---------------
 

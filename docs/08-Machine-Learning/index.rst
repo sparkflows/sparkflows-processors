@@ -2,7 +2,8 @@
 ===============
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :titlesonly:
 
    01-ML-Feature-Selection/index.rst
    02-ML-SparkML/index.rst

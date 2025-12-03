@@ -35,7 +35,7 @@ Fields
 
 
 Details
-===============
+-------
 Has Min Node
 ---------------
 
@@ -67,7 +67,7 @@ The node will flag records where the specified column value is less than the def
 
 
 Examples
-===============
+-------
 Example:
 ---------------
 

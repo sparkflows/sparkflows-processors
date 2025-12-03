@@ -61,7 +61,7 @@ Fields
 
 
 Details
-===============
+-------
 A Gaussian Mixture Model represents a composite distribution whereby points are drawn from one of k Gaussian sub-distributions, each with its own probability. The spark.ml implementation uses the expectation-maximization algorithm to induce the maximum-likelihood model given a set of samples.
 
 
@@ -75,7 +75,7 @@ https://spark.apache.org/docs/latest/ml-clustering.html#gaussian-mixture-model-g
 
 
 Examples
-===============
+-------
 Below example is available at : https://spark.apache.org/docs/latest/ml-clustering.html#gaussian-mixture-model-gmm
 
 

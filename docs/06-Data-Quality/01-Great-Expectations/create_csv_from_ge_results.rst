@@ -41,7 +41,7 @@ Fields
 
 
 Details
-===============
+-------
 Create CSV from GE Results Node
 ---------------
 
@@ -81,7 +81,7 @@ The node writes the output DataFrame to the specified CSV file.
 
 
 Examples
-===============
+-------
 Example:
 
 

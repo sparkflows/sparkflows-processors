@@ -37,7 +37,7 @@ Fields
 
 
 Details
-===============
+-------
 Register Temp Table Node
 ---------------
 
@@ -46,7 +46,7 @@ This node registers the incoming DataFrame as a temporary table in the Spark SQL
 
 
 Examples
-===============
+-------
 Register Temp Table Node Example
 ---------------
 

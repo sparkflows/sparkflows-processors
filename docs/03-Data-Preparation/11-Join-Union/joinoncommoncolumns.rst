@@ -55,7 +55,7 @@ Fields
 
 
 Details
-===============
+-------
 Join On Common Columns Node Details
 ---------------
 
@@ -77,7 +77,7 @@ The `WHERE CLAUSE` section is used to filter any records once the two or more ta
 
 
 Examples
-===============
+-------
 Join On Common Columns Node Example
 ---------------
 

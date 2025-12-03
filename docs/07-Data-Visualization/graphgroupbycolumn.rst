@@ -56,7 +56,7 @@ Fields
 
 
 Details
-===============
+-------
 Graph Group By Column Details
 ---------------
 
@@ -91,7 +91,7 @@ Output
 
 
 Examples
-===============
+-------
 Example:
 
 

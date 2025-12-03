@@ -65,7 +65,7 @@ Fields
 
 
 Details
-===============
+-------
 Save Excel Advanced Node – Complete Business-Ready Guide
 ---------------
 
@@ -131,7 +131,7 @@ Critical in scheduled pipelines — no embarrassing empty files sent to executiv
 
 
 Examples
-===============
+-------
 Save Excel Advanced – Real Business Scenarios
 ---------------
 

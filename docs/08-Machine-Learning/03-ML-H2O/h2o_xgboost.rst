@@ -303,7 +303,7 @@ Fields
 
 
 Details
-===============
+-------
 XGBoost is a supervised learning algorithm that implements a process called boosting to yield accurate models. Boosting refers to the ensemble learning technique of building many models sequentially, with each new model attempting to correct for the deficiencies in the previous model.
 
 

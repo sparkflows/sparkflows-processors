@@ -59,7 +59,7 @@ Fields
 
 
 Details
-===============
+-------
 The NP chart in Statistical Process Control (SPC) is used to monitor the number of defective items in a process where the sample size remains constant. It tracks the count of non-conforming units in each sample, making it suitable for processes where defects are classified as pass/fail or defective/non-defective. The NP chart helps detect changes in the process by highlighting trends, shifts, or out-of-control points. By maintaining stability and ensuring the number of defects stays within control limits, the NP chart is useful for quality control in manufacturing and other industries with consistent sample sizes.
 
 

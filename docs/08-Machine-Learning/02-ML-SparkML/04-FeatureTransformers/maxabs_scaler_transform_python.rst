@@ -26,7 +26,7 @@ Fields
 
 
 Details
-===============
+-------
 MaxAbs Scaler Transform Node Details
 ---------------
 
@@ -45,7 +45,7 @@ FIT MODEL : The output of a previous MaxAbs Scaler Estimator Node, which contain
 
 
 Examples
-===============
+-------
 MaxAbs Scaler Transform Node Example
 ---------------
 

@@ -29,7 +29,7 @@ Fields
 
 
 Details
-===============
+-------
 Explode Node
 ---------------
 
@@ -38,7 +38,7 @@ This node explodes a column containing arrays or maps into multiple rows, creati
 
 
 Examples
-===============
+-------
 Explode Node Example
 ---------------
 

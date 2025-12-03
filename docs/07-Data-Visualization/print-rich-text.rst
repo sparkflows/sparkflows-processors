@@ -32,7 +32,7 @@ Fields
 
 
 Details
-===============
+-------
 Print Rich Text Node Details
 ---------------
 
@@ -61,7 +61,7 @@ This node can be used in various ways to:
 
 
 Examples
-===============
+-------
 Print Rich Text Node Example
 ---------------
 

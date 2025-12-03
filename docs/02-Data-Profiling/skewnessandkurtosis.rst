@@ -29,7 +29,7 @@ Fields
 
 
 Details
-===============
+-------
 This node identifies Skewness (measure of symmetry) and Kurtosis (measure of whether the data are heavy-tailed or light-tailed relative to a normal distribution) in the selected columns.
 
 
@@ -37,7 +37,7 @@ More than one numeric column can be selected.
 
 
 Examples
-===============
+-------
 A set of columns from incoming dataset can be selected.
 
 

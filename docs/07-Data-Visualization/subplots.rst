@@ -63,7 +63,7 @@ Fields
 
 
 Details
-===============
+-------
 Graph Subplots Details
 ---------------
 
@@ -111,7 +111,7 @@ When to use SubPlots
 
 
 Examples
-===============
+-------
 Example:
 
 

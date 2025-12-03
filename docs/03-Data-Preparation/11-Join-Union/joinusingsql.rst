@@ -52,7 +52,7 @@ Fields
 
 
 Details
-===============
+-------
 Join Using SQL Details
 ---------------
 
@@ -64,7 +64,7 @@ Join Using SQL Details
 
 
 Examples
-===============
+-------
 Join Using SQL Examples
 ---------------
 

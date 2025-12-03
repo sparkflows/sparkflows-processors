@@ -35,7 +35,7 @@ Fields
 
 
 Details
-===============
+-------
 Expect Column Values To Between Details
 ---------------
 
@@ -67,7 +67,7 @@ If `Max` is None, then `Min` is treated as a lower bound, and there is no maximu
 
 
 Examples
-===============
+-------
 Example
 ---------------
 

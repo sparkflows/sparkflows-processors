@@ -35,7 +35,7 @@ Fields
 
 
 Details
-===============
+-------
 Filter By Date Range Node Details
 ---------------
 
@@ -63,7 +63,7 @@ Output
 
 
 Examples
-===============
+-------
 Filter By Date Range Node Examples
 ---------------
 

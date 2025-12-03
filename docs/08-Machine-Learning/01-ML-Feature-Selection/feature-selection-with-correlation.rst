@@ -36,7 +36,7 @@ Fields
 
 
 Details
-===============
+-------
 Feature Selection With Correlation Node Details
 ---------------
 
@@ -57,7 +57,7 @@ Input Parameters
 
 
 Examples
-===============
+-------
 Feature Selection With Correlation Node Example
 ---------------
 

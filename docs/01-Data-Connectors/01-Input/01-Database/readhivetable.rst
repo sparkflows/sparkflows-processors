@@ -52,7 +52,7 @@ Fields
 
 
 Details
-===============
+-------
 Read HIVE Table Node Details
 ---------------
 
@@ -72,7 +72,7 @@ Parameters to be set:
 
 
 Examples
-===============
+-------
 Read HIVE Table Node Examples
 ---------------
 

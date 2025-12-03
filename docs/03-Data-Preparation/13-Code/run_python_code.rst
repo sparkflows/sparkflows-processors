@@ -29,7 +29,7 @@ Fields
 
 
 Details
-===============
+-------
 Run Python Code Details
 ---------------
 
@@ -40,7 +40,7 @@ The node takes the code provided in the "code" field as input and runs it in the
 
 
 Examples
-===============
+-------
 Run Python Code Examples
 ---------------
 

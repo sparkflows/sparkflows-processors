@@ -2,7 +2,8 @@
 ===============
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :titlesonly:
 
    binary-classification-evaluator-python.rst
    binary-classification-evaluator.rst

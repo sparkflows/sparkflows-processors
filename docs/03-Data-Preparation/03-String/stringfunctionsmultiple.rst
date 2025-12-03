@@ -35,7 +35,7 @@ Fields
 
 
 Details
-===============
+-------
 String Functions Multiple Node Details
 ---------------
 
@@ -107,7 +107,7 @@ It removes all blank spaces from values in the selected columns. ->     Example:
 
 
 Examples
-===============
+-------
 String Functions Multiple Node Examples
 ---------------
 

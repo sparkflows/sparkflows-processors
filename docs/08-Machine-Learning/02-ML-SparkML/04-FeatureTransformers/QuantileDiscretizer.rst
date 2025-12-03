@@ -43,7 +43,7 @@ Fields
 
 
 Details
-===============
+-------
 Quantile Discretizer Node Details
 ---------------
 
@@ -66,7 +66,7 @@ NUMBUCKETS : Maximum number of buckets (quantiles or categories) into which the 
 
 
 Examples
-===============
+-------
 Quantile Discretizer Node Example
 ---------------
 

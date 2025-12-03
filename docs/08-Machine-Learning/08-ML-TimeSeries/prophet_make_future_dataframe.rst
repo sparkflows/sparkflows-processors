@@ -35,7 +35,7 @@ Fields
 
 
 Details
-===============
+-------
 Prophet Make Future Dataframe Node Details
 ---------------
 
@@ -55,7 +55,7 @@ Include History: Boolean flag to specify whether historical data is included.
 
 
 Examples
-===============
+-------
 Prophet Make Future Dataframe Node Examples
 ---------------
 

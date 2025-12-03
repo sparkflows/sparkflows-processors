@@ -43,7 +43,7 @@ Fields
 
 
 Details
-===============
+-------
 Binarizer Node Details
 ---------------
 
@@ -70,7 +70,7 @@ Input Parameters
 
 
 Examples
-===============
+-------
 Binarization Node Example
 ---------------
 

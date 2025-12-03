@@ -51,7 +51,7 @@ Fields
 
 
 Details
-===============
+-------
 Hierarchy Chart Node
 ---------------
 
@@ -99,7 +99,7 @@ Product Hierarchies: Show the hierarchy of products and categories.
 
 
 Examples
-===============
+-------
 Example:
 
 

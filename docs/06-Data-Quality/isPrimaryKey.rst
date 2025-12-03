@@ -32,7 +32,7 @@ Fields
 
 
 Details
-===============
+-------
 Is Primary Key Node
 ---------------
 
@@ -62,7 +62,7 @@ The node will flag records where the specified column contains duplicate values.
 
 
 Examples
-===============
+-------
 Example:
 ---------------
 

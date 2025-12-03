@@ -2,7 +2,8 @@
 ===============
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :titlesonly:
 
    01-Real-Time-Streaming/index.rst
    02-Structured-Streaming/index.rst

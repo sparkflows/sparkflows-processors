@@ -2,7 +2,8 @@ Processors
 ===============
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
+   :titlesonly:
 
    01-Data-Connectors/index.rst
    02-Data-Profiling/index.rst

@@ -35,7 +35,7 @@ Fields
 
 
 Details
-===============
+-------
 Expect Column Values To Be In Set Details
 ---------------
 
@@ -65,5 +65,5 @@ The validation status can be used to filter or further process data based on qua
 
 
 Examples
-===============
+-------
 Example: If a column named "Status" in the DataFrame is expected to contain only "Approved," "Pending," or "Rejected," set the Values field to ["Approved", "Pending", "Rejected"]. This configuration ensures that any other value in the "Status" column will be flagged for review.

@@ -43,7 +43,7 @@ Fields
 
 
 Details
-===============
+-------
 This node performs  namefinder using OpenNLP to easily detect named entities and numbers in text.
 
 

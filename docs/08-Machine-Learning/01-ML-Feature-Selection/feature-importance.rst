@@ -39,7 +39,7 @@ Fields
 
 
 Details
-===============
+-------
 Feature Selection With Importance Node Details
 ---------------
 
@@ -61,7 +61,7 @@ Input Parameters
 
 
 Examples
-===============
+-------
 Feature Selection With Importance Node Example
 ---------------
 

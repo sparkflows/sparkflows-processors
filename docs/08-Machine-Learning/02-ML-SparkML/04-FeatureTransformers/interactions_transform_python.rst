@@ -26,7 +26,7 @@ Fields
 
 
 Details
-===============
+-------
 Interaction Transform Node Details
 ---------------
 
@@ -45,7 +45,7 @@ FIT MODEL : The output of a previous Interaction Estimator Node, which contains 
 
 
 Examples
-===============
+-------
 Interaction Transform Node Example
 ---------------
 

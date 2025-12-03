@@ -60,7 +60,7 @@ Fields
 
 
 Details
-===============
+-------
 Apache Spark ML implements the Accelerated failure time (AFT) model which is a parametric survival regression model for censored data. It describes a model for the log of survival time, so it’s often called a log-linear model for survival analysis. Different from a Proportional hazards model designed for the same purpose, the AFT model is easier to parallelize because each instance contributes to the objective function independently.
 
 
@@ -68,7 +68,7 @@ More details can be found at Spark MLlib/ML docs page : https://spark.apache.org
 
 
 Examples
-===============
+-------
 Below example is available at : https://spark.apache.org/docs/latest/ml-classification-regression.html#survival-regression
 
 

@@ -38,7 +38,7 @@ Fields
 
 
 Details
-===============
+-------
 Has Data Size Node
 ---------------
 
@@ -71,7 +71,7 @@ The node will filter out rows where the specified column meets the defined condi
 
 
 Examples
-===============
+-------
 Example:
 
 

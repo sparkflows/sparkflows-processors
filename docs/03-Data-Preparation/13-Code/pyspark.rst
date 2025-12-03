@@ -49,7 +49,7 @@ Fields
 
 
 Details
-===============
+-------
 Pyspark Details
 ---------------
 
@@ -61,7 +61,7 @@ The pyspark/python code processes it and returns one computed pyspark dataframe.
 
 
 Examples
-===============
+-------
 Pyspark Examples
 ---------------
 
