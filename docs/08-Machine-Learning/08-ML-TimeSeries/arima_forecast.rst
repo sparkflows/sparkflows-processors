@@ -1,5 +1,5 @@
 Arima Forecast
-=========== 
+===========
 
 Forecast by calling the forecast() or the predict() functions on the Arima object returned from calling fit.
 

@@ -1,5 +1,5 @@
 Formula
-=========== 
+===========
 
 test
 
@@ -45,7 +45,7 @@ Fields
 Details
 -------
 Formula Node Details
----------------
++++++++++++++++
 
 
 This node allows the user to use functions to build expressions that perform a variety of calculations and operations.
@@ -54,7 +54,7 @@ This node allows the user to use functions to build expressions that perform a v
 Examples
 -------
 conditional
----------------
++++++++++++++++
 
 Node configrations:
 
@@ -104,9 +104,8 @@ Eg: IF(CUSTOMER, "Send flyer", "Send documentation")
 Apart from these you can also write any spark SQL expression, and this will get evaluated in the configured outputCol.
 
 
-
 Conversion
----------------
++++++++++++++++
 
 
 Examples:
@@ -152,9 +151,8 @@ IntToBin(x): Converts x to a binary string.
 IntToHex(x): Converts x to a hexadecimal string.
 
 
-
 String
----------------
++++++++++++++++
 
 
 Contains(String, Target, CaseInsensitive=1): Searches for the occurrence of a particular string within a string. Returns True if (String) contains (Target), else returns False.
@@ -335,10 +333,8 @@ TitleCase("john smith") returns "John Smith".
 TitleCase(input_col)
 
 
-
-
 Math
----------------
++++++++++++++++
 
 
 abs(Double):
@@ -583,9 +579,8 @@ tanh(0.0) returns 0.0.
 tanh(input_col) returns the hyperbolic tangent of values in input_col.
 
 
-
 Date/Time
----------------
++++++++++++++++
 
 dateTimeAdd(String, Integer, String):
 
@@ -750,9 +745,8 @@ Example:
 dateTimeYear('2023-07-25') returns 2023.
 
 
-
 Operators
----------------
++++++++++++++++
 
 ADDITION(Double):
 

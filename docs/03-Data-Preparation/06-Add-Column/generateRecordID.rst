@@ -1,5 +1,5 @@
 Record ID
-=========== 
+===========
 
 Adds a sequential Record ID column to the dataset, similar to Alteryx Record ID Tool. Supports grouping, sorting, and formatted incremental IDs.
 
@@ -60,7 +60,7 @@ Fields
 Details
 -------
 Record ID Node Details
----------------
++++++++++++++++
 
 The Record ID Node generates a unique sequential identifier for each row in a DataFrame, similar to the Alteryx Record ID Tool. It supports flexible configuration, including grouping, sorting, and formatting, making it useful for adding row indexes or uniquely identifying records across or within groups.
 
@@ -149,7 +149,7 @@ The node returns a DataFrame identical to the input but with an additional colum
 Examples
 -------
 Example: Record ID Node
----------------
++++++++++++++++
 
 
 

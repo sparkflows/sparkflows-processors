@@ -1,5 +1,5 @@
 Sklearn Quantile Fit Transform
-=========== 
+===========
 
 Transforms features using quantiles information.
 
@@ -39,7 +39,8 @@ Fields
 
 Details
 -------
-h2: Sklearn Quantile Fit Transform Node Details
+Sklearn Quantile Fit Transform Node Details
++++++++++++++++
 
 
   The Sklearn Quantile Fit Transform Node is used to transform features using quantiles information. It transforms the features using quantiles information. It takes in the input data and applies the transformation to the features. The input data can be in the form of a numpy array or a pandas DataFrame.
@@ -70,7 +71,8 @@ h2: Sklearn Quantile Fit Transform Node Details
 
 Examples
 -------
-h2: Sklearn Quantile Fit Transform Node Example
+Sklearn Quantile Fit Transform Node Example
++++++++++++++++
 
 
   Consider the below **Sklearn Quantile Fit Transform** output for the **features** column

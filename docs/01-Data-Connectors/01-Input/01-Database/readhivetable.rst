@@ -1,5 +1,5 @@
 Read HIVE Table
-=========== 
+===========
 
 This node reads data from Apache HIVE table and creates a DataFrame from it
 
@@ -54,7 +54,7 @@ Fields
 Details
 -------
 Read HIVE Table Node Details
----------------
++++++++++++++++
 
 
 This node reads data from the Apache HIVE table and creates a DataFrame from it.
@@ -74,7 +74,7 @@ Parameters to be set:
 Examples
 -------
 Read HIVE Table Node Examples
----------------
++++++++++++++++
 
 
 

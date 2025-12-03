@@ -1,5 +1,5 @@
 Save Delta
-=========== 
+===========
 
 Saves the DataFrame into the specified location in Delta Format.
 
@@ -61,7 +61,7 @@ Fields
 Details
 -------
 Save Delta Node Details
----------------
++++++++++++++++
 
 
 This node Saves the DataFrame into the specified location in Delta Format.
@@ -88,7 +88,7 @@ Ignore: If table already exists, the save operation is ignored.
 Examples
 -------
 Save Delta Node Examples
----------------
++++++++++++++++
 
 
 

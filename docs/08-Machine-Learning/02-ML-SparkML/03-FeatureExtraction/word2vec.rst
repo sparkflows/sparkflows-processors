@@ -1,5 +1,5 @@
 Word2 Vec
-=========== 
+===========
 
 Transforms vectors of words into vectors of numeric codes for the purpose of further processing by NLP or machine learning algorithms.
 
@@ -60,7 +60,7 @@ Fields
 Details
 -------
 Word2Vec Node Details
----------------
++++++++++++++++
 
 
 The Word2Vec Node is an Estimator which takes sequences of words representing documents and trains a Word2VecModel. The model maps each word to a unique fixed-size vector. The Word2VecModel transforms each document into a vector using the average of all words in the document; this vector can then be used for as features for prediction, document similarity calculations, etc.
@@ -88,7 +88,7 @@ Input Parameters
 Examples
 -------
 Word2Vec Node Example
----------------
++++++++++++++++
 
 
 Consider the below **Word2Vec** output's for the input string **Title** column.

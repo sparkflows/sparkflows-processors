@@ -1,5 +1,5 @@
 Window Aggregation
-=========== 
+===========
 
 This node calculates the moving values of selected functions for the field(input column).
 

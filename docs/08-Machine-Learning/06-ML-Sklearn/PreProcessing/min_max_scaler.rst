@@ -1,5 +1,5 @@
 Sklearn MinMaxScaler
-=========== 
+===========
 
 Transforms features by scaling each feature to a given range.
 

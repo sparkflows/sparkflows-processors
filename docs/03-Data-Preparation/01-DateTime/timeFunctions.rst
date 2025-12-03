@@ -1,5 +1,5 @@
 Time Functions
-=========== 
+===========
 
 This node extracts year, dayofmonth, dayofyear, weekofyear, dayofweek, quarter, hour, minute, second & season.
 
@@ -34,7 +34,7 @@ Fields
 Details
 -------
 Time Functions Details
----------------
++++++++++++++++
 
 
 This node can be used to extract year, dayofmonth, dayofyear, weekofyear, dayofweek, quarter, hour, minute, second & season values from a Timestamp column.

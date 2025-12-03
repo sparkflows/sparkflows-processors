@@ -1,5 +1,5 @@
 Rollup
-=========== 
+===========
 
 Rollup Node generates a result set that shows aggregates for a hierarchy of values in the selected columns.
 

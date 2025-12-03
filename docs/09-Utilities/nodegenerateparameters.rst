@@ -1,5 +1,5 @@
 Generate Dynamic Parameters
-=========== 
+===========
 
 This node create dynamic parameters for each column and value. ParameterName is ColumnName and Parameter Value in value from first row.
 
@@ -31,7 +31,7 @@ Fields
 Details
 -------
 Generate Dynamic Parameters
----------------
++++++++++++++++
 
 
 The Generate Dynamic Parameters Node generate the column name and value as Dynamic Parmaeters(value) aviable in next node.

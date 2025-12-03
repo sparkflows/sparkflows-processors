@@ -1,5 +1,5 @@
 ExpectColumnValuesToBeNull
-=========== 
+===========
 
 
 
@@ -34,7 +34,7 @@ Fields
 Details
 -------
 Expect Column Values To Be Null Details
----------------
++++++++++++++++
 
 
 Expect the column values to be null.
@@ -53,7 +53,7 @@ Mostly (None or a float between 0 and 1): Return `success`: True if at least mos
 Examples
 -------
 Example
----------------
++++++++++++++++
 
 
 

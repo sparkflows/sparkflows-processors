@@ -1,5 +1,5 @@
 Prophet
-=========== 
+===========
 
 
 
@@ -90,7 +90,7 @@ Fields
 Examples
 -------
 Prophet Node Examples
----------------
++++++++++++++++
 
 
 Example 1: Predicting Product Demand

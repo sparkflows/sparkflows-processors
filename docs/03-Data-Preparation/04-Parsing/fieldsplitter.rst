@@ -1,5 +1,5 @@
 Field Splitter
-=========== 
+===========
 
 This node splits the string of the specified input column using the specified delimiter
 

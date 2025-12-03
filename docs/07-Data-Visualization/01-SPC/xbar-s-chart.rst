@@ -1,5 +1,5 @@
 Xbar-S Chart
-=========== 
+===========
 
 This node outputs SPC XBAR-S Chart and performs control tests.
 

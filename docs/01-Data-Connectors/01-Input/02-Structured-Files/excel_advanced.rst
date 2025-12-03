@@ -1,5 +1,5 @@
 Read Excel Advanced
-=========== 
+===========
 
 Advanced Excel Reader Node – Load one or more sheets, named ranges, or specific cell ranges from .xlsx/.xls files with full control over headers, data types, and metadata columns. Perfect for business reports, financial models, and mixed-format Excel sources.
 
@@ -108,7 +108,7 @@ Fields
 Details
 -------
 Read Excel Advanced Node – Complete Guide
----------------
++++++++++++++++
 
 The Read Excel Advanced node is the most powerful and flexible way to import Excel files into your pipeline. It handles real-world business Excel files with multiple sheets, merged cells, titles, footers, and inconsistent formatting – all while giving you full control over schema, metadata, and performance.
 
@@ -202,7 +202,7 @@ Define exact column names, data types, and date formats. When Enforce Schema = t
 Examples
 -------
 Read Excel Advanced – Real-World Examples
----------------
++++++++++++++++
 
 
 

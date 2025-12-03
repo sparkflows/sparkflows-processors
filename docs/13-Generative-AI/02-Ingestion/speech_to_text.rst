@@ -1,5 +1,5 @@
 Audio Diarization
-=========== 
+===========
 
 This node processes audio files to transcribe and diarize speech, identifying different speakers in the audio. It generates a structured output as a DataFrame with two columns: speaker and dialogue.
 
@@ -61,7 +61,7 @@ Fields
 Details
 -------
 Audio Diarization Node Details
----------------
++++++++++++++++
 
 The Audio Diarization node processes audio files to transcribe speech and, optionally, diarize it by identifying different speakers. It uses OpenAI's Whisper model (or other specified models) to generate a structured DataFrame output with two columns: speaker and dialogue. This node is ideal for extracting and organizing spoken content from audio files in PySpark-based data pipelines.
 
@@ -131,7 +131,7 @@ If the Output Save Path is specified, the transcription is also saved as a .txt 
 Examples
 -------
 Example: Audio Diarization Node
----------------
++++++++++++++++
 
 
 

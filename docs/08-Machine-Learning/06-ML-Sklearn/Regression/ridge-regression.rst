@@ -1,5 +1,5 @@
 Sklearn Ridge Regression
-=========== 
+===========
 
 Ridge Regression, solves a regression model where the loss function is the linear least squares function and regularization is given by the l2-norm.
 

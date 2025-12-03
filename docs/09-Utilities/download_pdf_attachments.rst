@@ -1,5 +1,5 @@
 Pdf Attachments from Emails
-=========== 
+===========
 
 This node reads emails and download Pdf Attachments from all provided email addresses
 
@@ -52,7 +52,7 @@ Fields
 Details
 -------
 Pdf Attachments From Email Node Details
----------------
++++++++++++++++
 
 
 This node reads emails from specified email addresses and downloads PDF attachments. It filters emails based on a subject filter and saves the attachments in the provided directory. The node uses Microsoft Graph API for authentication and email access.

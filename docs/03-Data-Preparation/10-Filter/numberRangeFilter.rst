@@ -1,5 +1,5 @@
 Filter By Number Range
-=========== 
+===========
 
 This node filters the rows in the given Number Range
 
@@ -41,7 +41,7 @@ Fields
 Details
 -------
 Filter By Number Range Node Details
----------------
++++++++++++++++
 
 
 This node filters Rows for the specified number range. It helps to define a validation rule on the selected column.
@@ -69,7 +69,7 @@ Output
 Examples
 -------
 Filter By Number Range Node Examples
----------------
++++++++++++++++
 
 
 

@@ -1,5 +1,5 @@
 Read CSV
-=========== 
+===========
 
 It reads in CSV files and creates a DataFrame from it.
 
@@ -87,7 +87,7 @@ Fields
 Details
 -------
 Read CSV Details
----------------
++++++++++++++++
 
 
 This node reads CSV files and creates a DataFrame from them. It can read either a single file or a directory containing multiple files. The user can configure the below fields to parse the file.
@@ -164,7 +164,7 @@ Users can still add or delete columns using **+** button next to the InferSchema
 Examples
 -------
 Read CSV Node Example
----------------
++++++++++++++++
 
 
 Given a CSV file with the following data:

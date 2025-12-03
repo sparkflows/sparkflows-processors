@@ -1,5 +1,5 @@
 Compare Specific Columns Single Output
-=========== 
+===========
 
 Compares 2 incoming DataFrames on specific columns. Outputs 1 DataFrame (A-B) or (B-A) or (A intersection B) based on user's input
 
@@ -89,9 +89,8 @@ if CompareSpecificColumnsSingleOutput node is configured to compare incoming Dat
 then outgoing Dataframes would be created as below based on [Compare Type] selected:
 
 
-
 LEFTDATAFRAME_EXCEPT_RIGHTDATAFRAME (A-B) Outgoing Dataframe with rows of 1st Dataframe in which values in the specified columns
----------------
++++++++++++++++
 
 don't have matching entries in same set of columns in 2nd Dataframe.
 
@@ -104,9 +103,8 @@ don't have matching entries in same set of columns in 2nd Dataframe.
     E05       |    MARK        |    SALES      |    25     |    2020-12-21        |    78 999.00  |    BAD
 
 
-
 RIGHTDATAFRAME_EXCEPT_LEFTDATAFRAME (B-A) Outgoing Dataframe with rows of 2nd Dataframe in which values in the specified columns
----------------
++++++++++++++++
 
 don't have matching entries in same set of columns in 1st Dataframe.
 
@@ -120,9 +118,8 @@ don't have matching entries in same set of columns in 1st Dataframe.
     E08       |    LISA        |    FRONT DESK |    40     |    2015-05-04        |    12 000.00  |    VERY GOOD
 
 
-
 LEFTDATAFRAME_INTERSECT_RIGHTDATAFRAME (A insection B) Outgoing Dataframe with rows common in both incoming Dataframes in which values in the specified columns
----------------
++++++++++++++++
 
 have matching entries in same set of columns.
 

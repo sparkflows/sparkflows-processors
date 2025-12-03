@@ -1,5 +1,5 @@
 Sklearn Binarizer Transform
-=========== 
+===========
 
 Binarize data (set feature values to 0 or 1) according to a threshold.
 
@@ -28,7 +28,7 @@ Fields
 Details
 -------
 Sklearn Binarizer Transform Node Details
----------------
++++++++++++++++
 
 
 The Sklearn Binarizer Transform Node is used to binarize data (set feature values to 0 or 1) according to a threshold. It uses the sklearn library to apply the Binarizer transformation to the input data. This transformation can be useful for feature selection and preprocessing tasks.
@@ -45,7 +45,7 @@ THRESHOLD : The threshold value used to determine which feature values will be s
 Examples
 -------
 Sklearn Binarizer Transform Node Example
----------------
++++++++++++++++
 
 
 Consider the following example, where we have a DataFrame with a column 'values' containing numerical values. We use the Sklearn Binarizer Transform Node to binarize the 'values' column according to a threshold of 2.

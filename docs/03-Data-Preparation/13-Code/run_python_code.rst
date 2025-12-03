@@ -1,5 +1,5 @@
 Run Python Code
-=========== 
+===========
 
 This node executes the given python code.
 
@@ -31,7 +31,7 @@ Fields
 Details
 -------
 Run Python Code Details
----------------
++++++++++++++++
 
 
 The Run Python Code node executes the given python code.
@@ -42,7 +42,7 @@ The node takes the code provided in the "code" field as input and runs it in the
 Examples
 -------
 Run Python Code Examples
----------------
++++++++++++++++
 
 
 Below are some examples of the Python code that can be run in the Run Python Code node.

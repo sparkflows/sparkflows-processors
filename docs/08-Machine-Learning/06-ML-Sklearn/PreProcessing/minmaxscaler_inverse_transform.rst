@@ -1,5 +1,5 @@
 MinMax Scaler Inverse Transform
-=========== 
+===========
 
 The inverse transform node is used to transform the scaled data back to its original form.
 

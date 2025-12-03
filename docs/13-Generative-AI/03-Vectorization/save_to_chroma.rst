@@ -1,5 +1,5 @@
 Save Chroma DB
-=========== 
+===========
 
 Save Vector Embeddings to Chroma DB
 

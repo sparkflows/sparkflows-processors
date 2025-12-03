@@ -1,5 +1,5 @@
 Print Rich Text
-=========== 
+===========
 
 Displaying rich text
 
@@ -34,7 +34,7 @@ Fields
 Details
 -------
 Print Rich Text Node Details
----------------
++++++++++++++++
 
 
 This node offers a wide variety of common formatting options, such as bold, color and italics.
@@ -63,7 +63,7 @@ This node can be used in various ways to:
 Examples
 -------
 Print Rich Text Node Example
----------------
++++++++++++++++
 
 
 Scenario:

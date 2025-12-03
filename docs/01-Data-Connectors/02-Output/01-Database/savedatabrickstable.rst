@@ -1,5 +1,5 @@
 Save Databricks Table
-=========== 
+===========
 
 This node saves the input data as table in Databricks
 
@@ -54,7 +54,7 @@ Fields
 Details
 -------
 Save Databricks Table Node Details
----------------
++++++++++++++++
 
 
 This node reads the input dataframe and then saves the schema and data as a Databricks table.
@@ -83,7 +83,7 @@ Ignore: If table already exists, the save operation is ignored.
 Examples
 -------
 Save Databricks Table Node Examples
----------------
++++++++++++++++
 
 
 

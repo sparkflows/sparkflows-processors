@@ -1,5 +1,5 @@
 Video Summarization
-=========== 
+===========
 
 This process involves creating text summary for the video.
 
@@ -51,7 +51,7 @@ Fields
 Details
 -------
 Video Summarization Node Details
----------------
++++++++++++++++
 
 The Video Summarization node processes video files to generate a text summary of their content. It leverages a large language model (LLM) to analyze the video and produce a concise summary, which is saved as a text file at the specified output path. This node is designed for PySpark-based workflows, making it suitable for automated video content analysis in data pipelines.
 
@@ -96,7 +96,7 @@ The node outputs the generated summary as a text file saved at the specified Out
 Examples
 -------
 Example: Video Summarization Node
----------------
++++++++++++++++
 
 
 

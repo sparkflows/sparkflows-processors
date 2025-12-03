@@ -1,5 +1,5 @@
 Window Analytics
-=========== 
+===========
 
 
 
@@ -66,9 +66,8 @@ Incoming Dataframe has following rows:
     E07       |    BELLA       |    HR      |    60000     |    24
 
 
-
 If WindowAnalytics node is configured as below:
----------------
++++++++++++++++
 
 
 PARTITIONBY      :     DEPT
@@ -100,9 +99,8 @@ where incoming Dataframe is partitioned by [DEPT] and data is sorted by [AGE] an
     E05       |    MARK        |    SALES   |    60000     |    45     |    40000
 
 
-
 If WindowAnalytics node is configured as below:
----------------
++++++++++++++++
 
 
 PARTITIONBY      :     DEPT

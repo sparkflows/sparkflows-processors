@@ -1,5 +1,5 @@
 JDBC Incremental Load
-=========== 
+===========
 
 This node is used to load incremental data from RDBMS to Hive.
 
@@ -77,7 +77,7 @@ Fields
 Details
 -------
 JDBC Incremental Load Node Details
----------------
++++++++++++++++
 
 
 This node is used to load incremental data from RDBMS to Hive.

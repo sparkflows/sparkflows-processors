@@ -1,5 +1,5 @@
 Sklearn TF-IDF Vectorizer
-=========== 
+===========
 
 Applies scikit-learn's TfidfVectorizer to a text column. Converts text documents into TF-IDF feature vectors and stores them as an ARRAY column in the Spark DataFrame.
 

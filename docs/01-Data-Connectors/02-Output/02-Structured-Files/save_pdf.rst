@@ -1,5 +1,5 @@
 Save PDF
-=========== 
+===========
 
 Saves DataFrame responses as PDF files
 
@@ -58,7 +58,7 @@ Fields
 Details
 -------
 Save PDF Node Details
----------------
++++++++++++++++
 
 The Save PDF Node is designed to save DataFrame responses as PDF files, either locally or to an S3 bucket. It supports saving content from a specified DataFrame column, with options to combine responses into a single file, save individual files, or group by page number. The node processes text, HTML, or markdown content, converting it to PDF format using libraries like WeasyPrint and FPDF. This node is ideal for generating structured PDF outputs in data pipelines.
 
@@ -144,7 +144,7 @@ The node does not modify the input DataFrame but saves the content from the spec
 Examples
 -------
 Example: Save PDF Node
----------------
++++++++++++++++
 
 
 

@@ -1,5 +1,5 @@
 Sklearn Normalizer
-=========== 
+===========
 
 Normalizes samples individually to unit norm.
 
@@ -34,7 +34,7 @@ Fields
 Details
 -------
 Sklearn Normalizer Node Details
----------------
++++++++++++++++
 
 
 The Sklearn Normalizer Node is used to normalize samples individually to unit norm. It normalizes the input samples individually (in rows) to have unit norm, independently of the other samples. This can be useful for comparing samples with different scales.
@@ -56,7 +56,7 @@ NORM : The norm to use to normalize the data. It can be "l2", "l1" or "max".
 Examples
 -------
 Sklearn Normalizer Node Example
----------------
++++++++++++++++
 
 
 Consider the below **Sklearn Normalizer** output for the **features** column

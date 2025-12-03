@@ -1,5 +1,5 @@
 Print N Rows
-=========== 
+===========
 
 Prints the specified number of records in the DataFrame. It is useful for seeing intermediate output
 
@@ -43,7 +43,7 @@ Fields
 Details
 -------
 Print N Rows Node Details
----------------
++++++++++++++++
 
 
 This node is used to print the first N rows from the incoming dataframe. You can choose to display all columns or select specific columns to focus on relevant data.

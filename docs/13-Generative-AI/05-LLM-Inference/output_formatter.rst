@@ -1,5 +1,5 @@
 Output Formatter
-=========== 
+===========
 
 This node formats output from Columns.
 
@@ -38,7 +38,7 @@ Fields
 Details
 -------
 Output Formatter Node Details
----------------
++++++++++++++++
 
 The Output Formatter node formats data from a specified column in an input DataFrame and outputs it with a user-defined key. It is designed for use in PySpark-based data processing pipelines to extract and present data in a structured format, typically for downstream use or display. The node processes a single column from the input DataFrame, formats the content, and sends it as a JSON message with a specified key.
 
@@ -87,7 +87,7 @@ The JSON message is sent to the workflow context for further processing or displ
 Examples
 -------
 Example: Output Formatter Node
----------------
++++++++++++++++
 
 
 

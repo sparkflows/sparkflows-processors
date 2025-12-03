@@ -1,5 +1,5 @@
 Hugging Face Grammatical Correctness
-=========== 
+===========
 
 Grammatical Correctness using models hosted in Hugging Face repository.
 

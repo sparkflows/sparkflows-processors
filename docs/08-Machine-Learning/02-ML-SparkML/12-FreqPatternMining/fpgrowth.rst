@@ -1,5 +1,5 @@
 FP Growth
-=========== 
+===========
 
 Does Pattern Mining using FPGrowth Algorithm
 
@@ -63,7 +63,7 @@ http://spark.apache.org/docs/latest/ml-frequent-pattern-mining.html
 Examples
 -------
 Below example is available at : https://spark.apache.org/docs/latest/ml-frequent-pattern-mining.html#fp-growth
----------------
++++++++++++++++
 
 
 import org.apache.spark.ml.fpm.FPGrowth

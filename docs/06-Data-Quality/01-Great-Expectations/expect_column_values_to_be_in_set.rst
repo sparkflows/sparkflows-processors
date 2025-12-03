@@ -1,5 +1,5 @@
 ExpectColumnValuesToBeInSet
-=========== 
+===========
 
 
 
@@ -37,7 +37,7 @@ Fields
 Details
 -------
 Expect Column Values To Be In Set Details
----------------
++++++++++++++++
 
 
 This feature allows users to validate that column values in a DataFrame are within a specified set of values. It helps ensure data quality by restricting column values to predefined acceptable options.

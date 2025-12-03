@@ -1,5 +1,5 @@
 Sklearn StandardScalar
-=========== 
+===========
 
 Standardizing a dataset involves rescaling the distribution of values so that the mean of observed values is 0 and the standard deviation is 1.
 
@@ -34,7 +34,7 @@ Fields
 Details
 -------
 Sklearn Standard Scalar Node Details
----------------
++++++++++++++++
 
 
 The Sklearn Standard Scalar Node is used to standardize a dataset. Standardizing a dataset involves rescaling the distribution of values so that the mean of observed values is 0 and the standard deviation is 1. It takes in the input data and applies the standardization to the features. The input data can be in the form of a numpy array or a pandas DataFrame.
@@ -60,7 +60,7 @@ WITH STD : If it is set to true, it will scale the data to unit variance (or equ
 Examples
 -------
 Sklearn Standard Scalar Node Example
----------------
++++++++++++++++
 
 
 Consider the below **Sklearn Standard Scalar** output for the **features** column

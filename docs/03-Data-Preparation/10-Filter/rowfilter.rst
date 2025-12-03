@@ -1,5 +1,5 @@
 Row Filter
-=========== 
+===========
 
 This node creates a new DataFrame containing the rows that satisfy the given condition
 
@@ -39,7 +39,7 @@ Fields
 Details
 -------
 Details
----------------
++++++++++++++++
 
 
 Row filter allows the user to filter out rows that do not meet a set condition. Rows that meet the condition are passed on to the next node in a new dataframe.
@@ -48,7 +48,7 @@ Row filter allows the user to filter out rows that do not meet a set condition. 
 Examples
 -------
 Examples of Conditional Expression
----------------
++++++++++++++++
 
 
 Below are some examples of the Conditions Expression which can be used.

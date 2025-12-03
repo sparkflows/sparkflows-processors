@@ -1,5 +1,5 @@
 Date To Age
-=========== 
+===========
 
 This node converts a date-column into columns of age (both in years and in days).
 
@@ -37,7 +37,7 @@ Fields
 Details
 -------
 Date To Age Details
----------------
++++++++++++++++
 
 
 Calculates current age in years and in days from the selected date or timestamp field.
@@ -65,7 +65,7 @@ Output
 Examples
 -------
 Examples when date is 06-25-2019
----------------
++++++++++++++++
 
 
 

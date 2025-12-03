@@ -1,5 +1,5 @@
 Gaussian Mixture
-=========== 
+===========
 
 This class performs expectation maximization for multivariate Gaussian Mixture Models (GMMs). A GMM represents a composite distribution of independent Gaussian distributions with associated mixing weights specifying each's contribution to the composite.
 

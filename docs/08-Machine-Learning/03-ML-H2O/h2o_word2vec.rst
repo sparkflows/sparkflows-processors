@@ -1,5 +1,5 @@
 H2O Word to Vec
-=========== 
+===========
 
 The Word2vec algorithm takes a text corpus as an input and produces the word vectors as output.
 

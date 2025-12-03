@@ -1,5 +1,5 @@
 GE Decision
-=========== 
+===========
 
 This Node takes in an expression. It evaluates the expression and based on the results sends the execution to the first or the second output Node
 
@@ -42,7 +42,7 @@ Fields
 Details
 -------
 GE Decision Node
----------------
++++++++++++++++
 
 
 
@@ -73,7 +73,7 @@ The data is routed to the specified path based on the evaluation of the expressi
 Examples
 -------
 Example
----------------
++++++++++++++++
 
 
 Let's say you want to split a DataFrame based on a column named is_high_value.

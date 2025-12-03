@@ -1,5 +1,5 @@
 Interaction
-=========== 
+===========
 
 This transformer takes in Double and Vector type columns and outputs a flattened vector of their feature interactions.
 
@@ -34,7 +34,7 @@ Fields
 Details
 -------
 Interaction Node Details
----------------
++++++++++++++++
 
 
 The Interaction Node is used to create a new column with feature interactions between the input columns. It takes in Double and Vector type columns and outputs a flattened vector of their feature interactions. It takes in a DataFrame and transforms it to another DataFrame by adding a new column with the feature interactions.
@@ -55,7 +55,7 @@ OUTPUT COLUMN : The name of the output column after interaction.
 Examples
 -------
 Interaction Node Example
----------------
++++++++++++++++
 
 
 Consider the below **Interaction** output for the **age** and **income** columns.

@@ -1,5 +1,5 @@
 Polynominal Expansion
-=========== 
+===========
 
 Perform feature expansion in a polynomial space
 
@@ -45,7 +45,7 @@ Fields
 Details
 -------
 Polynominal Expansion Node Details
----------------
++++++++++++++++
 
 
 The Polynomial expansion Node helps in the process of expanding your features into a polynomial space, which is formulated by an n-degree combination of original dimensions.
@@ -68,7 +68,7 @@ Input Parameters
 Examples
 -------
 Polynominal Expansion Node Example
----------------
++++++++++++++++
 
 
 Consider the below dataset which contains a vector field **features**

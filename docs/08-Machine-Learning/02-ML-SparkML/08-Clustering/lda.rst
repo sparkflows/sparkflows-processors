@@ -1,5 +1,5 @@
 LDA
-=========== 
+===========
 
 LDA is given a collection of documents as input data, via the featuresCol parameter. Each document is specified as a Vector of length vocabSize, where each entry is the count for the corresponding term (word) in the document
 

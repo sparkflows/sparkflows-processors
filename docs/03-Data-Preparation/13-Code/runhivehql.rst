@@ -1,5 +1,5 @@
 Run HIVEQL
-=========== 
+===========
 
 This node runs the given SQL on the incoming DataFrame
 
@@ -39,7 +39,7 @@ Fields
 Details
 -------
 Run HIVEQL Details
----------------
++++++++++++++++
 
 
 This node runs the HiveQL on the incoming DataFrame to transform it into another DataFrame. HiveQL is a query language used to process and manipulate the data stored in Apache Hive.
@@ -51,7 +51,7 @@ The input to this node is a DataFrame and the output is another DataFrame genera
 Examples
 -------
 Run HIVEQL Examples
----------------
++++++++++++++++
 
 
 

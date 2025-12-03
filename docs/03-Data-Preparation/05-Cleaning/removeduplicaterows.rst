@@ -1,5 +1,5 @@
 Remove Duplicate Rows
-=========== 
+===========
 
 This node take an array of fields and compare the rows on those fields. From the matches it would randomly take one row and drop the rest.
 
@@ -66,9 +66,8 @@ Incoming Dataframe has following rows:
     E04       |    JOHN        |    MARKETING  |    45
 
 
-
 If RemoveDuplicateRows node is configured to retain first matching row and drop other duplicate rows having duplicate values in [EMP_NAME] and [DEPT]
----------------
++++++++++++++++
 
 then outgoing dataframe would be created as below:
 
@@ -82,9 +81,8 @@ then outgoing dataframe would be created as below:
     E03       |    JOHN        |    MARKETING  |    40
 
 
-
 If RemoveDuplicateRows node is configured to retain last matching row and drop other duplicate rows having duplicate values in [EMP_NAME] and [DEPT]
----------------
++++++++++++++++
 
 then outgoing dataframe would be created as below:
 
@@ -98,9 +96,8 @@ then outgoing dataframe would be created as below:
     E04       |    JOHN        |    MARKETING  |    45
 
 
-
 If RemoveDuplicateRows node is configured to retain first matching row and drop other duplicate rows having duplicate values in [EMP_NAME], [DEPT] and [AGE]
----------------
++++++++++++++++
 
 then outgoing dataframe would be created as below:
 

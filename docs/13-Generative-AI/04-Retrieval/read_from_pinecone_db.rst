@@ -1,5 +1,5 @@
 Read Pinecone DB
-=========== 
+===========
 
 Read Vector Embeddings from Pinecone db
 
@@ -50,7 +50,7 @@ Fields
 Details
 -------
 Read Pinecone DB Node Details
----------------
++++++++++++++++
 
 The Read Pinecone DB node retrieves vector embeddings from a Pinecone vector database based on a user query or query embeddings provided in a DataFrame. It performs a similarity search to find the most relevant documents and returns the results as a DataFrame with columns for the user query and corresponding content. This node is designed for PySpark-based workflows, enabling efficient retrieval of vector-based data for similarity search applications.
 
@@ -104,7 +104,7 @@ The node outputs a DataFrame with the following columns:
 Examples
 -------
 Example: Read Pinecone DB Node
----------------
++++++++++++++++
 
 
 

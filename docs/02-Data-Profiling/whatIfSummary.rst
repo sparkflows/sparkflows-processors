@@ -1,5 +1,5 @@
 WhatIf Summary Statistics
-=========== 
+===========
 
 WhatIf Summary statistics provide useful information about sample data. eg: measures of spread.
 
@@ -34,7 +34,7 @@ Fields
 Details
 -------
 WhatIf Summary Statistics Node Details
----------------
++++++++++++++++
 
 
 The WhatIf Summary Statistics node makes it easy to explore the contents of a DataFrame at a high level.
@@ -58,7 +58,7 @@ Input Parameters
 Examples
 -------
 WhatIf Summary Statistics Node Example
----------------
++++++++++++++++
 
 
 Consider the following DataFrame

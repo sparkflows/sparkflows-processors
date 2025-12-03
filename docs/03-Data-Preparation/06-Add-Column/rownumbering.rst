@@ -1,5 +1,5 @@
 Row Numbering
-=========== 
+===========
 
 
 
@@ -31,7 +31,7 @@ Fields
 Details
 -------
 Row Numbering Node
----------------
++++++++++++++++
 
 
 
@@ -61,7 +61,7 @@ Output Column: The name of the new column to store the row numbers.
 Examples
 -------
 Example:
----------------
++++++++++++++++
 
 
 Let's assume we have a DataFrame with the following data:

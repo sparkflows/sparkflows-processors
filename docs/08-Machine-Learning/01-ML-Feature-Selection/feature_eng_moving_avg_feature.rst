@@ -1,5 +1,5 @@
 Moving Average Features
-=========== 
+===========
 
 This node computes various global moving average features from a DataFrame containing transactional data.
 
@@ -90,7 +90,7 @@ Fields
 Details
 -------
 Moving Average Features Node Details
----------------
++++++++++++++++
 
 
 The Moving Average Features node is designed to compute global moving average features from transactional data stored in a DataFrame. It calculates metrics such as average transaction counts, gap days, amounts, sales quantities, and unique users over specified time windows. These features are appended as new columns to the input DataFrame, providing insights into global trends across all transactions.
@@ -246,7 +246,7 @@ The node outputs the original DataFrame with additional columns based on the ena
 Examples
 -------
 Moving Average Features Node Examples
----------------
++++++++++++++++
 
 
 

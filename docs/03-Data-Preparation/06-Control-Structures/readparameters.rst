@@ -1,5 +1,5 @@
 Read Parameters
-=========== 
+===========
 
 Reads in the parameters from the given file.
 
@@ -39,7 +39,7 @@ Fields
 Details
 -------
 Read Parameters Node
----------------
++++++++++++++++
 
 
 This node reads key-value pairs from a file and stores them as parameters, which can be used in subsequent nodes.
@@ -48,7 +48,7 @@ This node reads key-value pairs from a file and stores them as parameters, which
 Examples
 -------
 Read Parameters Node Example
----------------
++++++++++++++++
 
 
 Given a parameter file with the following content:

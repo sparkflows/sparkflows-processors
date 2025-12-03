@@ -1,5 +1,5 @@
 OCR
-=========== 
+===========
 
 Performs Optical Character Recognition using the Tesseract Library. Please make sure the TESSDATA_PREFIX environment variable is set to the parent directory of your 'tessdata' directory. Download the tessdata directory with git clone https://github.com/tesseract-ocr/tessdata.git
 
@@ -37,7 +37,7 @@ Fields
 Details
 -------
 Model OCR Extract Node
----------------
++++++++++++++++
 
 
 This node extracts text from images using an OCR (Optical Character Recognition) model. It takes an image as input and outputs the extracted text as a string.
@@ -46,7 +46,7 @@ This node extracts text from images using an OCR (Optical Character Recognition)
 Examples
 -------
 Model OCR Extract Node Example
----------------
++++++++++++++++
 
 
 Given the following dataset:

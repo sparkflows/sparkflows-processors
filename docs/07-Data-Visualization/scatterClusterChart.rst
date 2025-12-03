@@ -1,5 +1,5 @@
 Scatter Cluster Chart
-=========== 
+===========
 
 Type
 --------- 
@@ -59,7 +59,7 @@ Fields
 Details
 -------
 Scatter Cluster Chart Node
----------------
++++++++++++++++
 
 
 Purpose:

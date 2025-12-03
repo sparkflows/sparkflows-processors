@@ -1,5 +1,5 @@
 SQL Transformer
-=========== 
+===========
 
 This node runs the given SQL on the incoming DataFrame using Spark ML SQLTransformer
 
@@ -43,7 +43,7 @@ Fields
 Details
 -------
 SQL Transformer Node Details
----------------
++++++++++++++++
 
 
 The SQL Transformer Node implements the transformations which are defined by SQL statement. Currently,  supports SQL syntax like 
@@ -65,7 +65,7 @@ Input Parameters
 Examples
 -------
 SQL Transformer Node Example
----------------
++++++++++++++++
 
 
 Assume that we have the following DataFrame with columns id, v1 and v2:

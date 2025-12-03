@@ -1,5 +1,5 @@
 Correlation
-=========== 
+===========
 
 calculates the correlation between two series of data.
 
@@ -42,7 +42,7 @@ Fields
 Details
 -------
 Correlation Node Details
----------------
++++++++++++++++
 
 
 Correlation is to measure if two variables or two feature columns tend to move in together in same or opposite direction. The idea is to detect if one variable or feature column can be predicted by another variable or feature column.
@@ -66,7 +66,7 @@ Input Parameters
 Examples
 -------
 Correlation Node Example
----------------
++++++++++++++++
 
 
 For a given dataframe having the below schema:

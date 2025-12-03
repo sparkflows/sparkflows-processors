@@ -1,5 +1,5 @@
 Columns Cardinality
-=========== 
+===========
 
 Distribution of categorical data. Calculates the count of records for each unique value for the column specified.
 
@@ -46,9 +46,8 @@ If ColumnsCardinality node is configured to display distribution on two columns 
 then output would be created as below:
 
 
-
 Columns Unique Count
----------------
++++++++++++++++
 
 displaying count of unique values for each column
 
@@ -59,9 +58,8 @@ DEPT    : 3
 SALARY_GRADE    : 3
 
 
-
 Distribution of first selected column [DEPT]
----------------
++++++++++++++++
 
 
 HR : 3
@@ -71,9 +69,8 @@ SALES : 3
 MANAGEMENT : 1
 
 
-
 Distribution of second selected column [SALARY_GRADE]
----------------
++++++++++++++++
 
 
 HIGH : 3

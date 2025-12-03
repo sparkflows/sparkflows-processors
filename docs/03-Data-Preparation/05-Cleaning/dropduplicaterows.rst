@@ -1,5 +1,5 @@
 Drop Duplicate Rows
-=========== 
+===========
 
 Drops duplicate rows from the incoming DataFrame. Specific columns can be selected to be used when comparing two rows
 
@@ -55,9 +55,8 @@ Incoming Dataframe has following rows:
     E04       |    JOHN        |    MARKETING  |    45
 
 
-
 If DropDuplicateRows node is configured to drop duplicate rows having duplicate values in [EMP_NAME] and [DEPT] then outgoing dataframe would be created as below:
----------------
++++++++++++++++
 
 
 ::
@@ -69,9 +68,8 @@ If DropDuplicateRows node is configured to drop duplicate rows having duplicate 
     E03       |    JOHN        |    MARKETING  |    40
 
 
-
 If DropDuplicateRows node is configured to drop duplicate rows having duplicate values in [EMP_NAME], [DEPT] and [AGE] then outgoing dataframe would be created as below:
----------------
++++++++++++++++
 
 
 ::

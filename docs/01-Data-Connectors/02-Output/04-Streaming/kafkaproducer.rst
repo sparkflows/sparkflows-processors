@@ -1,5 +1,5 @@
 Kafka Producer
-=========== 
+===========
 
 Write out the Dataframe to a specified Apache Kafka Topic
 

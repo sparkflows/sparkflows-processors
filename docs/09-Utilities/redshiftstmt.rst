@@ -1,5 +1,5 @@
 ExecuteRedshiftStatement
-=========== 
+===========
 
 This node executes the Redshift statement.
 

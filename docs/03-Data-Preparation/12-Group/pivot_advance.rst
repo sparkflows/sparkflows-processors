@@ -1,5 +1,5 @@
 Pivot By Advanced
-=========== 
+===========
 
 Pivot Node with advanced options
 
@@ -70,7 +70,7 @@ Fields
 Details
 -------
 Pivot By Advance Node Details
----------------
++++++++++++++++
 
 
 The Pivot By Advance node transforms an incoming DataFrame into a powerful pivot table (crosstab) by grouping rows, pivoting on a column's unique values, and applying one or more aggregation functions. Ideal for business reporting, dashboards, and summary analytics.
@@ -178,7 +178,7 @@ Special Behaviors
 Examples
 -------
 Pivot By Advance Node Examples
----------------
++++++++++++++++
 
 
 

@@ -1,5 +1,5 @@
 Open NLP Name Finder
-=========== 
+===========
 
 This node finds names using OpenNLP. It takes in the OpenNLP model. Models can be downloaded from http://opennlp.sourceforge.net/models-1.5/
 

@@ -1,5 +1,5 @@
 MaxAbs Scaler Transform
-=========== 
+===========
 
 Rescale each feature individually to range [-1, 1] by dividing through the largest maximum absolute value in each feature.
 
@@ -28,7 +28,7 @@ Fields
 Details
 -------
 MaxAbs Scaler Transform Node Details
----------------
++++++++++++++++
 
 
 The MaxAbs Scaler Transform Node is used to rescale a dataset of Vector rows individually feature-wise to the given range [-1, 1]. It rescales each feature individually by dividing through the largest maximum absolute value in each feature. It also takes in a fit model as input, which is typically the output of a previous MaxAbs Scaler Estimator Node.
@@ -47,7 +47,7 @@ FIT MODEL : The output of a previous MaxAbs Scaler Estimator Node, which contain
 Examples
 -------
 MaxAbs Scaler Transform Node Example
----------------
++++++++++++++++
 
 
 Consider the following example, where we have a DataFrame with a column 'features' containing continuous values. We use a MaxAbs Scaler Estimator Node to specify the maximum absolute value for the transformation, creating a fit model. Then, we use the MaxAbs Scaler Transform Node to transform the 'features' column using the fit model.

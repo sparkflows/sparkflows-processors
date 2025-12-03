@@ -1,5 +1,5 @@
 Select Columns
-=========== 
+===========
 
 This node creates a new DataFrame that contains only the selected columns
 
@@ -39,7 +39,7 @@ Fields
 Details
 -------
 Select Columns Node Details
----------------
++++++++++++++++
 
 
 This node creates a new DataFrame containing only the selected columns.
@@ -54,7 +54,7 @@ Columns that need to be included in the outgoing Dataframe are to be selected in
 Examples
 -------
 Select Columns Node Examples
----------------
++++++++++++++++
 
 
 

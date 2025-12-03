@@ -1,5 +1,5 @@
 H2O Score
-=========== 
+===========
 
 Scores the data using the H2O model
 
@@ -97,7 +97,7 @@ Fields
 Details
 -------
 H2O Score Node
----------------
++++++++++++++++
 
 
 This node scores a new dataset using an existing H2O model. It takes a trained H2O model and an input DataFrame as input and generates predictions.
@@ -106,7 +106,7 @@ This node scores a new dataset using an existing H2O model. It takes a trained H
 Examples
 -------
 H2O Score Node Example
----------------
++++++++++++++++
 
 
 Scenario:

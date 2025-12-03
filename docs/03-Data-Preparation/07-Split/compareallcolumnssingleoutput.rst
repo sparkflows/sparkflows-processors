@@ -1,5 +1,5 @@
 Compare All Columns Single Output
-=========== 
+===========
 
 Compares 2 incoming DataFrames. Outputs 1 DataFrame (A-B) or (B-A) or (A intersection B) based on user's input
 
@@ -81,9 +81,8 @@ Examples
 after execution of CompareAllColumnsSingleOutput node one of the below outgoing Dataframes would be created based on [Compare Type] selected:
 
 
-
 LEFTDATAFRAME_EXCEPT_RIGHTDATAFRAME (A-B) Outgoing Dataframe with rows that are part of 1st incoming Dataframe but not present in 2nd Dataframe
----------------
++++++++++++++++
 
 
 ::
@@ -94,9 +93,8 @@ LEFTDATAFRAME_EXCEPT_RIGHTDATAFRAME (A-B) Outgoing Dataframe with rows that are 
     E02       |    JOHN        |    SALES      |    35     |    2019-05-04        |    11 000.00  |    VERY GOOD
 
 
-
 RIGHTDATAFRAME_EXCEPT_LEFTDATAFRAME (B-A) Outgoing Dataframe with rows that are part of 2nd incoming Dataframe but not present in 1st Dataframe
----------------
++++++++++++++++
 
 
 ::
@@ -107,9 +105,8 @@ RIGHTDATAFRAME_EXCEPT_LEFTDATAFRAME (B-A) Outgoing Dataframe with rows that are 
     E07       |    GAVIN       |    SALES      |    45     |    2020-05-04        |    10 000.00  |    VERY VERY GOOD
 
 
-
 LEFTDATAFRAME_INTERSECT_RIGHTDATAFRAME (A insection B) Outgoing Dataframe with rows that are part of both incoming Dataframes
----------------
++++++++++++++++
 
 
 ::

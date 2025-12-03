@@ -1,5 +1,5 @@
 Union All
-=========== 
+===========
 
 This node creates a new DataFrame by doing a union of all the rows in the incoming Dataframes. It does not remove any duplicates.
 
@@ -29,7 +29,7 @@ Fields
 Details
 -------
 Union All Node Details
----------------
++++++++++++++++
 
 
 * This node creates a new DataFrame by merging all the rows without removing the duplicates.
@@ -41,7 +41,7 @@ Union All Node Details
 Examples
 -------
 Union All Node Examples
----------------
++++++++++++++++
 
 
 

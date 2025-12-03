@@ -1,5 +1,5 @@
 Service Now Data Extraction
-=========== 
+===========
 
 
 
@@ -35,7 +35,7 @@ Fields
 Details
 -------
 Service Now Data Extraction Node Details
----------------
++++++++++++++++
 
 The Service Now Data Extraction node retrieves incident data from a ServiceNow instance and outputs it as a DataFrame. It serves as the starting node in a workflow, requiring no input DataFrame, and is designed for PySpark-based pipelines. The node connects to the ServiceNow API to fetch records and extracts specific fields, making it suitable for integrating ServiceNow data into data processing workflows.
 
@@ -65,7 +65,7 @@ The node outputs a DataFrame with the following columns:
 Examples
 -------
 Example: Service Now Data Extraction Node
----------------
++++++++++++++++
 
 
 

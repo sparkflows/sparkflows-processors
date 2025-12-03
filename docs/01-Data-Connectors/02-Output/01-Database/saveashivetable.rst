@@ -1,5 +1,5 @@
 Save As HIVE Table
-=========== 
+===========
 
 Saves the DataFrame into an Apache HIVE Table
 
@@ -52,7 +52,7 @@ Fields
 Details
 -------
 Save As HIVE Table Node Details
----------------
++++++++++++++++
 
 
 Saves the DataFrame into an Apache HIVE Table.
@@ -82,7 +82,7 @@ Advanced:
 Examples
 -------
 Save As HIVE Table Node Examples
----------------
++++++++++++++++
 
 
 

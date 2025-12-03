@@ -1,5 +1,5 @@
 H2O Isolation Forest
-=========== 
+===========
 
 Isolation Forest is similar in principle to Random Forest and is built on the basis of decision trees.
 

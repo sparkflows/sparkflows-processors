@@ -1,5 +1,5 @@
 Data Cleansing Advanced
-=========== 
+===========
 
 This node cleanses the selected columns from the dataset
 
@@ -81,7 +81,7 @@ Fields
 Details
 -------
 Data Cleansing Advanced – Enterprise-Grade Column-Level Cleaning
----------------
++++++++++++++++
 
 
 This is the professional version of Data Cleansing – giving you full per-column control instead of global rules. Used by data engineers building mission-critical, auditable, high-volume pipelines where every field has its own exact requirement.
@@ -118,7 +118,7 @@ Pro Tips
 Examples
 -------
 Data Cleansing Advanced – Real-World Column-Specific Rules
----------------
++++++++++++++++
 
 
 

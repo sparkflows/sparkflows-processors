@@ -1,5 +1,5 @@
 Save DOCX
-=========== 
+===========
 
 Saves DataFrame responses as DOCX files
 
@@ -55,7 +55,7 @@ Fields
 Details
 -------
 Save DOCX Node Details
----------------
++++++++++++++++
 
 The Save DOCX Node is designed to save DataFrame responses as DOCX files, either locally or to an S3 bucket. It supports saving content from a specified DataFrame column, with options to combine responses into a single file, save individual files, or group by page number. The node processes text or markdown content, converting it to DOCX format with proper formatting for headers, lists, and paragraphs. This node is ideal for generating structured DOCX outputs in data pipelines.
 
@@ -141,7 +141,7 @@ The node does not modify the input DataFrame but saves the content from the spec
 Examples
 -------
 Example: Save DOCX Node
----------------
++++++++++++++++
 
 
 

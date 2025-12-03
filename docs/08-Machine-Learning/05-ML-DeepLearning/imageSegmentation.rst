@@ -1,5 +1,5 @@
 ImageSegmentation
-=========== 
+===========
 
 ImageSegmentation Using PreTrained Model.
 

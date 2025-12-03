@@ -1,5 +1,5 @@
 H2O Neural Network
-=========== 
+===========
 
 H2O Deep Learning is based on a multi-layer feedforward artificial neural network that is trained with stochastic gradient descent using back-propagation.
 

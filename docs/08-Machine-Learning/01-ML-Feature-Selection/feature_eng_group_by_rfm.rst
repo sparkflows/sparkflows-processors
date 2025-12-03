@@ -1,5 +1,5 @@
 Group By RFM Features
-=========== 
+===========
 
 This node computes feature engineering tasks such as group by, frequency, recency, average days between purchases, total value of purchases, and customer age. These are computed per user using the selected operations.
 
@@ -66,7 +66,7 @@ Fields
 Details
 -------
 Feature Engineering Node Details
----------------
++++++++++++++++
 
 
 The Feature Engineering node is designed to compute user-level features by applying various analytical operations such as frequency, recency, average days between events, total value of purchases, and customer age. These features are generated per group (e.g., per user ID) using the selected input columns and operations.
@@ -164,7 +164,7 @@ The node outputs a DataFrame with the group-by columns and one or more additiona
 Examples
 -------
 Feature Engineering Node Examples
----------------
++++++++++++++++
 
 
 

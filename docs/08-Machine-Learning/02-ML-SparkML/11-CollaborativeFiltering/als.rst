@@ -1,5 +1,5 @@
 ALS
-=========== 
+===========
 
 Alternating Least Squares (ALS) matrix factorization.
 
@@ -99,7 +99,7 @@ http://spark.apache.org/docs/latest/ml-collaborative-filtering.html
 Examples
 -------
 Below example is available at : https://spark.apache.org/docs/latest/mllib-collaborative-filtering.html#examples
----------------
++++++++++++++++
 
 
 import org.apache.spark.mllib.recommendation.ALS

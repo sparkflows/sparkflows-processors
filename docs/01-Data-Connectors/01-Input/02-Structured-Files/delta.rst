@@ -1,5 +1,5 @@
 Read Delta
-=========== 
+===========
 
 Dataset Node for reading Apache Delta files
 
@@ -60,7 +60,7 @@ Fields
 Details
 -------
 Read Delta Node Details
----------------
++++++++++++++++
 
 
 Dataset Node for reading Apache Delta files.
@@ -79,7 +79,7 @@ Parameters to be set:
 Examples
 -------
 Read Delta Node Examples
----------------
++++++++++++++++
 
 
 

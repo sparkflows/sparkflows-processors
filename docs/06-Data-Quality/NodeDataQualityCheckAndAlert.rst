@@ -1,5 +1,5 @@
 NodeDataQualityCheckAndAlert
-=========== 
+===========
 
 This node is used to perform data quality checks on a DataFrame and send alerts based on the results.
 
@@ -40,7 +40,7 @@ Fields
 Details
 -------
 NodeDataQualityCheckAndAlert
----------------
++++++++++++++++
 
 
 

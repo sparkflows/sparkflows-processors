@@ -1,5 +1,5 @@
 SMOTE
-=========== 
+===========
 
 Implementation of SMOTE - Synthetic Minority Over-sampling Technique.
 
@@ -45,7 +45,7 @@ Fields
 Details
 -------
 SMOTE Node Details
----------------
++++++++++++++++
 
 
 Synthetic Minority Oversampling Technique (SMOTE) is a statistical technique for increasing the number of cases in your dataset in a balanced way. 
@@ -80,7 +80,7 @@ Input Parameters
 Examples
 -------
 SMOTE Node Example
----------------
++++++++++++++++
 
 
 Assume a dataset that consists of transactions made by credit cards. This dataset has **492** fraud transactions out of **284,807** transactions. 

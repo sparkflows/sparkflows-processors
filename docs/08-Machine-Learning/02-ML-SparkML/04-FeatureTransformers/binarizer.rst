@@ -1,5 +1,5 @@
 Binarizer
-=========== 
+===========
 
 Binarize a column of continuous features given a threshold.
 
@@ -45,7 +45,7 @@ Fields
 Details
 -------
 Binarizer Node Details
----------------
++++++++++++++++
 
 
 The Binarizer Node is used in the process of thresholding numerical features to binary (0/1) features.
@@ -72,7 +72,7 @@ Input Parameters
 Examples
 -------
 Binarization Node Example
----------------
++++++++++++++++
 
 
 Consider the below **Binarizer** output for the **feature** column with **Threshold** set to 0.5

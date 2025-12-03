@@ -1,5 +1,5 @@
 Imputer Transform
-=========== 
+===========
 
 Imputation estimator for completing missing values
 
@@ -28,7 +28,7 @@ Fields
 Details
 -------
 Imputer Transform Node Details
----------------
++++++++++++++++
 
 
 The Imputer Transform Node is used to impute missing values in a dataset. It takes in a fit model as input, which is typically the output of a previous Imputer Estimator Node, and uses it to fill in missing values in a DataFrame.
@@ -45,7 +45,7 @@ FIT MODEL : The output of a previous Imputer Estimator Node, which contains the 
 Examples
 -------
 Imputer Transform Node Example
----------------
++++++++++++++++
 
 
 Consider the following example, where we have a DataFrame with columns 'age' and 'income' containing missing values. We use an Imputer Estimator Node to specify the imputation strategy as 'mean' and create a fit model. Then, we use the Imputer Transform Node to fill in the missing values in the 'age' and 'income' columns using the fit model.

@@ -1,5 +1,5 @@
 Normalizer
-=========== 
+===========
 
 Normalizer is a Transformer which transforms a dataset of Vector rows, normalizing each Vector to have unit norm.
 
@@ -45,7 +45,7 @@ Fields
 Details
 -------
 Normalizer Node Details
----------------
++++++++++++++++
 
 
 The Normalizer node is a Transformer which transforms a dataset of Vector rows, normalizing each Vector to have unit norm. It takes parameter p, which specifies the p-norm used for normalization. (p=2 by default.)
@@ -70,7 +70,7 @@ Input Parameters
 Examples
 -------
 Normalizer Node Example
----------------
++++++++++++++++
 
 
 Consider the below dataset which contains two columns, id & features.

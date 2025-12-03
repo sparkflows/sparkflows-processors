@@ -1,5 +1,5 @@
 Scala UDF
-=========== 
+===========
 
 This node runs any given Scala code for UDFs
 
@@ -35,7 +35,7 @@ Fields
 Details
 -------
 Scala UDF Details
----------------
++++++++++++++++
 
 
 This node is used to run any given Scala code for User Defined Functions (UDFs).
@@ -49,7 +49,7 @@ In this node, you can define your UDF code in the field "Scala". The code should
 Examples
 -------
 Scala UDF Examples
----------------
++++++++++++++++
 
 
 

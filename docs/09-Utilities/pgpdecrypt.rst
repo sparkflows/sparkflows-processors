@@ -1,5 +1,5 @@
 PGPDecrypt
-=========== 
+===========
 
 Decrypt the PGP files and upload to target location.
 

@@ -1,5 +1,5 @@
 Signal Processing
-=========== 
+===========
 
 Expects a signal as column input and performs transformations
 

@@ -1,5 +1,5 @@
 Vector Functions
-=========== 
+===========
 
 Vector Functions for transforming Vectors
 

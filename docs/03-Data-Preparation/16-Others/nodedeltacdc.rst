@@ -1,5 +1,5 @@
 DeltaMerge
-=========== 
+===========
 
 Insert, delete and update data using the Delta merge command.
 
@@ -79,7 +79,7 @@ Fields
 Details
 -------
 Delta Merge Node Details
----------------
++++++++++++++++
 
 
 Insert, delete and update data using the Delta merge command.
@@ -117,7 +117,7 @@ When Not Matched Tab:
 Examples
 -------
 Delta Merge Node Examples
----------------
++++++++++++++++
 
 
 

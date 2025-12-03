@@ -1,5 +1,5 @@
 Decision
-=========== 
+===========
 
 It computes expressions to determine if the condition is met or not. Accordingly proceeds to the next step or stops here.
 
@@ -40,7 +40,7 @@ Fields
 Details
 -------
 Decision Node Details
----------------
++++++++++++++++
 
 
 It evaluates an expression to determine if the condition is met or not. Based on the evaluation output it proceeds to the next step or stops the execution of the process.
@@ -66,7 +66,7 @@ Input Parameters
 Examples
 -------
 Decision Node Example
----------------
++++++++++++++++
 
 
 Consider the Decision node to be configured for a dataframe which contains the column of `PRD_CD` as shown below:

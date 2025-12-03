@@ -1,5 +1,5 @@
 Expressions
-=========== 
+===========
 
 The most powerful and intuitive column calculator – add unlimited new columns using full Spark SQL expressions. Perfect for feature engineering, business logic, cleaning, formatting, date manipulation, and creating report-ready fields without writing code.
 
@@ -55,7 +55,7 @@ Fields
 Details
 -------
 Expressions Node – Your No-Code Business Logic Powerhouse
----------------
++++++++++++++++
 
 
 The Expressions node is the #1 most-used transform in production pipelines. It replaces dozens of individual nodes (String Ops, Date Ops, Math, If-Then-Else) with one clean, fast, and readable interface using standard Spark SQL syntax.
@@ -97,7 +97,7 @@ Pro Tips
 Examples
 -------
 Expressions Node – Real Business Examples
----------------
++++++++++++++++
 
 
 

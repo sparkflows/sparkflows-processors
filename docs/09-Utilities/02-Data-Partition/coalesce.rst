@@ -1,5 +1,5 @@
 Coalesce
-=========== 
+===========
 
 This node coalesces the DataFrame into specified number of Partitions
 

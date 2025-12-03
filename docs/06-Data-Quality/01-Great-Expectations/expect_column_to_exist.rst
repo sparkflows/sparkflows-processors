@@ -1,5 +1,5 @@
 ExpectColumnToExist
-=========== 
+===========
 
 
 
@@ -31,7 +31,7 @@ Fields
 Details
 -------
 Expect Column To Exist Node
----------------
++++++++++++++++
 
 
 

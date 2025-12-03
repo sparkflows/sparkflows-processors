@@ -1,5 +1,5 @@
 Read Databricks Table
-=========== 
+===========
 
 This node reads a table from Databricks
 
@@ -57,7 +57,7 @@ Fields
 Details
 -------
 Read Databricks Table Node Details
----------------
++++++++++++++++
 
 
 This node reads a table in Databricks and creates the DataFrame which contains the schema and data of the specified table.
@@ -77,7 +77,7 @@ Parameters to be set:
 Examples
 -------
 Read Databricks Table Node Examples
----------------
++++++++++++++++
 
 
 

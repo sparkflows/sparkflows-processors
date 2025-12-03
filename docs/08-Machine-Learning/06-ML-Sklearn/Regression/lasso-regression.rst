@@ -1,5 +1,5 @@
 SkLearn Lasso Regression
-=========== 
+===========
 
 In Lasso Regression, Linear Model trained with L1 prior as regularizer.
 

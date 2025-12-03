@@ -1,5 +1,5 @@
 Read Faiss DB
-=========== 
+===========
 
 Read Vector Embeddings, from faiss db
 
@@ -41,7 +41,7 @@ Fields
 Details
 -------
 Read Faiss DB Node Details
----------------
++++++++++++++++
 
 The Read Faiss DB node retrieves vector embeddings from a FAISS vector database based on a user query or query embeddings provided in a DataFrame. It performs a similarity search to find the most relevant documents and returns the results as a DataFrame with columns for the user query and corresponding content. This node is designed for PySpark-based workflows, enabling efficient retrieval of vector-based data for similarity search applications.
 
@@ -80,7 +80,7 @@ The node outputs a DataFrame with the following columns:
 Examples
 -------
 Example: Read Faiss DB Node
----------------
++++++++++++++++
 
 
 

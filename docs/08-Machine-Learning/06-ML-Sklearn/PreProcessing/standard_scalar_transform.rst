@@ -1,5 +1,5 @@
 Sklearn StandardScalar Transform
-=========== 
+===========
 
 Standardizing a dataset involves rescaling the distribution of values so that the mean of observed values is 0 and the standard deviation is 1.
 

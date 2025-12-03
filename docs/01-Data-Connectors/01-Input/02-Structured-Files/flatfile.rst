@@ -1,5 +1,5 @@
 ReadFlatFile
-=========== 
+===========
 
 Creates a dataset with output schema from schema field with values extracted from fixedlength.
 

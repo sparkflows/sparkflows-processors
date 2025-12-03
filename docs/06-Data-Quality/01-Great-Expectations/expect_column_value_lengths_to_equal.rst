@@ -1,5 +1,5 @@
 ExpectColumnValueLengthsToEqual
-=========== 
+===========
 
 
 
@@ -37,7 +37,7 @@ Fields
 Details
 -------
 Expect Column Values Lengths to Equal
----------------
++++++++++++++++
 
 
 Expect the column entries to be strings with length equal to the provided value.
@@ -58,7 +58,7 @@ Mostly (None or a float between 0 and 1): Return `success`: True if at least mos
 Examples
 -------
 Expect Column Value Lengths to Equal Node Examples
----------------
++++++++++++++++
 
 Scenario: You have a dataset with columns column6 and column7 containing string values, and you want to ensure all entries in these columns are exactly 5 characters long.
 

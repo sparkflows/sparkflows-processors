@@ -1,5 +1,5 @@
 Sklearn MinMax Scaler Transform
-=========== 
+===========
 
 Transforms DataFrame
 
@@ -28,7 +28,7 @@ Fields
 Details
 -------
 Sklearn MinMax Scaler Transform Node Details
----------------
++++++++++++++++
 
 
 The Sklearn MinMax Scaler Transform Node is used to scale the features of a DataFrame. It uses the sklearn library to apply the MinMaxScaler transformation to the input data. This transformation can be useful for feature scaling and normalization tasks. The MinMaxScaler scales the features by transforming them to a specific range, typically between 0 and 1.

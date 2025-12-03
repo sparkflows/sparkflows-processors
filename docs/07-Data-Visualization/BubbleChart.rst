@@ -1,5 +1,5 @@
 Bubble Chart
-=========== 
+===========
 
 A bubble chart is used to visualize a data set with two to four dimensions
 
@@ -70,7 +70,7 @@ Fields
 Details
 -------
 Bubble Chart Details
----------------
++++++++++++++++
 
 
 Purpose:

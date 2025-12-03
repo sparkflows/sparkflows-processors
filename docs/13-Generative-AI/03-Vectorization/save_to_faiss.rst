@@ -1,5 +1,5 @@
 Save Faiss DB
-=========== 
+===========
 
 Save Vector Embeddings to faiss db
 
@@ -59,7 +59,7 @@ Fields
 Details
 -------
 Save Faiss DB Node Details
----------------
++++++++++++++++
 
 The Save Faiss DB node stores vector embeddings and associated metadata from a DataFrame into a FAISS vector database, enabling efficient similarity search and retrieval. It is designed for PySpark-based workflows, making it suitable for integrating vector-based storage into data pipelines. The node allows specification of columns for text content, embeddings, and metadata, which are saved to a FAISS index for later querying.
 
@@ -124,7 +124,7 @@ The node saves the embeddings, content, and optional metadata (file names, page 
 Examples
 -------
 Example: Save Faiss DB Node
----------------
++++++++++++++++
 
 
 

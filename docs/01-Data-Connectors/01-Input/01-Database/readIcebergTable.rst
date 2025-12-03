@@ -1,5 +1,5 @@
 Read Iceberg
-=========== 
+===========
 
 It reads data from Iceberg table and creates a DataFrame from it
 

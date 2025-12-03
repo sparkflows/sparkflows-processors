@@ -1,5 +1,5 @@
 Count Null Values
-=========== 
+===========
 
 Counts null value in columns using the specified input
 
@@ -31,7 +31,7 @@ Fields
 Details
 -------
 Count Null Values Node
----------------
++++++++++++++++
 
 
 This node counts the number of null values in each specified column of a dataset.
@@ -40,7 +40,7 @@ This node counts the number of null values in each specified column of a dataset
 Examples
 -------
 Count Null Values Node Example
----------------
++++++++++++++++
 
 
 Given the following dataset:

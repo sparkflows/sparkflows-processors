@@ -1,5 +1,5 @@
 Clustering Evaluator
-=========== 
+===========
 
 Evaluator for Clustering, which expects two input columns: features and prediction.
 

@@ -1,5 +1,5 @@
 Feature Selection With Importance
-=========== 
+===========
 
 
 
@@ -41,7 +41,7 @@ Fields
 Details
 -------
 Feature Selection With Importance Node Details
----------------
++++++++++++++++
 
 
 This node used Random Forest which is a very powerful model both for regression and classification. It can give its own interpretation of feature importance as well, which can be plotted and used for selecting the most informative set of features.
@@ -63,7 +63,7 @@ Input Parameters
 Examples
 -------
 Feature Selection With Importance Node Example
----------------
++++++++++++++++
 
 
 For a given dataframe having the below housing schema:

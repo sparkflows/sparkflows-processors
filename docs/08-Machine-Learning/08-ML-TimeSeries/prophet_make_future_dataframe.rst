@@ -1,5 +1,5 @@
 Prophet Make Future Dataframe
-=========== 
+===========
 
 
 
@@ -37,7 +37,7 @@ Fields
 Details
 -------
 Prophet Make Future Dataframe Node Details
----------------
++++++++++++++++
 
 
 This node generates a future DataFrame for time series forecasting using the Prophet library. The generated DataFrame includes future periods and optionally includes historical data. Key parameters allow customization of the output, including the number of future periods, frequency of data points, and whether to include historical data.
@@ -57,7 +57,7 @@ Include History: Boolean flag to specify whether historical data is included.
 Examples
 -------
 Prophet Make Future Dataframe Node Examples
----------------
++++++++++++++++
 
 
 Example Configuration:

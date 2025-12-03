@@ -1,5 +1,5 @@
 Index To String
-=========== 
+===========
 
 Maps a column of indices back to a new column of corresponding string values. The index-string mapping is either from the ML attributes of the input column, or from user-supplied labels
 
@@ -37,7 +37,7 @@ Fields
 Details
 -------
 Index To String Node Details
----------------
++++++++++++++++
 
 
 The Index To String Node is used to map a column of indices back to a new column of corresponding string values. The index-string mapping is either from the ML attributes of the input column, or from user-supplied labels. It takes in a DataFrame and transforms it to another DataFrame by adding a new column containing the corresponding string values of the input column of label indices.
@@ -60,7 +60,7 @@ LABELS : The user-supplied labels for the input column of label indices
 Examples
 -------
 Index To String Node Example
----------------
++++++++++++++++
 
 
 Consider the below **Index To String** output for the **label** column

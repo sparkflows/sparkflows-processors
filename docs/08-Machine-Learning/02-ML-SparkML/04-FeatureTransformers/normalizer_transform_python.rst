@@ -1,5 +1,5 @@
 Normalizer Transform
-=========== 
+===========
 
 Normalizer is a Transformer which transforms a dataset of Vector rows, normalizing each Vector to have unit norm.
 
@@ -36,7 +36,7 @@ Fields
 Details
 -------
 Normalizer Transform Node Details
----------------
++++++++++++++++
 
 
 The Normalizer Transform Node is used to normalize a dataset of Vector rows by transforming each Vector to have unit norm. It takes in an input DataFrame and transforms it to another DataFrame. It also takes in a fit model as input, which is typically the output of a previous Normalizer Estimator Node.
@@ -55,7 +55,7 @@ FIT MODEL : The output of a previous Normalizer Estimator Node, which contains t
 Examples
 -------
 Normalizer Transform Node Example
----------------
++++++++++++++++
 
 
 Consider the following example, where we have a DataFrame with a column 'features' containing Vector values. We use a Normalizer Estimator Node to specify the normalization, creating a fit model. Then, we use the Normalizer Transform Node to normalize the 'features' column using the fit model.

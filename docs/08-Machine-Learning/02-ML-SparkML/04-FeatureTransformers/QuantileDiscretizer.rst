@@ -1,5 +1,5 @@
 Quantile Discretizer
-=========== 
+===========
 
 QuantileDiscretizer takes a column with continuous features and outputs a column with binned categorical features.
 
@@ -45,7 +45,7 @@ Fields
 Details
 -------
 Quantile Discretizer Node Details
----------------
++++++++++++++++
 
 
 The Quantile Discretizer Node is used to convert a column with continuous features to a column with binned categorical features. It takes in a DataFrame and transforms it to another DataFrame with a new column of binned categorical features.
@@ -68,7 +68,7 @@ NUMBUCKETS : Maximum number of buckets (quantiles or categories) into which the 
 Examples
 -------
 Quantile Discretizer Node Example
----------------
++++++++++++++++
 
 
 Consider the below **Quantile Discretizer** output for the **age** column

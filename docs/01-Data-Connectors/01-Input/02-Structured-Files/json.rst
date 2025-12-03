@@ -1,5 +1,5 @@
 Read JSON
-=========== 
+===========
 
 Dataset Node for Reading JSON Files
 
@@ -49,7 +49,7 @@ Fields
 Details
 -------
 Read JSON Node Details
----------------
++++++++++++++++
 
 
 This node reads a JSON file and creates the DataFrame which contains the schema and data of the specified JSON file.
@@ -70,7 +70,7 @@ Parameters to be set:
 Examples
 -------
 Read JSON Node Examples
----------------
++++++++++++++++
 
 
 

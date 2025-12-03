@@ -1,5 +1,5 @@
 Split With Stratified Sampling
-=========== 
+===========
 
 This node splits the incoming DataFrame into 2. It takes in the fraction to use in splitting the data by Stratified Sampling.
 

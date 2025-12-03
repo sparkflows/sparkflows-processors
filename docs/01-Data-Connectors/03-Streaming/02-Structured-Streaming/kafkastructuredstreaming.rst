@@ -1,5 +1,5 @@
 Structured Streaming Kafka Read
-=========== 
+===========
 
 Reads in streaming text from topics in Apache Kafka
 

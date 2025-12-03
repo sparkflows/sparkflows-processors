@@ -1,5 +1,5 @@
 Aggregate
-=========== 
+===========
 
 The most powerful and flexible aggregation node – combines Group By, multiple aggregations, Pivot, conditional expressions, and column propagation in one easy-to-use interface. Perfect for business reporting, dashboards, KPIs, and analytics summaries.
 
@@ -78,7 +78,7 @@ Fields
 Details
 -------
 Aggregate Node – The Ultimate Business Aggregation Tool
----------------
++++++++++++++++
 
 The Aggregate node is the Swiss Army knife of summarization. It replaces multiple simple GroupBy + Pivot + Select nodes with one intuitive interface that business analysts and data engineers love.
 
@@ -118,7 +118,7 @@ Pro Tips
 Examples
 -------
 Aggregate Node – Real-World Business Examples
----------------
++++++++++++++++
 
 
 

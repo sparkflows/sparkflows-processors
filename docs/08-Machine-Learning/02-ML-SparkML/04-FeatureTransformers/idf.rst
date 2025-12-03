@@ -1,5 +1,5 @@
 IDF
-=========== 
+===========
 
 Compute the Inverse Document Frequency (IDF) given a collection of documents.
 
@@ -45,7 +45,7 @@ Fields
 Details
 -------
 IDF Node Details
----------------
++++++++++++++++
 
 
 The IDF (Inverse Document Frequency) Node is a feature vectorization method widely used in text mining to reflect the importance of a term to a document in the corpus. IDF is a measure of how common any particular word or gram is in the given corpus that you are searching. It is an estimate of how rare that word is and thus its likely importance. So if a query contains an uncommon word, documents containing that rare word should be judged to be more important.
@@ -65,7 +65,7 @@ Input Parameters
 Examples
 -------
 IDF Node Example
----------------
++++++++++++++++
 
 
 Assume that we have a DataFrame with the column <b>strText<b>:

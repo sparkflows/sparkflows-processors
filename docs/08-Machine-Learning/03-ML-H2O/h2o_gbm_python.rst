@@ -1,5 +1,5 @@
 H2O Gradient Boosting Machine
-=========== 
+===========
 
 Gradient Boosting Machine (for Regression and Classification) is a forward learning ensemble method
 

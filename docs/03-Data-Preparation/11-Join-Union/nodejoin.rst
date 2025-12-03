@@ -1,5 +1,5 @@
 Join Advanced
-=========== 
+===========
 
 Append fields from a Source DataFrame to every row of a Target DataFrame (Cartesian-style append).
 
@@ -73,7 +73,7 @@ Fields
 Details
 -------
 Join Node Details
----------------
++++++++++++++++
 
 
 This node performs comprehensive join operations between two DataFrames, supporting both position-based and field-based joins with extensive data transformation capabilities. It enables inner joins with anti-join outputs to identify unmatched records for complete data analysis.
@@ -100,7 +100,7 @@ Key features:
 Examples
 -------
 Join Node Examples
----------------
++++++++++++++++
 
 
 ::

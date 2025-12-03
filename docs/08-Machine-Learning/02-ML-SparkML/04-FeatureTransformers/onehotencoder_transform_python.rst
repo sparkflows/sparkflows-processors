@@ -1,5 +1,5 @@
 One Hot Encoder Transform
-=========== 
+===========
 
 Maps a column of label indices to a column of binary vectors, with at most a single one-value
 
@@ -36,7 +36,7 @@ Fields
 Details
 -------
 One Hot Encoder Transform Node Details
----------------
++++++++++++++++
 
 
 The One Hot Encoder Transform Node is used to map a column of label indices to a column of binary vectors, with at most a single one-value. It takes in an input DataFrame and transforms it to another DataFrame. It also takes in a fit model as input, which is typically the output of a previous One Hot Encoder Estimator Node.
@@ -55,7 +55,7 @@ FIT MODEL : The output of a previous One Hot Encoder Estimator Node, which conta
 Examples
 -------
 One Hot Encoder Transform Node Example
----------------
++++++++++++++++
 
 
 Consider the following example, where we have a DataFrame with a column 'color' containing categorical values. We use a One Hot Encoder Estimator Node to specify the column to be encoded and the specifications for the encoding, creating a fit model. Then, we use the One Hot Encoder Transform Node to transform the 'color' column using the fit model.

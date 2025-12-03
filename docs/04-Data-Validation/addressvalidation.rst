@@ -1,5 +1,5 @@
 Validate Address
-=========== 
+===========
 
 This node validate the USA address
 
@@ -39,7 +39,7 @@ Fields
 Details
 -------
 Address Validation Node Details
----------------
++++++++++++++++
 
 
 This node validates an address.
@@ -58,7 +58,7 @@ Some of the valid address formats are as below:
 Examples
 -------
 Address Validation Node Examples
----------------
++++++++++++++++
 
 
 Incoming Dataframe has following rows:

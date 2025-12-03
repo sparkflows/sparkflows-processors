@@ -1,5 +1,5 @@
 Graph Subplots
-=========== 
+===========
 
 Type
 --------- 
@@ -65,7 +65,7 @@ Fields
 Details
 -------
 Graph Subplots Details
----------------
++++++++++++++++
 
 
 Subplots let you place several plots beside each other on a grid, Subplots are helpful when you want to show different data presentation in a single view, for instance Dashboards.

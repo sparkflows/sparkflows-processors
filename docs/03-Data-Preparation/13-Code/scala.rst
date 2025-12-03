@@ -1,5 +1,5 @@
 Spark
-=========== 
+===========
 
 This node runs any given Scala code. The input dataframe is passed in the variable inDF. The output dataframe is passed back by registering it as a temporary table.
 
@@ -54,7 +54,7 @@ Fields
 Details
 -------
 Scala Details
----------------
++++++++++++++++
 
 
 This node receives receives an input dataframe.
@@ -75,7 +75,7 @@ import spark.implicits._
 Examples
 -------
 Scala Examples
----------------
++++++++++++++++
 
 
 

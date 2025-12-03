@@ -1,5 +1,5 @@
 U Chart
-=========== 
+===========
 
 This node outputs SPC U Chart and performs control tests.
 

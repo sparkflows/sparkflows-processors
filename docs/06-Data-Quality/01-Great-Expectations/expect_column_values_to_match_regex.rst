@@ -1,5 +1,5 @@
 ExpectColumnValuesToMatchRegex
-=========== 
+===========
 
 
 
@@ -37,7 +37,7 @@ Fields
 Details
 -------
 Expect Column Values To Match Regex Details
----------------
++++++++++++++++
 
 
 This feature enables validation of column values in a DataFrame to ensure they match a specified regular expression (regex) pattern. It is useful for checking that values in a column adhere to a particular format or structure, such as an email or phone number format.

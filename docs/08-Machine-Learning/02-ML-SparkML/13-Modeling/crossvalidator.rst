@@ -1,5 +1,5 @@
 Cross Validator
-=========== 
+===========
 
 This node represents Cross Validator from Spark ML
 
@@ -64,7 +64,7 @@ More at Spark MLlib/ML docs page : https://spark.apache.org/docs/latest/ml-tunin
 Examples
 -------
 Below example is available at : https://spark.apache.org/docs/latest/ml-tuning.html#cross-validation
----------------
++++++++++++++++
 
 
 import org.apache.spark.ml.Pipeline

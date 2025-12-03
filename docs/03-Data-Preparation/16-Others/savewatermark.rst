@@ -1,5 +1,5 @@
 SaveWaterMark
-=========== 
+===========
 
 This node saves the value in watermark variable in workflow to file.
 

@@ -1,5 +1,5 @@
 Sklearn XGBoost Classifier
-=========== 
+===========
 
 XGBoost Classifier is an optimized gradient boosting algorithm that uses ensemble of decision trees. It is designed for efficiency, flexibility, and portability. Provides parallel tree boosting and is widely used for supervised learning tasks like classification.
 

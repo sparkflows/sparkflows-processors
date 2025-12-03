@@ -1,5 +1,5 @@
 Hugging Face Tone Analysis
-=========== 
+===========
 
 Tone Analysis using models hosted in Hugging Face repository.
 

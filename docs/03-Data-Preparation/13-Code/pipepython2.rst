@@ -1,5 +1,5 @@
 Pipe Python2
-=========== 
+===========
 
 This node runs any given Python code. It pipes the incoming DataFrame through pipe to the Python Script. Output back to Spark has to be written out using print.
 
@@ -54,7 +54,7 @@ Fields
 Details
 -------
 Pipe Python Details
----------------
++++++++++++++++
 
 
 The Pipe Python node receives an incoming DataFrame. It pipes the DataFrame through to a Python script that runs the given Python code. The script can operate on each row of the DataFrame and returns an updated row.
@@ -69,7 +69,7 @@ The output from the Python script has to be written back to Spark using print. T
 Examples
 -------
 Pipe Python Examples
----------------
++++++++++++++++
 
 
 Below are some examples of the Python code that can be run in the Pipe Python node.

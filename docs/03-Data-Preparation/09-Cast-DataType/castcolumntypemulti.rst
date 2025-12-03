@@ -1,5 +1,5 @@
 Cast To Different Types-1
-=========== 
+===========
 
 This node creates a new DataFrame by casting the specified columns into new types
 

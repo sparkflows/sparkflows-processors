@@ -1,5 +1,5 @@
 Sklearn OneHotEncoder
-=========== 
+===========
 
 Encode categorical integer features as a one-hot numeric array.
 

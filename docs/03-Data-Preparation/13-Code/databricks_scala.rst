@@ -1,5 +1,5 @@
 Scala
-=========== 
+===========
 
 This node runs any given Scala code. The input dataframe is passed in the variable inDF. The output dataframe is passed back by registering it as a temporary table.
 
@@ -54,7 +54,7 @@ Fields
 Details
 -------
 Scala Details
----------------
++++++++++++++++
 
 
 This node receives receives an input dataframe.
@@ -70,7 +70,7 @@ Finally the scala code produces a resulting dataframe to be passed on to the nex
 Examples
 -------
 Scala Examples
----------------
++++++++++++++++
 
 
 

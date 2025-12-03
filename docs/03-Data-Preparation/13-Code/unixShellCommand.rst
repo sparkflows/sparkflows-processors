@@ -1,5 +1,5 @@
 Unix Shell Commands
-=========== 
+===========
 
 This node executes shell command
 
@@ -34,7 +34,7 @@ Fields
 Details
 -------
 Unix Shell Command Details
----------------
++++++++++++++++
 
 
 The Unix Shell Command Node executes the given set of Unix Shell Commands one by one.

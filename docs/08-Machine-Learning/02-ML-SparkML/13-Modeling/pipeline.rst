@@ -1,5 +1,5 @@
 Spark Pipeline
-=========== 
+===========
 
 This node represents Pipeline from Spark ML
 

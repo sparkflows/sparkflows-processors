@@ -1,5 +1,5 @@
 SCDType2DeltaMerge
-=========== 
+===========
 
 It is a Delta merge operation that stores and manages both current and historical data over time.
 
@@ -58,7 +58,7 @@ Fields
 Details
 -------
 SCDType2 Delta Merge Node Details
----------------
++++++++++++++++
 
 
 It is a Delta merge operation that stores and manages both current and historical data over time.
@@ -85,7 +85,7 @@ Parameters to be set:
 Examples
 -------
 SCD Type 2 Delta Merge Node Examples
----------------
++++++++++++++++
 
 
 

@@ -1,5 +1,5 @@
 Query JDBC
-=========== 
+===========
 
 This node executes query on Relational Databases using JDBC and creates a DataFrame from it
 
@@ -87,7 +87,7 @@ Fields
 Details
 -------
 Query JDBC Node Details
----------------
++++++++++++++++
 
 
 This node executes query on Relational Databases using JDBC and creates a DataFrame from it.
@@ -107,7 +107,7 @@ Parameters to be set:
 Examples
 -------
 Query JDBC Node Examples
----------------
++++++++++++++++
 
 
 

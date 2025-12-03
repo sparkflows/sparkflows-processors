@@ -1,5 +1,5 @@
 Tokenizer
-=========== 
+===========
 
 A tokenizer that converts the input string to lowercase and then splits it by white spaces.
 
@@ -42,7 +42,7 @@ Fields
 Details
 -------
 Tokenizer Node Details
----------------
++++++++++++++++
 
 
 Tokenization is essentially splitting a phrase, sentence, paragraph, or an entire text document into smaller units, such as individual words or terms. Each of these smaller units are called tokens. The Tokenizer node accepts an string input and breaks the string into an array of tokens.
@@ -61,7 +61,7 @@ Input Parameters
 Examples
 -------
 Tokenizer Node Example
----------------
++++++++++++++++
 
 
 Assume that we have a DataFrame with the column <b>strText<b>:

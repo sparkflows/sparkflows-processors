@@ -1,5 +1,5 @@
 Read Elastic Search
-=========== 
+===========
 
 Reads data from ElasticSearch
 

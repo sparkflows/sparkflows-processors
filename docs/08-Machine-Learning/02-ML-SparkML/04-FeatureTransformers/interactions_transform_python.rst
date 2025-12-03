@@ -1,5 +1,5 @@
 Interaction Transform
-=========== 
+===========
 
 This transformer takes in Double and Vector type columns and outputs a flattened vector of their feature interactions.
 
@@ -28,7 +28,7 @@ Fields
 Details
 -------
 Interaction Transform Node Details
----------------
++++++++++++++++
 
 
 The Interaction Transform Node is used to create a new vector column which is the flattened vector of the feature interactions between two or more input columns. It takes in Double and Vector type columns and outputs a flattened vector of their feature interactions.
@@ -47,7 +47,7 @@ FIT MODEL : The output of a previous Interaction Estimator Node, which contains 
 Examples
 -------
 Interaction Transform Node Example
----------------
++++++++++++++++
 
 
 Consider the following example, where we have a DataFrame with columns 'age' and 'income' of type Double and 'features' of type Vector. We use a Interaction Estimator Node to specify the columns to be interacted, creating a fit model. Then, we use the Interaction Transform Node to transform the columns using the fit model.

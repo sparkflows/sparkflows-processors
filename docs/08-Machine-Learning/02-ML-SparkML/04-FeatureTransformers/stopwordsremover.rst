@@ -1,5 +1,5 @@
 Stop Words Remover
-=========== 
+===========
 
 Filters out stop words from input. Null values from input array are preserved unless adding null to stopWords explicitly.
 
@@ -44,7 +44,7 @@ Fields
 Details
 -------
 Stop Words Remover Node Details
----------------
++++++++++++++++
 
 
 Stop words are words which should be excluded from the input, typically because the words appear frequently and don’t carry as much meaning.
@@ -68,7 +68,7 @@ Input Parameters
 Examples
 -------
 Stop Words Remover Node Example
----------------
++++++++++++++++
 
 
 Assume that we have the following DataFrame with columns id and raw:

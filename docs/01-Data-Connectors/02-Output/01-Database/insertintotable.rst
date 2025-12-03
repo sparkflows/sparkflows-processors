@@ -1,5 +1,5 @@
 Insert Into HIVE Table
-=========== 
+===========
 
 Saves the DataFrame into an Apache HIVE Table
 
@@ -46,7 +46,7 @@ Fields
 Details
 -------
 Insert Into HIVE Table Node Details
----------------
++++++++++++++++
 
 
 This node inserts data into a HIVE table.

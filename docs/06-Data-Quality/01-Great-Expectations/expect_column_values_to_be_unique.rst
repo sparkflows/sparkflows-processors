@@ -1,5 +1,5 @@
 ExpectColumnValuesToBeUnique
-=========== 
+===========
 
 
 
@@ -34,7 +34,7 @@ Fields
 Details
 -------
 Expect Column Values To Be Unique Details
----------------
++++++++++++++++
 
 
 Expect each column value to be unique.
@@ -56,7 +56,7 @@ Mostly (None or a float between 0 and 1): Return `success`: True if at least mos
 Examples
 -------
 Example
----------------
++++++++++++++++
 
 
 

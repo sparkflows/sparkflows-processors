@@ -1,5 +1,5 @@
 Window Function
-=========== 
+===========
 
 This node applies window functions to the input DataFrame, allowing operations like ranking, analytical, and aggregate functions over specified windows.
 
@@ -75,7 +75,7 @@ Fields
 Details
 -------
 Window Function Node Details
----------------
++++++++++++++++
 
 
 This node enables the application of window functions on a DataFrame, supporting partitioning, ordering, framing, and various window expressions like ranking, analytical, and aggregate functions.
@@ -98,7 +98,7 @@ For different configurations, chain multiple nodes.
 Examples
 -------
 Window Function Node Examples
----------------
++++++++++++++++
 
 
 ::

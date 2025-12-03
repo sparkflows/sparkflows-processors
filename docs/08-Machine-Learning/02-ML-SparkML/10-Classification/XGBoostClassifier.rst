@@ -1,5 +1,5 @@
 XGBoost Classifier
-=========== 
+===========
 
 
 
@@ -131,9 +131,8 @@ Details
 Deatils: https://xgboost.readthedocs.io/en/latest/jvm/xgboost4j_spark_tutorial.html#xgboost4j-spark-tutorial-version-0-9
 
 
-
 XGBoost Classifier Node Details
----------------
++++++++++++++++
 
 
 This node implements the XGBoost algorithm for classification tasks. It can be used for a variety of classification problems, including binary classification (e.g., spam detection) and multi-class classification (e.g., image recognition).
@@ -168,7 +167,7 @@ Eta: The learning rate, which controls the step size at each boosting round.
 Examples
 -------
 XGBoost Classifier Node Example
----------------
++++++++++++++++
 
 
 Scenario:

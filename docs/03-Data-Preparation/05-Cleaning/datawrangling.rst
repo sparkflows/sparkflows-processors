@@ -1,5 +1,5 @@
 Data Wrangling
-=========== 
+===========
 
 This node creates a new DataFrame by applying each of the Rules specified
 
@@ -70,7 +70,7 @@ Sets the new value of Name column to be trim(Name)
 Examples
 -------
 Example:
----------------
++++++++++++++++
 
 
 Let's assume we have a DataFrame with the following columns: id, column1, column2, column3, column4, column5, column6, column7, column8.

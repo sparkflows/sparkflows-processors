@@ -1,5 +1,5 @@
 Is Primary Key
-=========== 
+===========
 
 
 
@@ -34,7 +34,7 @@ Fields
 Details
 -------
 Is Primary Key Node
----------------
++++++++++++++++
 
 
 
@@ -64,7 +64,7 @@ The node will flag records where the specified column contains duplicate values.
 Examples
 -------
 Example:
----------------
++++++++++++++++
 
 
 Let's assume we have a column named id and we want to ensure it has unique values.

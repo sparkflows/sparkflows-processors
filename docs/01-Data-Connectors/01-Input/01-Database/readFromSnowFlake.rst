@@ -1,5 +1,5 @@
 Read From Snowflake
-=========== 
+===========
 
 This node reads a table from Snowflake
 
@@ -71,7 +71,7 @@ Fields
 Details
 -------
 Read from Snowflake Node Details
----------------
++++++++++++++++
 
 
 This node reads a table from Snowflake and creates the DataFrame which contains the schema and data of the specified table.
@@ -93,7 +93,7 @@ Parameters to be set:
 Examples
 -------
 Read From Snowflake Node Examples
----------------
++++++++++++++++
 
 
 

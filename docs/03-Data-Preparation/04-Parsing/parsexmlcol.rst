@@ -1,5 +1,5 @@
 Parse XML Col
-=========== 
+===========
 
 Parses XML content in a given column
 
@@ -49,7 +49,7 @@ Fields
 Details
 -------
 Parse XML Column Node
----------------
++++++++++++++++
 
 
 

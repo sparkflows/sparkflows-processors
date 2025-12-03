@@ -1,5 +1,5 @@
 Structured Streaming CSV
-=========== 
+===========
 
 It monitors a specified directory for new files. It keeps reading in any new files created in the directory.
 

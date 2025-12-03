@@ -1,5 +1,5 @@
 Save ElasticSearch
-=========== 
+===========
 
 Stores the rows of the incoming DataFrame into Elastic Search
 

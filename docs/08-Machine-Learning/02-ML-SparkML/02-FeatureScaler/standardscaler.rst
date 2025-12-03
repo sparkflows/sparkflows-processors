@@ -1,5 +1,5 @@
 Standard Scaler
-=========== 
+===========
 
 StandardScaler transforms a dataset of Vector rows, normalizing each feature to have unit standard deviation and/or zero mean.
 
@@ -48,7 +48,7 @@ Fields
 Details
 -------
 Standard Scaler Node Details
----------------
++++++++++++++++
 
 
 The Standard Scaler Node is used to normalize a dataset of Vector rows, by transforming each feature to have unit standard deviation and/or zero mean. It takes in the common parameters inputCol, outputCol, withMean, and withStd. The input column should be in the format of VectorUDT. The output column will also be in the format of VectorUDT.
@@ -74,7 +74,7 @@ WITH STANDARD DEVIATION : Scales the data to unit standard deviation.
 Examples
 -------
 Standard Scaler Node Example
----------------
++++++++++++++++
 
 
 Consider the below **Standard Scaler** output for the **features** column

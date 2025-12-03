@@ -1,5 +1,5 @@
 Update JDBC
-=========== 
+===========
 
 This node update the data to selected columns.
 
@@ -40,7 +40,7 @@ Fields
 Details
 -------
 Update JDBC Node Details
----------------
++++++++++++++++
 
 
 This node update the data to selected columns.
@@ -61,7 +61,7 @@ Parameters to be set:
 Examples
 -------
 Update JDBC Node Examples
----------------
++++++++++++++++
 
 
 

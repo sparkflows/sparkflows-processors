@@ -1,5 +1,5 @@
 Xbar-R Chart
-=========== 
+===========
 
 This node outputs SPC XBAR-R Chart and performs control tests.
 

@@ -1,5 +1,5 @@
 Execute Stored Procedure In Snowflake
-=========== 
+===========
 
 This node executes Stored Procedure in Snowflake
 
@@ -76,7 +76,7 @@ Fields
 Examples
 -------
 Execute Query In Snowflake Node Examples
----------------
++++++++++++++++
 
 
 

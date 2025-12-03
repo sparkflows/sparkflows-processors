@@ -1,5 +1,5 @@
 SQL Executer
-=========== 
+===========
 
 This node runs the given SQL query
 
@@ -54,7 +54,7 @@ Fields
 Details
 -------
 SQL Executor Node
----------------
++++++++++++++++
 
 
 This node executes a specified SQL query against a database. The results of the query are returned as a DataFrame.
@@ -63,7 +63,7 @@ This node executes a specified SQL query against a database. The results of the 
 Examples
 -------
 SQL Executor Node Example
----------------
++++++++++++++++
 
 
 Given a database table named customers with the following schema:

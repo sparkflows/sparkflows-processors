@@ -1,5 +1,5 @@
 Robust Scaler Transform
-=========== 
+===========
 
 RobustScaler removes the median and scales the data according to the quantile range
 
@@ -28,7 +28,7 @@ Fields
 Details
 -------
 Robust Scaler Transform Node Details
----------------
++++++++++++++++
 
 
 The Robust Scaler Transform Node is used to remove the median and scales the data according to the quantile range. It takes in an input DataFrame and transforms it to another DataFrame. It also takes in a fit model as input, which is typically the output of a previous Robust Scaler Estimator Node.
@@ -47,7 +47,7 @@ FIT MODEL : The output of a previous Robust Scaler Estimator Node, which contain
 Examples
 -------
 Robust Scaler Transform Node Example
----------------
++++++++++++++++
 
 
 Consider the following example, where we have a DataFrame with a column 'income' containing continuous values. We use a Robust Scaler Estimator Node to specify the quantile range for the scaling, creating a fit model. Then, we use the Robust Scaler Transform Node to scale the 'income' column using the fit model.

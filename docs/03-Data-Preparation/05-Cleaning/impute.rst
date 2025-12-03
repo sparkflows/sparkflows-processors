@@ -1,5 +1,5 @@
 Impute Advanced
-=========== 
+===========
 
 It imputes missing or given value with constant value,mean, median or mode
 

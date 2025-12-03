@@ -1,5 +1,5 @@
 Date To String
-=========== 
+===========
 
 This node converts a date/time column to string with given format
 
@@ -37,7 +37,7 @@ Fields
 Details
 -------
 Date To String Details
----------------
++++++++++++++++
 
 
 This node converts the Date or Timestamp column to string datatype format.
@@ -78,7 +78,7 @@ Example
 Examples
 -------
 Format Examples
----------------
++++++++++++++++
 
 
 

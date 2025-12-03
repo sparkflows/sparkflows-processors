@@ -1,5 +1,5 @@
 Hugging Face Question Natural Language Inference
-=========== 
+===========
 
 Question Natural Language Inference using models hosted in Hugging Face repository.
 

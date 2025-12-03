@@ -1,5 +1,5 @@
 Count Vectorizer
-=========== 
+===========
 
 Extracts the vocabulary from a given collection of documents and generates a vector of token counts for each document.
 
@@ -57,7 +57,7 @@ Fields
 Details
 -------
 Count Vectorizer Node Details
----------------
++++++++++++++++
 
 
 Machines cannot understand characters and words. So when dealing with text data we need to represent it in numbers to be understood by the machine. The Count Vectorizer Node is used to convert text to numerical data.
@@ -84,7 +84,7 @@ Input Parameters
 Examples
 -------
 Count Vectorizer Node Example
----------------
++++++++++++++++
 
 
 Assume that we have the following DataFrame with columns id and texts:

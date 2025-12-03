@@ -1,5 +1,5 @@
 Unix Time To String
-=========== 
+===========
 
 This node converts Unix Time to String
 
@@ -37,7 +37,7 @@ Fields
 Details
 -------
 Unix Time To String Details
----------------
++++++++++++++++
 
 
 This Node converts the Unix timestamp to a String representing Date and Timestamp, in other words, it converts the Epoch time in seconds to date and timestamp.
@@ -71,7 +71,7 @@ Example
 Examples
 -------
 Format Examples
----------------
++++++++++++++++
 
 
 

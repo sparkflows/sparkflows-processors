@@ -1,5 +1,5 @@
 Upsert JDBC
-=========== 
+===========
 
 This node insert or update the data to databases using JDBC.
 
@@ -37,7 +37,7 @@ Fields
 Details
 -------
 Upsert JDBC Node Details
----------------
++++++++++++++++
 
 
 This node updates or inserts (upserts) data in a database table using JDBC. It allows you to synchronize data between your DataFrame and the database table.
@@ -57,7 +57,7 @@ Parameters to be set:
 Examples
 -------
 Upsert JDBC Node Examples
----------------
++++++++++++++++
 
 
 

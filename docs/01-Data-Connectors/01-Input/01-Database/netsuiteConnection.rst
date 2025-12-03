@@ -1,5 +1,5 @@
 Read Netsuite
-=========== 
+===========
 
 This node reads data from Oracle Netsuite using token based authentication and creates a DataFrame from it
 
@@ -54,7 +54,7 @@ Fields
 Details
 -------
 Read Netsuite Node Details
----------------
++++++++++++++++
 
 
 This node reads data from Netsuite and creates a DataFrame from it.

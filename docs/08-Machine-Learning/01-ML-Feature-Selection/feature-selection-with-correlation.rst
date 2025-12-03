@@ -1,5 +1,5 @@
 Feature Selection With Correlation
-=========== 
+===========
 
 
 
@@ -38,7 +38,7 @@ Fields
 Details
 -------
 Feature Selection With Correlation Node Details
----------------
++++++++++++++++
 
 
 This node enables us to discover the possible correlation which can exist between a defined target column and the feature column's.
@@ -59,7 +59,7 @@ Input Parameters
 Examples
 -------
 Feature Selection With Correlation Node Example
----------------
++++++++++++++++
 
 
 For a given dataframe having the below housing schema:

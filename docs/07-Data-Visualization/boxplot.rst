@@ -1,5 +1,5 @@
 Box Plot
-=========== 
+===========
 
 
 
@@ -58,7 +58,7 @@ Fields
 Details
 -------
 BoxPlot details
----------------
++++++++++++++++
 
 
 This node shows the five-number summary of a set of data including the minimum score, first (lower) quartile, median, third (upper) quartile, and maximum score.

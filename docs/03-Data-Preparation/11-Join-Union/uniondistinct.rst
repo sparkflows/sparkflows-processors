@@ -1,5 +1,5 @@
 Union Distinct
-=========== 
+===========
 
 This node creates a new DataFrame by performing a UNION of all the rows in the incoming Dataframe. It then performs DISTINCT on the result set, eliminating any duplicate rows
 
@@ -29,7 +29,7 @@ Fields
 Details
 -------
 Union Distinct Node Details
----------------
++++++++++++++++
 
 
 
@@ -42,7 +42,7 @@ Union Distinct Node Details
 Examples
 -------
 Union Distinct Example
----------------
++++++++++++++++
 
 
 

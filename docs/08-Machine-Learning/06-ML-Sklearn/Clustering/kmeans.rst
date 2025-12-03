@@ -1,5 +1,5 @@
 Sklearn K-Means
-=========== 
+===========
 
 K-Means clustering algorithm using scikit-learn. K-Means falls in the general category of clustering algorithms, which partition observations into groups based on similarity without using labels.
 

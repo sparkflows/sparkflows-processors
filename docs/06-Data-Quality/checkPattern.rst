@@ -1,5 +1,5 @@
 PatternMatch
-=========== 
+===========
 
 
 
@@ -37,7 +37,7 @@ Fields
 Details
 -------
 Pattern Match Node
----------------
++++++++++++++++
 
 
 
@@ -68,7 +68,7 @@ The node will flag records where the specified column value matches any of the d
 Examples
 -------
 Example:
----------------
++++++++++++++++
 
 
 Let's assume we have a column named email and we want to identify invalid email addresses.

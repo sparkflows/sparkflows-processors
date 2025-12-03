@@ -1,5 +1,5 @@
 Hugging Face Custom Category Sentiment Analysis
-=========== 
+===========
 
 Sentiment Analysis with custom categories using models hosted in Hugging Face repository.
 

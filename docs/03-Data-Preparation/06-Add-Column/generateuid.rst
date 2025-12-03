@@ -1,5 +1,5 @@
 Generate UID
-=========== 
+===========
 
 This node Generates a new column with unique Index/Value for each row in the Dataset for each partition. Each Partition starts a new range.
 
@@ -31,7 +31,7 @@ Fields
 Details
 -------
 Generate UID Node Details
----------------
++++++++++++++++
 
 
 This node Generates UID value for each row and adds it as a new column. UID value generated contains unique Index/Value for each row.
@@ -54,7 +54,7 @@ Output
 Examples
 -------
 Generate UID Node Examples
----------------
++++++++++++++++
 
 
 

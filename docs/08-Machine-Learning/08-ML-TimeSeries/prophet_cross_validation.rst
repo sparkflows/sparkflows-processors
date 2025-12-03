@@ -1,5 +1,5 @@
 Prophet Cross Validator
-=========== 
+===========
 
 
 
@@ -42,7 +42,7 @@ Fields
 Examples
 -------
 Prophet Cross Validator Node Examples
----------------
++++++++++++++++
 
 
 Example 1: Evaluating Forecast Accuracy for Demand

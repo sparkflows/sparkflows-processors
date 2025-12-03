@@ -1,5 +1,5 @@
 H2O PCA
-=========== 
+===========
 
 PCA is commonly used to model without regularization or perform dimensionality reduction. It can also be useful to carry out as a preprocessing step before distance-based algorithms such as K-Means since PCA guarantees that all dimensions of a manifold are orthogonal.
 

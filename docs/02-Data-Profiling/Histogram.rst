@@ -1,5 +1,5 @@
 Histogram
-=========== 
+===========
 
 Computes a histogram of the data using number of bins evenly spaced between the minimum and maximum of the specific columns.
 

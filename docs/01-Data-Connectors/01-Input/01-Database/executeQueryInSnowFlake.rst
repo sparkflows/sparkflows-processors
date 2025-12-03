@@ -1,5 +1,5 @@
 Execute Query In Snowflake
-=========== 
+===========
 
 This node executes query in Snowflake
 
@@ -70,7 +70,7 @@ Fields
 Examples
 -------
 Execute Query In Snowflake Node Examples
----------------
++++++++++++++++
 
 
 

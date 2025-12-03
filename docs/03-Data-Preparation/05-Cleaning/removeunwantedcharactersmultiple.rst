@@ -1,5 +1,5 @@
 Remove Unwanted Characters Advanced
-=========== 
+===========
 
 This node removes unwanted characters
 
@@ -79,9 +79,8 @@ then outgoing Dataframe would result as below:
 Below examples detail how data is processed based on selected options
 
 
-
 REMOVE WHITESPACES is selected as [True]
----------------
++++++++++++++++
 
 
 Whitespaces are removed from the selected columns [SALARY] and [COMMENTS]
@@ -94,9 +93,8 @@ Whitespaces are removed from the selected columns [SALARY] and [COMMENTS]
      C01      |  MIKE       | $12,500.00 |  Salaryhikedby10%
 
 
-
 REMOVE LETTERS is selected as [True]
----------------
++++++++++++++++
 
 
 Alphabets are removed from the selected columns [SALARY] and [COMMENTS]
@@ -109,9 +107,8 @@ Alphabets are removed from the selected columns [SALARY] and [COMMENTS]
      C01      |  MIKE       | $12,500.00 |  10%
 
 
-
 REMOVE DIGITS is selected as [True]
----------------
++++++++++++++++
 
 
 Numbers are removed from the selected columns [SALARY] and [COMMENTS]
@@ -124,9 +121,8 @@ Numbers are removed from the selected columns [SALARY] and [COMMENTS]
      C01      |  MIKE       | $,.        |  Salary hiked by %
 
 
-
 REMOVE SIGNS is selected as [True]
----------------
++++++++++++++++
 
 
 Special characters are removed from the selected columns [SALARY] and [COMMENTS]
@@ -139,9 +135,8 @@ Special characters are removed from the selected columns [SALARY] and [COMMENTS]
      C01      |  MIKE       | 1250000    |  Salary hiked by 10
 
 
-
 REMOVE COMMAS is selected as [True]
----------------
++++++++++++++++
 
 
 Commas are removed from the selected columns [SALARY] and [COMMENTS]

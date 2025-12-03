@@ -1,5 +1,5 @@
 Vector Indexer
-=========== 
+===========
 
 Vector Indexer indexes categorical features inside of a Vector. It decides which features are categorical and converts them to category indices. The decision is based on the number of distinct values of a feature.
 
@@ -45,7 +45,7 @@ Fields
 Details
 -------
 Vector Indexer Node Details
----------------
++++++++++++++++
 
 
 The Vector Indexer Node is used to index categorical features inside of a Vector. It converts categorical features to category indices by deciding which features are categorical based on the number of distinct values of a feature.
@@ -72,7 +72,7 @@ MAX CATEGORIES : Threshold for the number of values a categorical feature can ta
 Examples
 -------
 Vector Indexer Node Example
----------------
++++++++++++++++
 
 
 Consider the below **Vector Indexer** output for the **features** column

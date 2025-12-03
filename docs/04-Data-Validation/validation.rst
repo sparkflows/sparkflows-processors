@@ -1,5 +1,5 @@
 Validate Fields Simple
-=========== 
+===========
 
 Validation Node
 
@@ -37,7 +37,7 @@ Fields
 Details
 -------
 Validate Fields Simple Node Details
----------------
++++++++++++++++
 
 
 This node creates two outgoing Dataframes based on the result of Validation Rules on the incoming Dataframe. 
@@ -54,7 +54,7 @@ Multiple validation rules can be defined for multiple columns. Succeeded and Fai
 Examples
 -------
 Validate Fields Simple Node Examples
----------------
++++++++++++++++
 
 
 Incoming Dataframe has following rows:

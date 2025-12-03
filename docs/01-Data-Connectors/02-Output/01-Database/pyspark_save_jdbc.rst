@@ -1,5 +1,5 @@
 Save JDBC
-=========== 
+===========
 
 This node writes data to databases using JDBC.
 
@@ -52,7 +52,7 @@ Fields
 Details
 -------
 Save JDBC Node Details
----------------
++++++++++++++++
 
 
 This node writes data to databases using JDBC.
@@ -73,7 +73,7 @@ Parameters to be set:
 Examples
 -------
 Save JDBC Node Examples
----------------
++++++++++++++++
 
 
 

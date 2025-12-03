@@ -1,5 +1,5 @@
 Interactive LLM Agent
-=========== 
+===========
 
 This node enables standalone or dataframe-optional LLM queries across multiple providers (OpenAI, Bedrock, Gemini). It is designed for sequential agent flows like 'Similar Company Finder' and supports saving structured responses.
 
@@ -45,7 +45,7 @@ Fields
 Details
 -------
 Interactive LLM Agent Node Details
----------------
++++++++++++++++
 
 The Interactive LLM Agent node enables querying large language models (LLMs) such as OpenAI, Bedrock (Anthropic), and Gemini from Google, using either a standalone prompt or content from a DataFrame. It is designed for flexible agent workflows and provides safe input and output validation.
 
@@ -101,7 +101,7 @@ If a DataFrame is passed in with metadata columns, their values are merged into 
 Examples
 -------
 Example: Interactive LLM Agent Node
----------------
++++++++++++++++
 
 
 

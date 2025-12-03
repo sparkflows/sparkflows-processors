@@ -1,5 +1,5 @@
 Window Ranking
-=========== 
+===========
 
 
 
@@ -60,9 +60,8 @@ Incoming Dataframe has following rows:
     E07       |    BELLA       |    HR      |    60000     |    24
 
 
-
 If WindowRanking node is configured as below:
----------------
++++++++++++++++
 
 
 PARTITIONBY      :     DEPT
@@ -92,9 +91,8 @@ if two or more rows have same [SALARY] value then they would be assigned same ra
     E05       |    MARK        |    SALES   |    60000     |    45     |    3
 
 
-
 If WindowRanking node is configured as below:
----------------
++++++++++++++++
 
 
 PARTITIONBY      :     DEPT

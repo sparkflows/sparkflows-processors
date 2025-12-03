@@ -1,5 +1,5 @@
 ExpectColumnValueLengthToBeInBetween
-=========== 
+===========
 
 
 
@@ -37,7 +37,7 @@ Fields
 Details
 -------
 Expect Column Value length To be in Between Details
----------------
++++++++++++++++
 
 
 Expect the column value lengths to be between a minimum value and a maximum value (inclusive).

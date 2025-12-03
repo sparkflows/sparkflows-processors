@@ -1,5 +1,5 @@
 H2O XGBoost
-=========== 
+===========
 
 XGBoost is a supervised learning algorithm that implements a process called boosting to yield accurate models.
 

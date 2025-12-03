@@ -1,5 +1,5 @@
 PySpark
-=========== 
+===========
 
 This node runs any given PySpark code. The input dataframe is passed into the function myfn as a parameter.
 
@@ -51,7 +51,7 @@ Fields
 Details
 -------
 Pyspark Details
----------------
++++++++++++++++
 
 
 This node receives receives an input pyspark dataframe in function called myfn.
@@ -63,7 +63,7 @@ The pyspark/python code processes it and returns one computed pyspark dataframe.
 Examples
 -------
 Pyspark Examples
----------------
++++++++++++++++
 
 
 Input Schema: id, price, lotsize, bedrooms, bathrms, stories, driveway, recroom, fullbase, gashw, airco, garagepl, prefarea

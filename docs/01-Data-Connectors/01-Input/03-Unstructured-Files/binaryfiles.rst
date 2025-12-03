@@ -1,5 +1,5 @@
 Binary Files
-=========== 
+===========
 
 Reads in Binary Files from a given path and loads them as FileName/Content
 

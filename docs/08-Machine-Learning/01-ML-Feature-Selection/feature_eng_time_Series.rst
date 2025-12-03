@@ -1,5 +1,5 @@
 Time Series Features
-=========== 
+===========
 
 This node computes various time-series related features from a DataFrame containing transactional data.
 
@@ -135,7 +135,7 @@ Fields
 Details
 -------
 Time Series Features Node Details
----------------
++++++++++++++++
 
 
 The Time Series Features node is designed to compute a variety of time-series related features from transactional data stored in a DataFrame. It processes user-level data to generate features such as time since last transaction, transaction hour, day of the week, and more, based on the configured options. These features are appended as new columns to the input DataFrame.
@@ -406,7 +406,7 @@ The node outputs the original DataFrame with additional columns based on the ena
 Examples
 -------
 Time Series Features Node Examples
----------------
++++++++++++++++
 
 
 

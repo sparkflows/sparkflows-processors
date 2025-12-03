@@ -1,5 +1,5 @@
 Summary Statistics
-=========== 
+===========
 
 Summary statistics provide useful information about sample data. eg: measures of spread.
 
@@ -37,7 +37,7 @@ Fields
 Details
 -------
 Summary Statistics Node Details
----------------
++++++++++++++++
 
 
 The Summary Statistics node makes it easy to explore the contents of a DataFrame at a high level.
@@ -61,7 +61,7 @@ Input Parameters
 Examples
 -------
 Summary Statistics Node Example
----------------
++++++++++++++++
 
 
 Consider the following DataFrame

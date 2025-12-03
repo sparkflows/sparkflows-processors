@@ -1,5 +1,5 @@
 Join On Common Columns
-=========== 
+===========
 
 This node joins the incoming dataframes on 1 or more columns
 
@@ -57,7 +57,7 @@ Fields
 Details
 -------
 Join On Common Columns Node Details
----------------
++++++++++++++++
 
 
 This node joins the incoming dataframes using one or more than one common column between the two dataframes. 
@@ -79,7 +79,7 @@ The `WHERE CLAUSE` section is used to filter any records once the two or more ta
 Examples
 -------
 Join On Common Columns Node Example
----------------
++++++++++++++++
 
 
 

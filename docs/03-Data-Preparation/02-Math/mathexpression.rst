@@ -1,5 +1,5 @@
 Math Expression
-=========== 
+===========
 
 Creates new columns using the specified expressions
 
@@ -34,7 +34,7 @@ Fields
 Details
 -------
 Math Expression Details
----------------
++++++++++++++++
 
 
 This node creates a new DataFrame by adding new columns to the incoming Dataframe as per the specified expression.

@@ -1,5 +1,5 @@
 Index To String Transform
-=========== 
+===========
 
 Maps a column of indices back to a new column of corresponding string values. The index-string mapping is either from the ML attributes of the input column, or from user-supplied labels
 
@@ -28,7 +28,7 @@ Fields
 Details
 -------
 Index To String Transform Node Details
----------------
++++++++++++++++
 
 
 The Index To String Transform Node is used to map a column of indices back to a new column of corresponding string values. The index-string mapping is either from the ML attributes of the input column, or from user-supplied labels.
@@ -47,7 +47,7 @@ FIT MODEL : The output of a previous StringIndexer Estimator Node, which contain
 Examples
 -------
 Index To String Transform Node Example
----------------
++++++++++++++++
 
 
 Consider the following example, where we have a DataFrame with a column 'gender' containing indexed values. We use a StringIndexer Estimator Node to convert the 'gender' column to indexed values and create a fit model. Then, we use the Index To String Transform Node to convert the indexed values back to their original string values in the 'gender' column using the fit model.

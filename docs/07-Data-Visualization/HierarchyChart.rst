@@ -1,5 +1,5 @@
 Hierarchy Chart
-=========== 
+===========
 
 Type
 --------- 
@@ -53,7 +53,7 @@ Fields
 Details
 -------
 Hierarchy Chart Node
----------------
++++++++++++++++
 
 
 Purpose:

@@ -1,5 +1,5 @@
 DB Incremental Ingestion
-=========== 
+===========
 
 This node incrementally fetches data from a database table based on a key column (DATE, ID, or TIMESTAMP). It handles both initial and subsequent data.
 

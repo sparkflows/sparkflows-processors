@@ -1,5 +1,5 @@
 C Chart
-=========== 
+===========
 
 This node outputs SPC C Chart and performs control tests.
 

@@ -1,5 +1,5 @@
 Print Spark Configuration
-=========== 
+===========
 
 Print the all spark configuration used in workflow.
 

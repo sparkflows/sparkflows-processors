@@ -1,5 +1,5 @@
 Split By Multiple Expressions
-=========== 
+===========
 
 Splits the incoming DataFrame into multiple output DataFrames by applying the conditional logic
 
@@ -69,9 +69,8 @@ If SplitByMultipleExpressions node is configured to split the incoming Dataframe
 then outgoing Dataframes would be created as below:
 
 
-
 First outgoing Dataframe for the conditional Expression [AGE > 40]
----------------
++++++++++++++++
 
 
 ::
@@ -82,9 +81,8 @@ First outgoing Dataframe for the conditional Expression [AGE > 40]
     C02        |    LISA         |    45     |    40000
 
 
-
 Second outgoing Dataframe for the conditional Expression [SALARY = 40000]
----------------
++++++++++++++++
 
 
 ::
@@ -95,9 +93,8 @@ Second outgoing Dataframe for the conditional Expression [SALARY = 40000]
     C03        |    ROBIN        |    30     |    40000
 
 
-
 Third outgoing Dataframe for the conditional Expression [AGE > 40 AND AGE < 50]
----------------
++++++++++++++++
 
 
 ::

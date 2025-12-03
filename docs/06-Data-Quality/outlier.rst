@@ -1,5 +1,5 @@
 CheckOutliers
-=========== 
+===========
 
 This checks if values fall between Inter Quartile Range.
 
@@ -40,7 +40,7 @@ Fields
 Details
 -------
 Check Outliers Node
----------------
++++++++++++++++
 
 
 

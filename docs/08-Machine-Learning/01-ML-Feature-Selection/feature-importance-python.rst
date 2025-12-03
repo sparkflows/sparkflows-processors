@@ -1,5 +1,5 @@
 Feature Selection
-=========== 
+===========
 
 Compute per-feature importance for classification, regression, or clustering. Supports linear/logistic (|coefficients|), RandomForest/GBT (impurity importances), and KMeans (CH-style score per feature) with optional scaling.
 

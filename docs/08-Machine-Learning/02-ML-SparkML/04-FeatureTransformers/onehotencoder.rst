@@ -1,5 +1,5 @@
 One Hot Encoder
-=========== 
+===========
 
 Maps a column of label indices to a column of binary vectors, with at most a single one-value
 
@@ -42,7 +42,7 @@ Fields
 Details
 -------
 One Hot Encoder Node Details
----------------
++++++++++++++++
 
 
 One-hot encoding is a process by which categorical data (such as nominal data) are converted into numerical features of a dataset. This is often a required preprocessing step since machine learning models require numerical data.
@@ -65,7 +65,7 @@ Input Parameters
 Examples
 -------
 One Hot Encoder Node Example
----------------
++++++++++++++++
 
 
 Assume that we have the following DataFrame with column v1 as integer data type:

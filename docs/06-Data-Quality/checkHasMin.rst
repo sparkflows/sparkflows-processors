@@ -1,5 +1,5 @@
 HasMin
-=========== 
+===========
 
 Check for min value in selected column.
 
@@ -37,7 +37,7 @@ Fields
 Details
 -------
 Has Min Node
----------------
++++++++++++++++
 
 
 
@@ -69,7 +69,7 @@ The node will flag records where the specified column value is less than the def
 Examples
 -------
 Example:
----------------
++++++++++++++++
 
 
 Let's assume we have a column named age and we want to identify records where the age is less than 0.

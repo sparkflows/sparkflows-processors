@@ -1,5 +1,5 @@
 Compare Datasets
-=========== 
+===========
 
 Validate the input datasets
 
@@ -28,7 +28,7 @@ Fields
 Details
 -------
 Compare Dataset Node Details
----------------
++++++++++++++++
 
 
 This node compares two incoming Dataframes and if set of fields of both Dataframes matches 
@@ -44,7 +44,7 @@ It doesn't result in any output if set of fields of incoming Dataframes are diff
 Examples
 -------
 Compare Dataset Node Examples
----------------
++++++++++++++++
 
 
 1st Incoming Dataframe has following rows:
@@ -74,9 +74,8 @@ Compare Dataset Node Examples
 execution of CompareDatasets node would result in below three outgoing Dataframes:
 
 
-
 Outgoing Dataframe with rows present in 1st but not in 2nd
----------------
++++++++++++++++
 
 
 ::
@@ -87,9 +86,8 @@ Outgoing Dataframe with rows present in 1st but not in 2nd
     E02       |    JOHN        |    SALES
 
 
-
 Outgoing Dataframe with rows present in 2nd but not in 1st
----------------
++++++++++++++++
 
 
 ::
@@ -100,9 +98,8 @@ Outgoing Dataframe with rows present in 2nd but not in 1st
     E05       |    MARK        |    HR
 
 
-
 Outgoing Dataframe with rows present in both
----------------
++++++++++++++++
 
 
 ::

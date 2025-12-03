@@ -1,5 +1,5 @@
 Math Functions
-=========== 
+===========
 
 Create new columns or replaces the existing ones by using the specified function
 
@@ -40,7 +40,7 @@ Fields
 Details
 -------
 Math functions Details
----------------
++++++++++++++++
 
 
 This node creates a new DataFrame by adding new columns to the incoming Dataframe using specified math functions.

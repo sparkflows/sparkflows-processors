@@ -1,5 +1,5 @@
 Geo Chart
-=========== 
+===========
 
 This node maps the values on a Map
 
@@ -58,7 +58,7 @@ Fields
 Details
 -------
 Geo Chart Details
----------------
++++++++++++++++
 
 
 

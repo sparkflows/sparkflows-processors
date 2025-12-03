@@ -1,5 +1,5 @@
 Tika
-=========== 
+===========
 
 Reads in files from a given path and parses them with Apache Tika
 

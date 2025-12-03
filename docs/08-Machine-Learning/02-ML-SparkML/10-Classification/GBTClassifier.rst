@@ -1,5 +1,5 @@
 GBT Classifier
-=========== 
+===========
 
 Gradient-Boosted Trees (GBTs) is a learning algorithm for classification. It supports binary labels, as well as both continuous and categorical features. Note: Multiclass labels are not currently supported.
 

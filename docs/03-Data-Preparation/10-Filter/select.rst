@@ -1,5 +1,5 @@
 Select
-=========== 
+===========
 
 The ultimate column selector – pick, rename, cast, drop, and propagate columns with pixel-perfect control. Perfect for cleaning messy inputs, preparing clean datasets for BI tools, models, or downstream pipelines, and enforcing consistent schemas.
 
@@ -57,7 +57,7 @@ Fields
 Details
 -------
 Select Node – Your DataFrame Column Superpower
----------------
++++++++++++++++
 
 
 The Select node is the most frequently used transform in real-world pipelines. It does everything you expect from a modern “Select / Rename / Cast / Drop” tool — with drag-and-drop ordering, smart propagation, and zero surprises.
@@ -97,7 +97,7 @@ Pro Tips
 Examples
 -------
 Select Node – Real-World Business Examples
----------------
++++++++++++++++
 
 
 

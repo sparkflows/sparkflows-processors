@@ -1,5 +1,5 @@
 Word Count
-=========== 
+===========
 
 Type
 --------- 
@@ -29,7 +29,7 @@ Fields
 Details
 -------
 Word Count Node
----------------
++++++++++++++++
 
 
 This node counts the number of words in the specified text column(s) of a dataset.
@@ -38,7 +38,7 @@ This node counts the number of words in the specified text column(s) of a datase
 Examples
 -------
 Word Count Node Example
----------------
++++++++++++++++
 
 
 Given the following dataset:

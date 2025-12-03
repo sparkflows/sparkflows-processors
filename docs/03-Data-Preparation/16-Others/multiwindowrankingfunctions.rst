@@ -1,5 +1,5 @@
 Multi Window Ranking
-=========== 
+===========
 
 
 
@@ -66,9 +66,8 @@ Incoming Dataframe has following rows:
     E07       |    BELLA       |    HR      |    60000     |    24
 
 
-
 If MultiWindowRanking node is configured as below:
----------------
++++++++++++++++
 
 
 ::

@@ -1,5 +1,5 @@
 URL Single Record JSON Reader
-=========== 
+===========
 
 It reads single record JSON from the given URL and creates a DataFrame from it
 

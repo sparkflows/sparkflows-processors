@@ -1,5 +1,5 @@
 Multi Input To Multi Output PySpark
-=========== 
+===========
 
 This node runs any given PySpark code. The input dataframe is passed in the variable inDFs. The output array of dataframes is passed back by registering each dataframe as a temporary table.
 
@@ -51,7 +51,7 @@ Fields
 Details
 -------
 Details
----------------
++++++++++++++++
 
 
 This node takes an array of Dataframes as input. It also returns an array of Dataframes as the output result.

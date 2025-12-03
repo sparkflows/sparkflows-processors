@@ -1,5 +1,5 @@
 String Indexer Advanced
-=========== 
+===========
 
 StringIndexer encodes a string column of labels to a column of label indices
 
@@ -45,7 +45,7 @@ Fields
 Details
 -------
 String Indexer Advanced Node Details
----------------
++++++++++++++++
 
 
 The String Indexer Advanced Node is used to encode a string column of labels to a column of label indices. It takes in a DataFrame and transforms it to another DataFrame by adding a new column containing the encoding of the string column of labels to a column of label indices.
@@ -68,7 +68,7 @@ OUTPUT COLUMN: The name of the output column after encoding.
 Examples
 -------
 String Indexer Advanced Node Example
----------------
++++++++++++++++
 
 
 Consider the below **String Indexer Advanced** output for the **color** column

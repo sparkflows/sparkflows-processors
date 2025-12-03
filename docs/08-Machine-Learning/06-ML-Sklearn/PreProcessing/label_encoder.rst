@@ -1,5 +1,5 @@
 Sklearn Label Encoder
-=========== 
+===========
 
 Encode labels with value between 0 and n_classes-1.
 

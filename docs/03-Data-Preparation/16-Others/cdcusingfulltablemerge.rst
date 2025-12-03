@@ -1,5 +1,5 @@
 CDC Using Full Table Merge
-=========== 
+===========
 
 CDC Using Full Table Merge
 

@@ -1,5 +1,5 @@
 Standard Deviation
-=========== 
+===========
 
 Creates new columns using the specified input columns
 
@@ -31,7 +31,7 @@ Fields
 Details
 -------
 Standard Deviation Node
----------------
++++++++++++++++
 
 
 This node calculates the standard deviation for the specified numeric columns in a dataset. The standard deviation is a measure of how spread out the values are from the mean.
@@ -40,7 +40,7 @@ This node calculates the standard deviation for the specified numeric columns in
 Examples
 -------
 Standard Deviation Node Example
----------------
++++++++++++++++
 
 
 Given the following dataset:

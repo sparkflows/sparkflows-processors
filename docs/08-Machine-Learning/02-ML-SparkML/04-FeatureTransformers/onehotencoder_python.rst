@@ -1,5 +1,5 @@
 One Hot Encoder
-=========== 
+===========
 
 Maps a column of label indices to a column of binary vectors, with at most a single one-value
 
@@ -42,7 +42,7 @@ Fields
 Details
 -------
 One Hot Encoder Node Details
----------------
++++++++++++++++
 
 
 The One Hot Encoder Node maps a column of label indices to a column of binary vectors, with at most a single one-value. It is an Estimator that takes in a DataFrame and transforms it to another DataFrame.
@@ -63,7 +63,7 @@ OUTPUT COLUMN : The name of the output column after encoding.
 Examples
 -------
 One Hot Encoder Node Example
----------------
++++++++++++++++
 
 
 Consider the below **One Hot Encoder ** output for the **color** column

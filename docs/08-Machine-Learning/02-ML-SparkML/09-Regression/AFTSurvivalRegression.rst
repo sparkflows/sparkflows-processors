@@ -1,5 +1,5 @@
 AFT Survival Regression
-=========== 
+===========
 
 Accelerated failure time (AFT) model which is a parametric survival regression model for censored data.
 

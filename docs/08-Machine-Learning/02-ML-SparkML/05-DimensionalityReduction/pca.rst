@@ -1,5 +1,5 @@
 PCA
-=========== 
+===========
 
 Trains a model to project vectors to a low-dimensional space using PCA.
 
@@ -55,7 +55,7 @@ More at Spark MLlib/ML docs page : https://spark.apache.org/docs/2.0.0/mllib-dim
 Examples
 -------
 The below example is available at : https://spark.apache.org/docs/2.0.0/mllib-dimensionality-reduction.html#principal-component-analysis-pca
----------------
++++++++++++++++
 
 
 import org.apache.spark.mllib.linalg.Matrix

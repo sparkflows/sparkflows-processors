@@ -1,5 +1,5 @@
 InMemoryDataset
-=========== 
+===========
 
 Dataset Node for createing the in-memory dataframe from passed data and fieldstr
 
@@ -57,7 +57,7 @@ Fields
 Details
 -------
 Read InMemoryDataset Node Details
----------------
++++++++++++++++
 
 
 Dataset Node for creating the InMemoryDataset.
@@ -66,7 +66,7 @@ Dataset Node for creating the InMemoryDataset.
 Examples
 -------
 InMemoryDataset Node Examples
----------------
++++++++++++++++
 
 
 

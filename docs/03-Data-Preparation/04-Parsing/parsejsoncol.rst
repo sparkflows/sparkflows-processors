@@ -1,5 +1,5 @@
 Parse JSON Col
-=========== 
+===========
 
 Parses JSON content in a given column
 
@@ -61,7 +61,7 @@ Fields
 Details
 -------
 Parse JSON Column Node
----------------
++++++++++++++++
 
 
 

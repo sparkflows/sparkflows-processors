@@ -1,5 +1,5 @@
 H2O Distributed Random Forest
-=========== 
+===========
 
 Distributed Random Forest (DRF) is a powerful classification and regression tool. DRF generates a forest of classification or regression trees.
 

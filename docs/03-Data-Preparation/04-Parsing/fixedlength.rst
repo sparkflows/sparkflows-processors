@@ -1,5 +1,5 @@
 Fixed Length Fields
-=========== 
+===========
 
 Reads in files with fixed length fields
 

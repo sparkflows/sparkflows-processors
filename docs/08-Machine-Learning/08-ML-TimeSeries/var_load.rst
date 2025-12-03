@@ -1,5 +1,5 @@
 VAR Model Load
-=========== 
+===========
 
 This node load the VAR model stored in the pickle file.
 

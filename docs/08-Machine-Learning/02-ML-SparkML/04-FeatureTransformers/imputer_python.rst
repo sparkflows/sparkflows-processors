@@ -1,5 +1,5 @@
 Imputer
-=========== 
+===========
 
 Imputation estimator for completing missing values
 
@@ -37,7 +37,7 @@ Fields
 Details
 -------
 Imputer Node Details
----------------
++++++++++++++++
 
 
 The Imputer Node is used to complete missing values in a dataset. It takes in a DataFrame and transforms it to another DataFrame by filling the missing values in the input columns.
@@ -60,7 +60,7 @@ STRATEGY : The imputation strategy can be mean, median or mode.
 Examples
 -------
 Imputer Node Example
----------------
++++++++++++++++
 
 
 Consider the below **Imputer** output for the **age** and **income** columns with strategy mean.

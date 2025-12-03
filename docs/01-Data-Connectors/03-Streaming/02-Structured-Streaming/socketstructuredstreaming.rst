@@ -1,5 +1,5 @@
 Structured Streaming Socket
-=========== 
+===========
 
 Reads in streaming text from a socket
 

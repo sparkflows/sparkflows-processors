@@ -1,5 +1,5 @@
 Data Masking
-=========== 
+===========
 
 This node adds a new column which contains the Hash of the specified columns
 
@@ -51,7 +51,7 @@ Fields
 Details
 -------
 Hash Node
----------------
++++++++++++++++
 
 
 This node generates Hash value computed using the selected columns and add it as a new Column to the dataframe.
@@ -66,7 +66,7 @@ Column Name needs to be entered for the new column listing the Generated Hash va
 Examples
 -------
 Hash Node
----------------
++++++++++++++++
 
 
 

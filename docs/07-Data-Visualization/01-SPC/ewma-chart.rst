@@ -1,5 +1,5 @@
 EWMA Chart
-=========== 
+===========
 
 This node outputs SPC EWMA Chart and performs control tests.
 

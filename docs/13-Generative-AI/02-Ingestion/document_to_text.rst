@@ -1,5 +1,5 @@
 Document To Text
-=========== 
+===========
 
 The DocumentToText node extracts text content from documents, including PDF, TXT, DOCX, and image files, located in a specified file path or directory. It processes either a single file or an entire directory, producing a structured DataFrame with columns for the extracted text, file name, page numbers, and optionally, base64-encoded data for PDFs and images.
 
@@ -63,7 +63,7 @@ Fields
 Details
 -------
 DocumentToText Node Details
----------------
++++++++++++++++
 
 The DocumentToText node extracts text content from documents, including PDF, DOCX, and image files, located in a specified file path or directory. It processes either a single file or an entire directory, producing a structured DataFrame with columns for the extracted text, file name, page numbers, and optionally, base64-encoded data for PDFs and images.
 
@@ -144,7 +144,7 @@ The node outputs a DataFrame with the following default columns:
 Examples
 -------
 Example: DocumentToText Node
----------------
++++++++++++++++
 
 
 

@@ -1,5 +1,5 @@
 PDF
-=========== 
+===========
 
 Reads in PDF Files from a given path and extracts the text content from them
 

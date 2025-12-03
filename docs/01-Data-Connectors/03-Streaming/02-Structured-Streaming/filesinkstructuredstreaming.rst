@@ -1,5 +1,5 @@
 Structured Streaming File Sink
-=========== 
+===========
 
 It writes the DataFrame to files with Structured Streaming
 

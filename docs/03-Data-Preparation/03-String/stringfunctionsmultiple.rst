@@ -1,5 +1,5 @@
 String Functions
-=========== 
+===========
 
 String Functions Multiple
 
@@ -37,7 +37,7 @@ Fields
 Details
 -------
 String Functions Multiple Node Details
----------------
++++++++++++++++
 
 
 This node creates a new Dataframe by transforming data of multiple columns using specified string functions. Multiple columns can be selected for transformations. Only one String Function can be selected for each transformation.
@@ -109,7 +109,7 @@ It removes all blank spaces from values in the selected columns. ->     Example:
 Examples
 -------
 String Functions Multiple Node Examples
----------------
++++++++++++++++
 
 
 

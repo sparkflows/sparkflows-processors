@@ -1,5 +1,5 @@
 Read DynamoDB
-=========== 
+===========
 
 This node reads data from DynamoDB and gets the credentials from the instance profile.
 

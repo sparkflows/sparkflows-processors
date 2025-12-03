@@ -1,5 +1,5 @@
 Date Difference
-=========== 
+===========
 
 This node finds difference between two dates
 
@@ -53,7 +53,7 @@ Fields
 Details
 -------
 Date Difference Details
----------------
++++++++++++++++
 
 
 Calculates the difference between two given date/datetime columns.
@@ -87,7 +87,7 @@ Example
 Examples
 -------
 Format Examples
----------------
++++++++++++++++
 
 
 

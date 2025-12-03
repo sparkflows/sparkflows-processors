@@ -1,5 +1,5 @@
 Columns Rename
-=========== 
+===========
 
 This node creates a new DataFrame by renaming existing columns with the new name
 

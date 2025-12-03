@@ -1,5 +1,5 @@
 Linear Regression
-=========== 
+===========
 
 The interface for working with linear regression models and model summaries is similar to the logistic regression case.
 

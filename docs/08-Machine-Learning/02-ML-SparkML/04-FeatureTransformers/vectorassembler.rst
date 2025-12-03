@@ -1,5 +1,5 @@
 Vector Assembler
-=========== 
+===========
 
 Merges multiple columns into a vector column.
 
@@ -47,7 +47,7 @@ Fields
 Examples
 -------
 h2: VectorAssembler Node Example
----------------
++++++++++++++++
 
 
 Assume that we have a DataFrame with the columns id, hour, mobile, userFeatures, and clicked:

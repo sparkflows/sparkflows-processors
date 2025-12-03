@@ -1,5 +1,5 @@
 Structured Streaming Kafka Save
-=========== 
+===========
 
 Reads in streaming text from topics in Apache Kafka
 

@@ -1,5 +1,5 @@
 SerperAI Search
-=========== 
+===========
 
 The SerperAI Search node fetches real-time search results from Google services (Web, News, Images, Shopping, Places) using the SerperAI API. It processes user queries and returns results as a structured DataFrame or raw JSON, ideal for retrieval-augmented generation (RAG) workflows.
 
@@ -69,7 +69,7 @@ Fields
 Details
 -------
 SerperAI Search Node Details
----------------
++++++++++++++++
 
 The SerperAI Search node fetches real-time search results from Google services (Web, News, Images, Shopping, Places) using the SerperAI API. It processes user queries and returns results as a structured DataFrame or raw JSON, ideal for retrieval-augmented generation (RAG) workflows.
 
@@ -201,7 +201,7 @@ The node outputs a DataFrame with columns depending on the *Search Type* and *Ou
 Examples
 -------
 Example: SerperAI Search Node
----------------
++++++++++++++++
 
 
 

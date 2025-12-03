@@ -1,5 +1,5 @@
 Read MongoDB
-=========== 
+===========
 
 Reads data from MongoDB
 

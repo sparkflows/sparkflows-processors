@@ -1,5 +1,5 @@
 Hashing TF
-=========== 
+===========
 
 Maps a sequence of terms to term frequencies using the hashing trick.
 
@@ -42,7 +42,7 @@ Fields
 Details
 -------
 Hashing TF Node Details
----------------
++++++++++++++++
 
 
 The Hashing TF Node maps a sequence of terms to their term frequencies using the hashing trick. Currently we use Austin Appleby’s MurmurHash 3 algorithm (MurmurHash3_x86_32) to calculate the hash code value for the term object.
@@ -64,7 +64,7 @@ Input Parameters
 Examples
 -------
 Hashing TF Node Example
----------------
++++++++++++++++
 
 
 Consider the below **Hashing TF** vector output for the **tokenizer** column.

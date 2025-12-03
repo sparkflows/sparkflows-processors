@@ -1,5 +1,5 @@
 Cast To Single Type
-=========== 
+===========
 
 This node creates a new DataFrame by casting the specified input columns to a new data type
 

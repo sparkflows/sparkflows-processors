@@ -1,5 +1,5 @@
 Graph Week Day Distribution
-=========== 
+===========
 
 This node Finds the distribution of Week Days from Date values
 

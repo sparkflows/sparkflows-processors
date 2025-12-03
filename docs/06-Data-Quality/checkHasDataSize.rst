@@ -1,5 +1,5 @@
 HasDataSize
-=========== 
+===========
 
 Check the size of the dataset.
 
@@ -40,7 +40,7 @@ Fields
 Details
 -------
 Has Data Size Node
----------------
++++++++++++++++
 
 
 

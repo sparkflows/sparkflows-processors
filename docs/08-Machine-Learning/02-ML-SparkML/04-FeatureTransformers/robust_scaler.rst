@@ -1,5 +1,5 @@
 Robust Scaler
-=========== 
+===========
 
 RobustScaler removes the median and scales the data according to the quantile range
 
@@ -40,7 +40,7 @@ Fields
 Details
 -------
 Robust Scaler Node Details
----------------
++++++++++++++++
 
 
 The Robust Scaler Node is used to scale a dataset individually feature-wise according to the quantile range. It removes the median and scales the data according to the quantile range.
@@ -65,7 +65,7 @@ WITH SCALING : A Boolean parameter which indicates whether to scale the data.
 Examples
 -------
 Robust Scaler Node Example
----------------
++++++++++++++++
 
 
 Consider the below **Robust Scaler** output for the **features** column

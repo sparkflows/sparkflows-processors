@@ -1,5 +1,5 @@
 I-MR Chart
-=========== 
+===========
 
 This node outputs SPC IMR Chart and performs control tests.
 

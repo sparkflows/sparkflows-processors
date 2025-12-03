@@ -1,5 +1,5 @@
 Data Cleansing
-=========== 
+===========
 
 One-stop data quality powerhouse – instantly clean dozens of common messy data issues: null handling, whitespace, unwanted characters, case standardization, and more. Perfect for preparing raw source data (CSV, Excel, APIs, logs) before analytics, modeling, or reporting.
 
@@ -96,7 +96,7 @@ Fields
 Details
 -------
 Data Cleansing Node – Fix 95% of Real-World Data Mess in One Click
----------------
++++++++++++++++
 
 
 The Data Cleansing node is the fastest way to turn dirty, inconsistent source data into clean, trusted, analysis-ready tables. Used by thousands of analysts daily to eliminate the most common (and frustrating) data quality issues instantly.
@@ -154,7 +154,7 @@ Pro Tips
 Examples
 -------
 Data Cleansing – Before & After Real Examples
----------------
++++++++++++++++
 
 
 

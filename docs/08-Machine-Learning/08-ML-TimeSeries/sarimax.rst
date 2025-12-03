@@ -1,5 +1,5 @@
 Sarimax
-=========== 
+===========
 
 Seasonal Autoregressive Integrated Moving Average, SARIMA or Seasonal ARIMA, is an extension of ARIMA that explicitly supports univariate time series data with a seasonal component.
 

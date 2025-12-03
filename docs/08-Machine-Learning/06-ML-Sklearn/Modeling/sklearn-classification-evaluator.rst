@@ -1,5 +1,5 @@
 Sklearn Classification Evaluator
-=========== 
+===========
 
 Evaluator for classification, which expects two input columns: prediction and label.
 

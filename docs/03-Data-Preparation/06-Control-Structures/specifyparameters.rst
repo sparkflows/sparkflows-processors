@@ -1,5 +1,5 @@
 Specify Parameters
-=========== 
+===========
 
 Provides additional parameters to the workflow. When running with spark-submit, variables can also be given on the command line with --var name=value.
 

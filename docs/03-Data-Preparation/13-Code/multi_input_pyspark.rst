@@ -1,5 +1,5 @@
 MultiInputPySpark
-=========== 
+===========
 
 This node runs any given PySpark code. The input dataframe is passed in the variable inDFs. The output dataframe is passed back by registering it as a temporary table.
 
@@ -51,7 +51,7 @@ Fields
 Details
 -------
 Pyspark Details
----------------
++++++++++++++++
 
 
 This node receives input pyspark dataframes in function called myfn.
@@ -63,7 +63,7 @@ The pyspark/python code processes it and returns one computed pyspark dataframe.
 Examples
 -------
 Pyspark Examples
----------------
++++++++++++++++
 
 
 Input Schema of dataframe.

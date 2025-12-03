@@ -1,5 +1,5 @@
 Graph Values
-=========== 
+===========
 
 Type
 --------- 
@@ -74,7 +74,7 @@ Fields
 Details
 -------
 Graph Values Details
----------------
++++++++++++++++
 
 
 This node represents variation between data of various data series in Graphical format.

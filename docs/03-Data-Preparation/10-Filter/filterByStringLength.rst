@@ -1,5 +1,5 @@
 Filter By String Length
-=========== 
+===========
 
 This node filters the Rows within the given string length. The column to be used for determining the string length is specified.
 
@@ -41,7 +41,7 @@ Fields
 Details
 -------
 Filter By String Length Node Details
----------------
++++++++++++++++
 
 
 This node filters Rows for the specified data length range. It helps to define a validation rule on the selected column.
@@ -69,7 +69,7 @@ Output
 Examples
 -------
 Filter By String Length Node Examples
----------------
++++++++++++++++
 
 
 

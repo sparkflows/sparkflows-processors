@@ -1,5 +1,5 @@
 Graph Year Distribution
-=========== 
+===========
 
 This node Finds the distribution of Years from Date values
 

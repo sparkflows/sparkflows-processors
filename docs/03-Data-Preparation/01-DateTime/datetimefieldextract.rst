@@ -1,5 +1,5 @@
 Date Time Field Extract
-=========== 
+===========
 
 It creates a new DataFrame by extracting Date and Time fields.
 
@@ -69,7 +69,7 @@ Fields
 Details
 -------
 Date Time Field Extract Details
----------------
++++++++++++++++
 
 
 Spark functions provides hour(), minute(), second() and weekofyear() functions to extract hour, minute, second and week of the year from Timestamp column respectively along with the standard functions of year(), month() and day().

@@ -1,5 +1,5 @@
 Vector Indexer Transform
-=========== 
+===========
 
 Vector Indexer indexes categorical features inside of a Vector. It decides which features are categorical and converts them to category indices. The decision is based on the number of distinct values of a feature.
 
@@ -36,7 +36,7 @@ Fields
 Details
 -------
 Vector Indexer Transform Node Details
----------------
++++++++++++++++
 
 
 The Vector Indexer Transform Node is used to index categorical features inside of a Vector. It takes in an input DataFrame and transforms it to another DataFrame. The decision of which features are categorical is based on the number of distinct values of a feature. The transformed DataFrame contains a new column with the indexed categorical features.
@@ -53,7 +53,7 @@ DataFrame : The input DataFrame which contains the features to be indexed.
 Examples
 -------
 Vector Indexer Transform Node Example
----------------
++++++++++++++++
 
 
 Consider the following example, where we have a DataFrame with a column 'features' containing Vector values. We use the Vector Indexer Transform Node to index the categorical features in the 'features' column.

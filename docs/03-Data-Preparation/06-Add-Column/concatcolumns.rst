@@ -1,5 +1,5 @@
 Concat Columns
-=========== 
+===========
 
 This node creates a new DataFrame by concatenating the specified columns of the input DataFrame
 
@@ -45,7 +45,7 @@ Fields
 Details
 -------
 Concat Columns Node Details
----------------
++++++++++++++++
 
 
 It adds a new column to the dataframe created by concatenating multiple columns and separated by the specified separator. 
@@ -82,7 +82,7 @@ Output
 Examples
 -------
 Concat Columns Examples
----------------
++++++++++++++++
 
 
 

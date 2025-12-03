@@ -1,5 +1,5 @@
 Generate UUID
-=========== 
+===========
 
 This node Generates a Universally Unique ID
 
@@ -39,7 +39,7 @@ Fields
 Details
 -------
 Generate UUID Node Details
----------------
++++++++++++++++
 
 
 This node Generates a Universally Unique ID for each row. Generated UUID value is added as a column to the outgoing Dataframe.
@@ -62,7 +62,7 @@ Output
 Examples
 -------
 Generate UUID Node Examples
----------------
++++++++++++++++
 
 
 

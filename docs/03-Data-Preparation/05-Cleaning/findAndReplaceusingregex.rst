@@ -1,5 +1,5 @@
 Find And Replace Using Regex
-=========== 
+===========
 
 This node finds and replaces text in a column with another
 
@@ -41,7 +41,7 @@ Fields
 Details
 -------
 Find and Replace Details
----------------
++++++++++++++++
 
 
 This node allows the user to find and replace patterns of text within the data. This node will only search the columns selected in the Input Columns option. 
@@ -52,7 +52,7 @@ The Find pattern must be in Regex format. This node will only find exact matches
 Examples
 -------
 Find and Replace Examples
----------------
++++++++++++++++
 
 
 Incoming Dataframe has the following rows:

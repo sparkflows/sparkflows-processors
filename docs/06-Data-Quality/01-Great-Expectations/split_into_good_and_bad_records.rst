@@ -1,5 +1,5 @@
 Split Into Good And Bad Records
-=========== 
+===========
 
 
 
@@ -34,7 +34,7 @@ Fields
 Details
 -------
 Split Into Good And Bad Records Details
----------------
++++++++++++++++
 
 
 Lower numbered edge outputs the rows which passed the checks.
@@ -45,7 +45,7 @@ Higher numbered edge outputs the rows which failed the checks.
 Examples
 -------
 Example:
----------------
++++++++++++++++
 
 
 Let's assume we have a DataFrame with a column is_valid that indicates whether a record is valid or not.

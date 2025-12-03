@@ -1,5 +1,5 @@
 Paragraph Splitter
-=========== 
+===========
 
 
 
@@ -40,7 +40,7 @@ Fields
 Details
 -------
 Paragraph Splitter Node
----------------
++++++++++++++++
 
 
 

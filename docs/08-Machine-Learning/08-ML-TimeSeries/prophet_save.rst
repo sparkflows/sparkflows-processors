@@ -1,5 +1,5 @@
 Prophet Model Save
-=========== 
+===========
 
 This node saves the Prophet model generated at the specified path in pickle file.
 

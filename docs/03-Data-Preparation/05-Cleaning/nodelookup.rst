@@ -1,5 +1,5 @@
 Lookup
-=========== 
+===========
 
 Find values in a target column using a lookup table and either append fields or replace matched text.
 
@@ -61,14 +61,13 @@ Fields
 Details
 -------
 Lookup Node Details
-===============
++++++++++++++++
 
 The Lookup node performs text-based lookups from a small reference (lookup) DataFrame against a target column in the main input DataFrame. It supports flexible matching options and can either append additional columns from the lookup row or replace matched text in the target column. The lookup DataFrame is broadcasted for efficient distributed processing, with a safety limit of 100,000 rows to prevent excessive memory usage.
 
 
-
 General:
----------------
++++++++++++++++
 
 
 
@@ -106,9 +105,8 @@ Match Whole Word Only:
 When enabled, matches are bounded by non-word characters (e.g., 'cat' matches 'The cat sat' but not 'category').
 
 
-
 Replace Tab:
----------------
++++++++++++++++
 
 
 
@@ -161,7 +159,7 @@ For Replace: Original schema with the target column updated (unmatched rows unch
 Examples
 -------
 Lookup Node Examples
----------------
++++++++++++++++
 
 
 

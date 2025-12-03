@@ -1,5 +1,5 @@
 Save to Pinecone
-=========== 
+===========
 
 This process involves storing document embeddings in a Pinecone vector database for efficient similarity search and retrieval.
 
@@ -63,7 +63,7 @@ Fields
 Details
 -------
 Save to Pinecone Node Details
----------------
++++++++++++++++
 
 The Save to Pinecone node stores document embeddings in a Pinecone vector database, enabling efficient similarity search and retrieval. It takes a DataFrame as input, containing text content and corresponding embeddings, and saves them to a specified Pinecone index. This node is designed for PySpark-based workflows, making it ideal for integrating vector-based storage and search into data pipelines.
 
@@ -133,7 +133,7 @@ The node saves the embeddings, content, and optional metadata to the specified P
 Examples
 -------
 Example: Save to Pinecone Node
----------------
++++++++++++++++
 
 
 

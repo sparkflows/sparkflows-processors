@@ -1,5 +1,5 @@
 Node Schema Validation
-=========== 
+===========
 
 This node is used to do the defined schema validation.
 
@@ -31,7 +31,7 @@ Fields
 Details
 -------
 Schema Validation Node Details
----------------
++++++++++++++++
 
 
 This node compares schema of the incoming Dataframe against one defined in the node and creates two outgoing DataFrames
@@ -47,7 +47,7 @@ Validation definition for multiple columns can be entered in separate row.
 Examples
 -------
 Schema Validation Node Examples
----------------
++++++++++++++++
 
 
 Incoming Dataframe has following rows:

@@ -1,5 +1,5 @@
 Multi Regex Extractor
-=========== 
+===========
 
 This node is used to extract pattern from input columns
 

@@ -1,5 +1,5 @@
 Structured Streaming Kinesis
-=========== 
+===========
 
 Reads in streaming text from Kinesis stream
 

@@ -1,5 +1,5 @@
 Whole Text Files
-=========== 
+===========
 
 Reads Whole Text Files directory from a given path and loads each file as a separate Row with key (file name) and values (file content)
 

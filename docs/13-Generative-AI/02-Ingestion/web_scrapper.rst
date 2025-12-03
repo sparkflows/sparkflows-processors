@@ -1,5 +1,5 @@
 Web Scraper
-=========== 
+===========
 
 Scrapes Webpages
 
@@ -44,7 +44,7 @@ Fields
 Details
 -------
 Web Scraper Node Details
----------------
++++++++++++++++
 
 The Web Scraper node is designed to extract content from webpages, starting from a specified URL. It collects text from a wide range of HTML elements, cleans it to remove unwanted characters (e.g., newlines, tabs) and boilerplate phrases (e.g., "top of page," "bottom of page"), and can optionally crawl linked pages within the same domain up to a specified limit. The node outputs a DataFrame containing the cleaned text and corresponding URLs for each scraped page.
 

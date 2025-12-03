@@ -1,5 +1,5 @@
 Union Advanced
-=========== 
+===========
 
 Smart Union node that combines multiple DataFrames with full control: union by column name or position, include all columns or only common ones, and automatically handle mismatched schemas with null padding. Perfect for merging monthly files, combining sources with evolving schemas, and building robust incremental pipelines.
 
@@ -45,7 +45,7 @@ Fields
 Details
 -------
 Union Advanced Node – The Smart Way to Combine Data
----------------
++++++++++++++++
 
 
 The Union Advanced node is the most flexible and production-ready way to stack DataFrames vertically. Whether you're appending daily files, merging regional exports, or combining sources that evolve over time — this node handles it gracefully without breaking your pipeline.
@@ -84,7 +84,7 @@ Best Practices
 Examples
 -------
 Union Advanced – Practical Business Examples
----------------
++++++++++++++++
 
 
 

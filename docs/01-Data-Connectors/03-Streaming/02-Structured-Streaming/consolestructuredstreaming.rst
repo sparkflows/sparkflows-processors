@@ -1,5 +1,5 @@
 Structured Streaming Console Sink
-=========== 
+===========
 
 It outputs the DataFrame to the console
 

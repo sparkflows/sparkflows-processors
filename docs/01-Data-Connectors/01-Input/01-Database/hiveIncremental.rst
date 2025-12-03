@@ -1,5 +1,5 @@
 Hive Incremental
-=========== 
+===========
 
 This node is used to incrementally read data from Hive table.
 
@@ -50,7 +50,7 @@ Fields
 Details
 -------
 Hive Incremental Node Details
----------------
++++++++++++++++
 
 
 This node reads a table from Hive and creates a DataFrame containing the schema and data of the specified table, with an incremental load configuration.
@@ -72,7 +72,7 @@ Parameters to be set:
 Examples
 -------
 Hive Incremental Node Examples
----------------
++++++++++++++++
 
 
 

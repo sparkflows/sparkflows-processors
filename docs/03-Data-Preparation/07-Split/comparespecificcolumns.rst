@@ -1,5 +1,5 @@
 Compare Specific Columns
-=========== 
+===========
 
 Compares 2 incoming DataFrames on specific columns. Outputs 3 DataFrames (A-B), (B-A), (A intersection B)
 
@@ -76,9 +76,8 @@ Examples
 if CompareSpecificColumns node is configured to compare incoming Dataframes on [DEPT] column then outgoing Dataframes would be created as below:
 
 
-
 (A-B) Outgoing Dataframe with rows of 1st Dataframe in which values in the specified columns don't have matching entries in same set of columns in 2nd Dataframe.
----------------
++++++++++++++++
 
 
 ::
@@ -89,9 +88,8 @@ if CompareSpecificColumns node is configured to compare incoming Dataframes on [
     E05       |    MARK        |    SALES      |    25     |    2020-12-21        |    78 999.00  |    BAD
 
 
-
 (B-A) Outgoing Dataframe with rows of 2nd Dataframe in which values in the specified columns don't have matching entries in same set of columns in 1st Dataframe.
----------------
++++++++++++++++
 
 
 ::
@@ -103,9 +101,8 @@ if CompareSpecificColumns node is configured to compare incoming Dataframes on [
     E08       |    LISA        |    FRONT DESK |    40     |    2015-05-04        |    12 000.00  |    VERY GOOD
 
 
-
 (A insection B) Outgoing Dataframe with rows common in both incoming Dataframes in which values in the specified columns have matching entries in same set of columns.
----------------
++++++++++++++++
 
 
 ::

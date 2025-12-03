@@ -1,5 +1,5 @@
 IsNonNegative
-=========== 
+===========
 
 Should not contain negative values
 
@@ -34,7 +34,7 @@ Fields
 Details
 -------
 IsNonNegative Node
----------------
++++++++++++++++
 
 
 
@@ -64,7 +64,7 @@ The node will flag records where the specified column contains negative values.
 Examples
 -------
 Example:
----------------
++++++++++++++++
 
 
 Let's assume we have a column named age and we want to identify records where the age is negative.

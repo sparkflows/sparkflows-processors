@@ -1,5 +1,5 @@
 Text Analysis
-=========== 
+===========
 
 
 
@@ -51,7 +51,7 @@ Fields
 Details
 -------
 Text Analysis Node Details
----------------
++++++++++++++++
 
 The Text Analysis node processes text data to perform various types of analysis, such as tone, emotion, sentiment, or slang analysis, using an OpenAI model. It takes a directory or file path as input and generates a structured DataFrame output. Optionally, it can render a word cloud chart to visualize the text data. This node is designed for PySpark-based workflows, making it suitable for advanced text analysis in data pipelines.
 
@@ -110,7 +110,7 @@ If Word Cloud is set to true, a word cloud chart is also generated to visualize 
 Examples
 -------
 Example: Text Analysis Node
----------------
++++++++++++++++
 
 
 

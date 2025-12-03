@@ -1,5 +1,5 @@
 Create Text Embedding
-=========== 
+===========
 
 This node enables the creation of a embedding text data and output as dataframe
 
@@ -66,7 +66,7 @@ Fields
 Details
 -------
 Text Embedder Node Details
----------------
++++++++++++++++
 
 
 This node enables the creation of a embedding text data further used for indexing it into a vector database using the specified configuration. It supports multiple embedding providers including OpenAI, Bedrock, and HuggingFace.

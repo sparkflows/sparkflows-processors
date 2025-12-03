@@ -1,5 +1,5 @@
 MultiLayer Perceptron
-=========== 
+===========
 
 It supports creation of full connected neural network.
 

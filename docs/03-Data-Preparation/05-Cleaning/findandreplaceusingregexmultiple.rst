@@ -1,5 +1,5 @@
 Find And Replace Using Regex Advanced
-=========== 
+===========
 
 This node finds and replaces text in a column containing string
 

@@ -1,5 +1,5 @@
 Structured Streaming Hive Sink2
-=========== 
+===========
 
 Saves the streaming data into an Apache HIVE Table
 

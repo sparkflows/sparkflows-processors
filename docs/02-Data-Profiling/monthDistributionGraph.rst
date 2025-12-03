@@ -1,5 +1,5 @@
 Graph Month Distribution
-=========== 
+===========
 
 This node Finds the distribution of months from Date values
 

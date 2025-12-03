@@ -1,5 +1,5 @@
 Save Parquet
-=========== 
+===========
 
 Saves the DataFrame into the specified location in Parquet Format. When running on Hadoop, it is saved onto HDFS.
 
@@ -46,7 +46,7 @@ Fields
 Details
 -------
 Save Parquet Node Details
----------------
++++++++++++++++
 
 
 Saves the DataFrame into the specified location in Parquet Format. When running on Hadoop, it is saved onto HDFS.
@@ -72,7 +72,7 @@ Advanced:
 Examples
 -------
 Save Parquet Node Examples
----------------
++++++++++++++++
 
 
 

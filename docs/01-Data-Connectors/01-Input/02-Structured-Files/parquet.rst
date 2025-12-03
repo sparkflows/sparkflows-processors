@@ -1,5 +1,5 @@
 Read Parquet
-=========== 
+===========
 
 Dataset Node for reading Apache Parquet Files
 
@@ -54,7 +54,7 @@ Fields
 Details
 -------
 Read Parquet Node Details
----------------
++++++++++++++++
 
 
 This node reads a Parquet file and creates the DataFrame which contains the schema and data of the specified Parquet file.
@@ -74,7 +74,7 @@ Parameters to be set:
 Examples
 -------
 Read Parquet Node Examples
----------------
++++++++++++++++
 
 
 

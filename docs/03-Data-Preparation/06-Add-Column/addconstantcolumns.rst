@@ -1,5 +1,5 @@
 Add Column Advanced
-=========== 
+===========
 
 This node allows adding new columns with certain values
 

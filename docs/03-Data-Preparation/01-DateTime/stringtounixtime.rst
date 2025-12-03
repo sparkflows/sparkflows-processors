@@ -1,5 +1,5 @@
 String To Unix Time
-=========== 
+===========
 
 This node converts a string to Unix Time
 
@@ -37,7 +37,7 @@ Fields
 Details
 -------
 String To Unix Time Details
----------------
++++++++++++++++
 
 
 This node converts a string column to unix Timestamp.
@@ -71,7 +71,7 @@ Example
 Examples
 -------
 Format Examples
----------------
++++++++++++++++
 
 
 

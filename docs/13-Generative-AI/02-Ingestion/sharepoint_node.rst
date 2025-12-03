@@ -1,5 +1,5 @@
 Sharepoint Data Extraction
-=========== 
+===========
 
 Retrieves files and pages from a SharePoint site, extracts their content (e.g., text from PDFs, DOCX), and outputs a DataFrame with metadata and content. Designed as the starting node in a PySpark workflow, requiring no input DataFrame.
 
@@ -44,7 +44,7 @@ Fields
 Details
 -------
 SharePoint Data Extraction Node Details
----------------
++++++++++++++++
 
 
 The SharePoint Data Extraction node retrieves files and pages from a SharePoint site, extracts their content (e.g., text from PDFs, DOCX, or SharePoint pages), and outputs the data as a DataFrame. The node connects to a SharePoint instance using Microsoft Graph API, fetches files and pages modified within a specified time range, and provides metadata and extracted content, making it ideal for integrating SharePoint data into data processing pipelines.

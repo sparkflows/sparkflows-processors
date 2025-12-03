@@ -1,5 +1,5 @@
 Sarimax Model Save
-=========== 
+===========
 
 This node saves the Sarimax model generated at the specified path in pickle file.
 

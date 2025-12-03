@@ -1,5 +1,5 @@
 Explode
-=========== 
+===========
 
 Explode the array of values into multiple rows with columnname_explode.
 
@@ -31,7 +31,7 @@ Fields
 Details
 -------
 Explode Node
----------------
++++++++++++++++
 
 
 This node explodes a column containing arrays or maps into multiple rows, creating a new row for each element in the array or map. This is useful for flattening nested data structures.
@@ -40,7 +40,7 @@ This node explodes a column containing arrays or maps into multiple rows, creati
 Examples
 -------
 Explode Node Example
----------------
++++++++++++++++
 
 
 Given the following dataset:

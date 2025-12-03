@@ -1,5 +1,5 @@
 Save Excel
-=========== 
+===========
 
 Saves the DataFrame into the specified location in XLS Format
 
@@ -43,7 +43,7 @@ Fields
 Details
 -------
 Save Excel Node Details
----------------
++++++++++++++++
 
 
 Saves the DataFrame into the specified location in XLS Format.
@@ -63,7 +63,7 @@ Parameters to be set:
 Examples
 -------
 Save Excel Node Examples
----------------
++++++++++++++++
 
 
 

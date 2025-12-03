@@ -1,5 +1,5 @@
 Vector Slicer
-=========== 
+===========
 
 VectorSlicer feature selection, which takes a feature vector and outputs a new feature vector with a sub-array of the original features. It is useful for extracting features from a vector column
 
@@ -51,7 +51,7 @@ More details are available at : http://spark.apache.org/docs/latest/ml-features.
 Examples
 -------
 The below example is available at : http://spark.apache.org/docs/latest/ml-features.html#vectorslicer
----------------
++++++++++++++++
 
 
 import java.util.Arrays

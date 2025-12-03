@@ -1,5 +1,5 @@
 Logistic Regression
-=========== 
+===========
 
 Logistic regression. Currently, this class only supports binary classification.
 
@@ -151,7 +151,7 @@ http://spark.apache.org/docs/latest/ml-classification-regression.html#logistic-r
 Examples
 -------
 The below example is available at : https://spark.apache.org/docs/2.3.0/ml-classification-regression.html#logistic-regression
----------------
++++++++++++++++
 
 
 

@@ -1,5 +1,5 @@
 Imputing With Mean Value
-=========== 
+===========
 
 Imputing the continuous variables by mean.
 

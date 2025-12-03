@@ -1,5 +1,5 @@
 Multi Window Analytics
-=========== 
+===========
 
 
 
@@ -66,9 +66,8 @@ Incoming Dataframe has following rows:
     E07       |    BELLA       |    HR      |    60000     |    24
 
 
-
 If MultiWindowAnalytics node is configured as below:
----------------
++++++++++++++++
 
 
 ::

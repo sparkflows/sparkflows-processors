@@ -1,5 +1,5 @@
 Transpose
-=========== 
+===========
 
 This node transposes a dataframe without performing aggregation function by given column(transposeby). ALL INPUT COLUMNS TO THIS NODE HAVE TO BE OF THE SAME TYPE
 
@@ -39,7 +39,7 @@ Fields
 Details
 -------
 Transpose Node
----------------
++++++++++++++++
 
 
 This node transposes the rows and columns of a DataFrame on the selected column, effectively pivoting the data. It's useful for reshaping data into a different format.
@@ -48,7 +48,7 @@ This node transposes the rows and columns of a DataFrame on the selected column,
 Examples
 -------
 Transpose Node Example
----------------
++++++++++++++++
 
 
 Given the following dataset:

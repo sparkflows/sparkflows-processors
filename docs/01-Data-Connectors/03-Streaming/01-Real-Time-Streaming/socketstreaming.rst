@@ -1,5 +1,5 @@
 Streaming Socket Text Stream
-=========== 
+===========
 
 Reads in streaming text from a socket
 
@@ -47,9 +47,8 @@ Details
 This Processor reads in messages from a Socket
 
 
-
 Key Fields
-===============
++++++++++++++++
 
 
 Below are the key fields of this Processor.

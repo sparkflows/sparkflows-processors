@@ -1,5 +1,5 @@
 Regex Tokenizer
-=========== 
+===========
 
 This node creates a new DataFrame by the process of taking text (such as a sentence) and breaking it into individual terms (usually words) based on regular expression
 
@@ -40,7 +40,7 @@ Fields
 Details
 -------
 Regex Tokenizer Node
----------------
++++++++++++++++
 
 
 
@@ -75,7 +75,7 @@ The node creates a new column containing the tokenized text.
 Examples
 -------
 Example:
----------------
++++++++++++++++
 
 
 Let's assume we have a column named text containing the following text:

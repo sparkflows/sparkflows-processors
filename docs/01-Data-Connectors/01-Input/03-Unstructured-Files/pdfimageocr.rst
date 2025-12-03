@@ -1,5 +1,5 @@
 PDF Image OCR
-=========== 
+===========
 
 Reads in PDF Files from a given path, extracts the images from them, and converts them to text with Tesseract
 

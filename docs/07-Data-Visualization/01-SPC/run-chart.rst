@@ -1,5 +1,5 @@
 Run Chart
-=========== 
+===========
 
 This node outputs Run Chart.
 

@@ -1,5 +1,5 @@
 Min Max Scaler
-=========== 
+===========
 
 MinMaxScaler transforms a dataset of Vector rows, rescaling each feature to a specific range (often [0, 1])
 
@@ -48,7 +48,7 @@ Fields
 Details
 -------
 Min Max Scaler Transform Node Details
----------------
++++++++++++++++
 
 
 The Min Max Scaler Transform Node is used to rescale a dataset of Vector rows by transforming each feature to a specific range, often [0, 1]. It takes no additional parameter other than the input DataFrame and the output column name.
@@ -70,7 +70,7 @@ OUTPUT COLUMN : The name of the output column after rescaling.
 Examples
 -------
 Min Max Scaler Transform Node Example
----------------
++++++++++++++++
 
 
 Consider the below **Min Max Scaler** output for the **features** column

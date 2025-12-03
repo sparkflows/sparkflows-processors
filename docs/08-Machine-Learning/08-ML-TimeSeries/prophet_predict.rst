@@ -1,5 +1,5 @@
 Prophet Predict
-=========== 
+===========
 
 
 
@@ -28,7 +28,7 @@ Fields
 Details
 -------
 Prophet Predict Node Details
----------------
++++++++++++++++
 
 
 This node generates predictions using a trained Prophet model. The output includes forecasted timestamps and associated values based on the time series data provided.
@@ -42,7 +42,7 @@ Output Storage Level: Specifies the storage persistence level for the output Dat
 Examples
 -------
 Prophet Predict Node Examples
----------------
++++++++++++++++
 
 
 Example Configuration:

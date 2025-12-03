@@ -1,5 +1,5 @@
 Sort By
-=========== 
+===========
 
 Sorts the entire DataFrame by one or multiple columns with full control over ascending/descending order per column. Essential for ranked reports, leaderboards, time-series ordering, and preparing data for window functions or exports.
 
@@ -34,7 +34,7 @@ Fields
 Details
 -------
 Sort By Node – Full Control Over Data Ordering
----------------
++++++++++++++++
 
 
 The Sort By node gives you pixel-perfect control over row order in your DataFrame. Whether you need top-10 customers by revenue, chronological transaction history, or complex multi-level ranking (e.g., Country DESC → Revenue DESC → Customer Name ASC), this node handles it cleanly and efficiently.
@@ -74,7 +74,7 @@ Pro Tips
 Examples
 -------
 Sort By Node – Real Business Examples
----------------
++++++++++++++++
 
 
 

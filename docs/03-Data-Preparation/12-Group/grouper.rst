@@ -1,5 +1,5 @@
 Group By
-=========== 
+===========
 
 Group By Node
 
@@ -52,7 +52,7 @@ Fields
 Details
 -------
 Group By Details
----------------
++++++++++++++++
 
 
 

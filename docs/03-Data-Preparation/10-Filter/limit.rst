@@ -1,5 +1,5 @@
 Limit
-=========== 
+===========
 
 This node Limits the number of rows in the output
 
@@ -39,7 +39,7 @@ Fields
 Details
 -------
 Details
----------------
++++++++++++++++
 
 This node Limits the number of rows in the output.
 

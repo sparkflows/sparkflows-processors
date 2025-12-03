@@ -1,5 +1,5 @@
 ExpectTableRowCountToBeBetween
-=========== 
+===========
 
 
 
@@ -34,7 +34,7 @@ Fields
 Details
 -------
 Expect Table Row Count To Be Between Details
----------------
++++++++++++++++
 
 
 Expect the number of rows to be between two values.
@@ -64,7 +64,7 @@ If `Max Count` is None, then `Min Count` is treated as a lower bound, and the nu
 Examples
 -------
 Expect Table Row Count To Be Between Example
----------------
++++++++++++++++
 
 
 

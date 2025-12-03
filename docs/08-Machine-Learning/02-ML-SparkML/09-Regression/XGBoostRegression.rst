@@ -1,5 +1,5 @@
 XGBoost Regressor
-=========== 
+===========
 
 
 
@@ -128,10 +128,8 @@ Details
 Deatils: https://xgboost.readthedocs.io/en/latest/jvm/xgboost4j_spark_tutorial.html#xgboost4j-spark-tutorial-version-0-9
 
 
-
-
 XGBoost Regressor Node Details
----------------
++++++++++++++++
 
 
 This node implements the XGBoost algorithm for regression tasks. It can be used for a variety of regression problems, including predicting continuous values, such as stock prices, house prices, or weather patterns.
@@ -166,7 +164,7 @@ se.
 Examples
 -------
 XGBoost Regressor Node Example
----------------
++++++++++++++++
 
 
 Scenario:

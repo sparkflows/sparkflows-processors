@@ -1,5 +1,5 @@
 Structured Streaming Hive Sink
-=========== 
+===========
 
 Saves the streaming data into a HIVE Table
 

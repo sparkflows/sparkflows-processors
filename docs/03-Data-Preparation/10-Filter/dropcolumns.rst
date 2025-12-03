@@ -1,5 +1,5 @@
 Drop Columns
-=========== 
+===========
 
 This node creates a new DataFrame by dropping the specified columns
 
@@ -39,7 +39,7 @@ Fields
 Details
 -------
 Drop Columns Node Details
----------------
++++++++++++++++
 
 
 This node creates a new DataFrame by dropping the selected columns.
@@ -54,7 +54,7 @@ Columns that need to be dropped are to be selected in the 'Selected' list. Multi
 Examples
 -------
 Drop Columns Node Examples
----------------
++++++++++++++++
 
 
 

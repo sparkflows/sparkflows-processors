@@ -1,5 +1,5 @@
 Split By Expression
-=========== 
+===========
 
 This node splits the incoming DataFrame into two output DataFrames by applying the conditional logic
 
@@ -57,9 +57,8 @@ If SplitByExpression node is configured to split the incoming Dataframe into two
 then two outgoing Dataframes would be created as below:
 
 
-
 First Dataframe where [AGE] is greater than 40
----------------
++++++++++++++++
 
 
 ::
@@ -70,9 +69,8 @@ First Dataframe where [AGE] is greater than 40
     C02       |   LISA        |   45
 
 
-
 Second Dataframe where [AGE] is less than 40
----------------
++++++++++++++++
 
 
 ::

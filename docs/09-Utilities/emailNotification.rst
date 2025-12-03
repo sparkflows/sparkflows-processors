@@ -1,5 +1,5 @@
 EmailNotification
-=========== 
+===========
 
 This node sends notification to given email address with given content
 

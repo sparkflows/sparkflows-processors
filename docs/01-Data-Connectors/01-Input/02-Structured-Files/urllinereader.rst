@@ -1,5 +1,5 @@
 URL Text File Reader
-=========== 
+===========
 
 Reads a text file from the given URL and creates a DataFrame from it. Each line in the file is a record in the DataFrame.
 

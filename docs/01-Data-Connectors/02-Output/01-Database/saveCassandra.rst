@@ -1,5 +1,5 @@
 Save Cassandra
-=========== 
+===========
 
 Saves the rows of the incoming DataFrame into Apache Cassandra
 

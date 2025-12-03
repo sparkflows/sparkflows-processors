@@ -1,5 +1,5 @@
 String Indexer Transform
-=========== 
+===========
 
 StringIndexer encodes a string column of labels to a column of label indices
 
@@ -36,7 +36,7 @@ Fields
 Details
 -------
 String Indexer Transform Node Details
----------------
++++++++++++++++
 
 
 The String Indexer Transform Node is used to encode a string column of labels to a column of label indices. It takes in an input DataFrame and transforms it to another DataFrame. It also takes in a fit model as input, which is typically the output of a previous String Indexer Estimator Node.
@@ -55,7 +55,7 @@ FIT MODEL : The output of a previous String Indexer Estimator Node, which contai
 Examples
 -------
 String Indexer Transform Node Example
----------------
++++++++++++++++
 
 
 Consider the following example, where we have a DataFrame with a column 'gender' containing string values. We use a String Indexer Estimator Node to encode the string values to label indices, creating a fit model. Then, we use the String Indexer Transform Node to encode the 'gender' column using the fit model.

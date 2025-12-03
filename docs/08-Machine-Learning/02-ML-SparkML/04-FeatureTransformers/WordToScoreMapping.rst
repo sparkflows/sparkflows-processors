@@ -1,5 +1,5 @@
 Word To Score Mapping
-=========== 
+===========
 
 It maps the original word of hashValue to score.
 

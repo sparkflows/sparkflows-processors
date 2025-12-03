@@ -1,5 +1,5 @@
 Hugging Face Summarization
-=========== 
+===========
 
 Summarization using models hosted in Hugging Face repository.
 

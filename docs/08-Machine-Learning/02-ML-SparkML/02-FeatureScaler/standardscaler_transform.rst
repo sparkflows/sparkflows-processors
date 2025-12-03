@@ -1,5 +1,5 @@
 Standard Scaler Transform
-=========== 
+===========
 
 StandardScaler transforms a dataset of Vector rows, normalizing each feature to have unit standard deviation and/or zero mean.
 
@@ -36,7 +36,7 @@ Fields
 Details
 -------
 Standard Scaler Transform Node Details
----------------
++++++++++++++++
 
 
 The Standard Scaler Transform Node is used to normalize a dataset of Vector rows, by transforming each feature to have unit standard deviation and/or zero mean. It takes in an input DataFrame and transforms it to another DataFrame. It also takes in a fit model as input, which is typically the output of a previous Standard Scaler Estimator Node.
@@ -55,7 +55,7 @@ FIT MODEL : The output of a previous Standard Scaler Estimator Node, which conta
 Examples
 -------
 Standard Scaler Transform Node Example
----------------
++++++++++++++++
 
 
 Consider the following example, where we have a DataFrame with a column 'features' containing continuous values. We use a Standard Scaler Estimator Node to specify the transformation, creating a fit model. Then, we use the Standard Scaler Transform Node to transform the 'features' column using the fit model.

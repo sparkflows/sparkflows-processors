@@ -1,5 +1,5 @@
 Min Max Scaler
-=========== 
+===========
 
 MinMaxScaler transforms a dataset of Vector rows, rescaling each feature to a specific range (often [0, 1])
 
@@ -48,7 +48,7 @@ Fields
 Details
 -------
 Min Max Scaler Node Details
----------------
++++++++++++++++
 
 
 The Min Max Scaler node transforms a dataset of Vector rows, rescaling each feature to a specific range (often [0, 1]). MinMaxScaler computes summary statistics on a data set and produces a MinMaxScalerModel. The model can then transform each feature individually such that it is in the given range.
@@ -69,7 +69,7 @@ Input Parameters
 Examples
 -------
 Min Max Scaler Node Example
----------------
++++++++++++++++
 
 
 Consider the below raw dataset showing 2 columns with 4 rows:

@@ -1,5 +1,5 @@
 Quantile Discretizer Transform
-=========== 
+===========
 
 QuantileDiscretizer takes a column with continuous features and outputs a column with binned categorical features.
 
@@ -36,7 +36,7 @@ Fields
 Details
 -------
 Quantile Discretizer Transform Node Details
----------------
++++++++++++++++
 
 
 The Quantile Discretizer Transform Node is used to discretize a continuous feature into a categorical feature by specifying a set of boundaries. It takes in an input DataFrame and transforms it to another DataFrame. It also takes in a fit model as input, which is typically the output of a previous Quantile Discretizer Estimator Node.
@@ -55,7 +55,7 @@ FIT MODEL : The output of a previous Quantile Discretizer Estimator Node, which 
 Examples
 -------
 Quantile Discretizer Transform Node Example
----------------
++++++++++++++++
 
 
 Consider the following example, where we have a DataFrame with a column 'age' containing continuous values. We use a Quantile Discretizer Estimator Node to specify the boundaries for the discretization, creating a fit model. Then, we use the Quantile Discretizer Transform Node to discretize the 'age' column using the fit model.

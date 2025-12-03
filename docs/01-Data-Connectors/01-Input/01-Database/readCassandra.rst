@@ -1,5 +1,5 @@
 Read Cassandra
-=========== 
+===========
 
 This node reads data from Apache Cassandra
 

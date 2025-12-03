@@ -1,5 +1,5 @@
 K-Means
-=========== 
+===========
 
 K-means clustering with support for k-means initialization proposed by Bahmani et al
 

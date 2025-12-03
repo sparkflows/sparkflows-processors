@@ -1,5 +1,5 @@
 Register TempTable
-=========== 
+===========
 
 This node registers the incoming DataFrame as a temporary table in Spark
 
@@ -39,7 +39,7 @@ Fields
 Details
 -------
 Register Temp Table Node
----------------
++++++++++++++++
 
 
 This node registers the incoming DataFrame as a temporary table in the Spark SQL context. This allows you to query the DataFrame using SQL queries.
@@ -48,7 +48,7 @@ This node registers the incoming DataFrame as a temporary table in the Spark SQL
 Examples
 -------
 Register Temp Table Node Example
----------------
++++++++++++++++
 
 
 Given the following dataset:

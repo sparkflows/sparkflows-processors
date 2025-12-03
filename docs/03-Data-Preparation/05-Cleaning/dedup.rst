@@ -1,5 +1,5 @@
 Dedup
-=========== 
+===========
 
 This node is used for problems like entity resolution or data matching. Entity resolution or Data matching is the problem of finding and linking different mentions of the same entity in a single data source or across multiple data sources.
 
@@ -54,7 +54,7 @@ Fields
 Details
 -------
 Levenstein
----------------
++++++++++++++++
 
 
 The Levenshtein distance between two strings is defined as the minimum number of edits needed to transform one string into the other, with the allowable edit operations being insertion, deletion, or substitution of a single character.
@@ -63,10 +63,8 @@ The Levenshtein distance between two strings is defined as the minimum number of
 How many char you change to make two strings equal.
 
 
-
-
 JaroWinker
----------------
++++++++++++++++
 
 
 Jaro–Winkler distance for two strings is, the more similar the strings are. The Jaro–Winkler distance metric is designed and best suited for short strings such as person names. The score is normalized such that 0 equates to no similarity and 1 is an exact match.
@@ -75,18 +73,15 @@ Jaro–Winkler distance for two strings is, the more similar the strings are. Th
 Good for short words, typos and nikename.
 
 
-
 Fullmatch
----------------
++++++++++++++++
 
 
 Fullmatch distance for two strings is, how two strings are match exactly. The score is assigned such that 1 is for exact match and 0 is for not match.
 
 
-
-
 Jaccard
----------------
++++++++++++++++
 
 
 The Jaccard similarity measures similarity between finite sample sets, and is defined as the cardinality of the intersection of sets divided by the cardinality of the union of the sample sets. Suppose you want to find jaccard similarity between two sets A and B it is the ration of cardinality of A ∩ B and A ∪ B.
@@ -104,19 +99,15 @@ Sparkflows provide default 3-gram Jaccard similarity measures.
 LCSfunction returns the length of Longest Common Subsequence (LCS) between strings s1 and s2.
 
 
-
-
-
 Notional distance
----------------
++++++++++++++++
 
 
 Notional distance between two numbers X and Y, computed as  abs(X - Y) / abs(x) + abs(Y).
 
 
-
 Date Difference
----------------
++++++++++++++++
 
 
 Date Difference gives number of days between two dates(yyyy-MM-dd).
@@ -125,7 +116,7 @@ Date Difference gives number of days between two dates(yyyy-MM-dd).
 Examples
 -------
 Dedup Node Example
----------------
++++++++++++++++
 
 
 Given the following dataset:

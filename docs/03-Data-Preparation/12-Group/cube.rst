@@ -1,5 +1,5 @@
 Cube
-=========== 
+===========
 
 Cube Node generates a result set that shows aggregates for all combinations of values in the selected columns.
 

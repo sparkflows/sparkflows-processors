@@ -1,5 +1,5 @@
 Bar Chart
-=========== 
+===========
 
 Type
 --------- 
@@ -83,7 +83,7 @@ Fields
 Details
 -------
 Bar Chart Node
----------------
++++++++++++++++
 
 
 This node creates a bar chart to visualize numerical data. It allows you to compare values across different categories or time periods .
@@ -94,7 +94,7 @@ You can rename columns,sort the categories and make changes in labels as needed 
 Examples
 -------
 Bar Chart Node Example
----------------
++++++++++++++++
 
 
 Scenario:

@@ -1,5 +1,5 @@
 Sklearn Bayesian Ridge Regression
-=========== 
+===========
 
 Bayesian regression allows a natural mechanism to survive insufficient data or poorly distributed data by formulating linear regression using probability distributors rather than point estimates. The output or response ‘y’ is assumed to drawn from a probability distribution rather than estimated as a single value.
 

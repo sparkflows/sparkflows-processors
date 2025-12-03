@@ -1,5 +1,5 @@
- H2O Clustering Evaluator
-=========== 
+H2O Clustering Evaluator
+===========
 
 Evaluator for Clustering, which expects two input columns: features and prediction.
 
@@ -38,7 +38,7 @@ Fields
 Details
 -------
 Node H2O Clustering Evaluator Details:
----------------
++++++++++++++++
 
 
 Evaluator for Clustering , which expects three input columns: prediction,metric and label.

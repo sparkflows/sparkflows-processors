@@ -1,5 +1,5 @@
 Value count
-=========== 
+===========
 
 Counts value in columns using the specified input
 
@@ -31,7 +31,7 @@ Fields
 Details
 -------
 Value Count Node
----------------
++++++++++++++++
 
 
 This node counts the frequency of unique values in the specified columns of a dataset.
@@ -40,7 +40,7 @@ This node counts the frequency of unique values in the specified columns of a da
 Examples
 -------
 Value Count Node Example
----------------
++++++++++++++++
 
 
 Given the following dataset:

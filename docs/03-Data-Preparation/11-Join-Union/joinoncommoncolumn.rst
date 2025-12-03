@@ -1,5 +1,5 @@
 Join On Common Column
-=========== 
+===========
 
 This node joins the incoming dataframes using one common column between them.
 
@@ -54,7 +54,7 @@ Fields
 Details
 -------
 Join On Common Column Node Details
----------------
++++++++++++++++
 
 
 This node joins the incoming dataframes using one common column between the two dataframes. 
@@ -77,7 +77,7 @@ Joining modes supported by this node is as follows:
 Examples
 -------
 Join On Common Column Example
----------------
++++++++++++++++
 
 
 

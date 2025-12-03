@@ -1,5 +1,5 @@
 Sklearn XGBoost Regressor
-=========== 
+===========
 
 XGBoost Regressor for regression tasks. It implements gradient boosted decision trees designed for speed and performance.
 

@@ -1,5 +1,5 @@
 Hugging Face Sentiment Analysis
-=========== 
+===========
 
 Sentiment Analysis using models hosted in Hugging Face repository.
 

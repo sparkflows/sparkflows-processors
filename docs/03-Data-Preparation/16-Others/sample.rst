@@ -1,5 +1,5 @@
 Sample
-=========== 
+===========
 
 Samples the incoming DataFrame
 
@@ -37,7 +37,7 @@ Fields
 Details
 -------
 Sample Node
----------------
++++++++++++++++
 
 
 This node samples a specified fraction of rows from the input DataFrame. It can be used for various purposes, such as reducing dataset size for testing or exploratory analysis.
@@ -46,7 +46,7 @@ This node samples a specified fraction of rows from the input DataFrame. It can 
 Examples
 -------
 Sample Node Example
----------------
++++++++++++++++
 
 
 Given the following dataset:

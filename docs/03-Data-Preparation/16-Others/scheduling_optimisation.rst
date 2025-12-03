@@ -1,5 +1,5 @@
- Scheduling Optimization
-=========== 
+Scheduling Optimization
+===========
 
 Node to optimize production scheduling in manufacturing environments by incorporating preventive maintenance and handling operational uncertainties. This ensures efficient utilization of resources, cost savings, and improved decision-making.
 

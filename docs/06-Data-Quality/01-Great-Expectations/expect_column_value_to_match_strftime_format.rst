@@ -1,5 +1,5 @@
 ExpectColumnValueToMatchStrftimeFormat
-=========== 
+===========
 
 
 
@@ -37,7 +37,7 @@ Fields
 Details
 -------
 Expect Column Values Lengths to Equal
----------------
++++++++++++++++
 
 
 Expect the column entries to be strings with length equal to the provided value.
@@ -58,7 +58,7 @@ Mostly (None or a float between 0 and 1): Return `success`: True if at least mos
 Examples
 -------
 Example
----------------
++++++++++++++++
 
 
 Let's assume we have a column named date_of_birth with values like "1990-12-25", "12/25/1990", and "25-Dec-1990".

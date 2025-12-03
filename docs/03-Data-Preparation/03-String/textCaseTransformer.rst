@@ -1,5 +1,5 @@
 Text Case Transformer
-=========== 
+===========
 
 This node converts the text of the selected column to upper or lower case
 
@@ -46,7 +46,7 @@ This node converts text of the selected column to upper or lower case
 Examples
 -------
 Text Case Transformer Example
----------------
++++++++++++++++
 
 
 

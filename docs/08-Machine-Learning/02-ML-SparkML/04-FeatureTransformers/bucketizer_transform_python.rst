@@ -1,5 +1,5 @@
 Bucketizer Transform
-=========== 
+===========
 
 Bucketizer Transform
 
@@ -36,7 +36,7 @@ Fields
 Details
 -------
 Bucketizer Transform Node Details
----------------
++++++++++++++++
 
 
 The Bucketizer Transform Node is used to transform a continuous feature into a categorical feature by specifying a set of boundaries. It takes in an input DataFrame and transforms it to another DataFrame. It also takes in a fit model as input, which is typically the output of a previous Bucketizer Estimator Node.
@@ -55,7 +55,7 @@ FIT MODEL : The output of a previous Bucketizer Estimator Node, which contains t
 Examples
 -------
 Bucketizer Transform Node Example
----------------
++++++++++++++++
 
 
 Consider the following example, where we have a DataFrame with a column 'age' containing continuous values. We use a Bucketizer Estimator Node to specify the boundaries for the transformation, creating a fit model. Then, we use the Bucketizer Transform Node to transform the 'age' column using the fit model.

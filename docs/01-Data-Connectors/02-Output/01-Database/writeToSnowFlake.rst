@@ -1,5 +1,5 @@
 Write To Snowflake
-=========== 
+===========
 
 
 
@@ -69,7 +69,7 @@ Fields
 Details
 -------
 Write To Snowflake Node Details
----------------
++++++++++++++++
 
 
 This node saves the rows of the incoming dataframe into the specified table in Snowflake.
@@ -100,7 +100,7 @@ Ignore: If table already exists, the save operation is ignored.
 Examples
 -------
 Write To Snowflake Node Examples
----------------
++++++++++++++++
 
 
 

@@ -1,5 +1,5 @@
 Index String
-=========== 
+===========
 
 Maps a column of indices back to a new column of corresponding string values. The index-string mapping is either from the ML attributes of the input column, or from user-supplied labels
 
@@ -34,7 +34,7 @@ Fields
 Details
 -------
 Index String Node Details
----------------
++++++++++++++++
 
 
 An Index String Node is a Transformer that maps a column of indices back to a new column of corresponding string values. The index-string mapping is either from the ML attributes of the input column, or from user-supplied labels (which take precedence over ML attributes).
@@ -55,7 +55,7 @@ Input Parameters
 Examples
 -------
 Index String Node Example
----------------
++++++++++++++++
 
 
 Consider the below datafrme which contains the transformed string column 'category' to indexed column 'categoryIndex'

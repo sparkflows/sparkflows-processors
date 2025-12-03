@@ -1,5 +1,5 @@
 HasMax
-=========== 
+===========
 
 Check for max value in selected column.
 
@@ -37,7 +37,7 @@ Fields
 Details
 -------
 Has Max Node
----------------
++++++++++++++++
 
 
 

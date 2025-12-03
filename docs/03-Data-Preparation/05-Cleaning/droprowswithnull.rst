@@ -1,5 +1,5 @@
 Drop Rows With Null
-=========== 
+===========
 
 This node creates a new DataFrame by dropping rows containing null values
 

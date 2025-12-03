@@ -1,5 +1,5 @@
 Save HTML
-=========== 
+===========
 
 Saves DataFrame responses as HTML files
 
@@ -55,7 +55,7 @@ Fields
 Details
 -------
 Save HTML Node Details
----------------
++++++++++++++++
 
 The Save HTML Node is designed to save DataFrame responses as HTML files, either locally or to an S3 bucket. It supports saving content from a specified DataFrame column, with options to combine responses into a single file, save individual files, or group by page number. The node processes text, HTML, or markdown content, converting it to HTML format with proper styling. This node is ideal for generating structured HTML outputs in data pipelines.
 
@@ -141,7 +141,7 @@ The node does not modify the input DataFrame but saves the content from the spec
 Examples
 -------
 Example: Save HTML Node
----------------
++++++++++++++++
 
 
 

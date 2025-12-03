@@ -1,5 +1,5 @@
 Read JDBC
-=========== 
+===========
 
 This node writes data to databases using JDBC.
 
@@ -76,7 +76,7 @@ Fields
 Details
 -------
 Read JDBC Node Details
----------------
++++++++++++++++
 
 
 This node reads data from Relational Databases using JDBC and creates a DataFrame from it.

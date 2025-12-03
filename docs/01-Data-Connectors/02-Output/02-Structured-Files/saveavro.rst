@@ -1,5 +1,5 @@
 Save Avro
-=========== 
+===========
 
 Saves the DataFrame into the specified location in Apache Avro Format
 

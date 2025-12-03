@@ -1,5 +1,5 @@
 Bar Group Chart
-=========== 
+===========
 
 Type
 --------- 
@@ -74,7 +74,7 @@ Fields
 Details
 -------
 Bar Group Chart Node
----------------
++++++++++++++++
 
 
 This node creates a grouped bar chart to visualize data with multiple categories. Each group of bars represents a category, and the bars within each group represent different values depending on the grouping criteria.
@@ -83,7 +83,7 @@ This node creates a grouped bar chart to visualize data with multiple categories
 Examples
 -------
 Bar Group Chart Node Example
----------------
++++++++++++++++
 
 
 Scenario:

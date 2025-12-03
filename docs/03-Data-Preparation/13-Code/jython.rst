@@ -1,5 +1,5 @@
 Jython
-=========== 
+===========
 
 This node runs any given Jython code. The input dataframe is passed in the variable inDF. The output dataframe should be placed in the variable outDF
 
@@ -54,7 +54,7 @@ Fields
 Details
 -------
 Jython Details
----------------
++++++++++++++++
 
 
 This node runs any given Jython code.

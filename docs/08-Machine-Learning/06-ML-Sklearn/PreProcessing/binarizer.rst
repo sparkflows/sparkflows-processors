@@ -1,5 +1,5 @@
 Sklearn Binarizer
-=========== 
+===========
 
 Binarize data (set feature values to 0 or 1) according to a threshold.
 
@@ -31,7 +31,7 @@ Fields
 Details
 -------
 Sklearn Binarizer Node Details
----------------
++++++++++++++++
 
 
 The Sklearn Binarizer Node is used to binarize data, meaning it sets feature values to 0 or 1 according to a threshold. The threshold parameter is the value above which the features will be set to 1 and below which the features will be set to 0. It is a scalar value.
@@ -51,7 +51,7 @@ THRESHOLD : A scalar value above which the feature values will be set to 1 and b
 Examples
 -------
 Sklearn Binarizer Node Example
----------------
++++++++++++++++
 
 
 Consider the below **Sklearn Binarizer** output for the **features** column

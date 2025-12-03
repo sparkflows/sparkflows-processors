@@ -1,5 +1,5 @@
 MultiFlagOutliers
-=========== 
+===========
 
 This checks if values fall between Inter Quartile Range.
 

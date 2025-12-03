@@ -1,5 +1,5 @@
- Multi LLM Query
-=========== 
+Multi LLM Query
+===========
 
 The Multi LLM Query node is designed to query multiple large language models (LLMs) from providers such as OpenAI, Bedrock, and Gemini, using a DataFrame as input. It processes user queries, text content, and/or base64-encoded images to generate responses based on the selected model and task, producing a structured DataFrame output.
 
@@ -84,7 +84,7 @@ Fields
 Details
 -------
 Multi LLM Query Node Details
----------------
++++++++++++++++
 
 
 The Multi LLM Query node is designed to query multiple large language models (LLMs) from providers such as OpenAI, Bedrock, and Gemini, using a DataFrame as input. It processes user queries, text content, and/or base64-encoded images to generate responses based on the selected connection and task, producing a structured DataFrame output.
@@ -224,7 +224,7 @@ The response column contains the LLM-generated text or error messages if the API
 Examples
 -------
 Multi LLM Query Node Examples
----------------
++++++++++++++++
 
 
 

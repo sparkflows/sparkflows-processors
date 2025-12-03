@@ -1,5 +1,5 @@
 H2O Generalized Linear Models
-=========== 
+===========
 
 Generalized Linear Models (GLM) estimate regression models for outcomes following exponential distributions
 
@@ -283,7 +283,7 @@ More details are available at : http://docs.h2o.ai/h2o/latest-stable/h2o-docs/da
 Examples
 -------
 H2O Generalized Linear Models Node Examples
----------------
++++++++++++++++
 
 
 Example 1: Binary Classification

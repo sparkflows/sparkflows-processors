@@ -1,5 +1,5 @@
 Sticky Note
-=========== 
+===========
 
 Allows capturing Notes on the Workflow
 

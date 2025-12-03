@@ -1,5 +1,5 @@
 Bucketizer
-=========== 
+===========
 
 The Bucketizer transformer in PySpark is used to discretize continuous features into categorical ones by creating a fixed number of buckets.
 
@@ -45,7 +45,7 @@ Fields
 Details
 -------
 Bucketizer Node Details
----------------
++++++++++++++++
 
 
 The Bucketizer Node is used to discretize continuous features into categorical ones by creating a fixed number of buckets. It takes in a DataFrame and transforms it to another DataFrame by adding a new column containing the bucket index for each value in the input column.
@@ -68,7 +68,7 @@ SPLITS : The splits for the buckets, specified as an array of floats.
 Examples
 -------
 Bucketizer Node Example
----------------
++++++++++++++++
 
 
 Consider the below **Bucketizer** output for the **age** column with splits [-inf, 20, 30, 40, inf]

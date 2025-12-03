@@ -1,5 +1,5 @@
 Sklearn Quantile Transform
-=========== 
+===========
 
 Transform features using quantiles information.
 

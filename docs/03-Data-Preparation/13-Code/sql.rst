@@ -1,5 +1,5 @@
 SQL
-=========== 
+===========
 
 This node runs the given SQL on the incoming DataFrame
 
@@ -54,7 +54,7 @@ Fields
 Details
 -------
 SQL Details
----------------
++++++++++++++++
 
 
 SQL node receives an input data frame. It creates a temporary table on top of that data frame. It executes the provided SQL in the node on the temporary table.
@@ -66,7 +66,7 @@ The resulting data frame of running the SQL is passed on to the next node.
 Examples
 -------
 SQL Examples
----------------
++++++++++++++++
 
 
 Below are some examples of SQL. 

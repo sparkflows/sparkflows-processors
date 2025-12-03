@@ -1,5 +1,5 @@
 Case When
-=========== 
+===========
 
 This node creates a new Dataframe with a new column appended to it containing value based on the condition met
 
@@ -40,7 +40,7 @@ Fields
 Details
 -------
 Case When Node Details
----------------
++++++++++++++++
 
 
 This node creates a new Dataframe with new output column added to the incoming dataframe. Value of the new column is set based on the Condition met and corresponding value fetched.
@@ -128,7 +128,7 @@ Assigning Current Date and Current Timestamp
 Examples
 -------
 Case When Node Examples
----------------
++++++++++++++++
 
 
 

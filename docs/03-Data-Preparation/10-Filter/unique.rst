@@ -1,5 +1,5 @@
 FindDuplicate
-=========== 
+===========
 
 This node splits the incoming DataFrame into two output DataFrames one having unique values and other having rest of duplicates
 
@@ -41,7 +41,7 @@ Fields
 Details
 -------
 Filter Unique Details
----------------
++++++++++++++++
 
 This Node Separates data into two streams, unique and duplicate rows, based on the columns you choose.
 

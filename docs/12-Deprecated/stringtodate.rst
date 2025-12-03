@@ -1,5 +1,5 @@
 String To Date
-=========== 
+===========
 
 This node converts a string column to date using the given date/time format
 
@@ -42,7 +42,7 @@ Fields
 Examples
 -------
 Format Examples
----------------
++++++++++++++++
 
 
 

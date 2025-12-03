@@ -1,5 +1,5 @@
 Graph Group By Column
-=========== 
+===========
 
 Groups the data by the given column and plots the number of records in each group
 
@@ -58,7 +58,7 @@ Fields
 Details
 -------
 Graph Group By Column Details
----------------
++++++++++++++++
 
 
 This node represents the distribution/count of a group of data in Graphical format.

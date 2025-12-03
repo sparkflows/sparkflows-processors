@@ -1,5 +1,5 @@
 SVD
-=========== 
+===========
 
 Type
 --------- 
@@ -53,7 +53,7 @@ More details are available at: https://spark.apache.org/docs/2.0.0/mllib-dimensi
 Examples
 -------
 The below example is available at : https://spark.apache.org/docs/2.0.0/mllib-dimensionality-reduction.html#singular-value-decomposition-svd
----------------
++++++++++++++++
 
 
 import org.apache.spark.mllib.linalg.Matrix

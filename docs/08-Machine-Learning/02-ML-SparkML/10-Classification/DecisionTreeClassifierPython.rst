@@ -1,5 +1,5 @@
 Decision Tree Classifier
-=========== 
+===========
 
 It supports both binary and multiclass labels, as well as both continuous and categorical features.
 

@@ -1,5 +1,5 @@
 Binary Classification Evaluator
-=========== 
+===========
 
 Evaluator for binary classification, which expects two input columns: rawPrediction and label.
 
@@ -95,7 +95,7 @@ More at Spark MLlib/ML docs page : http://spark.apache.org/docs/latest/mllib-eva
 Examples
 -------
 Below example is available at : https://spark.apache.org/docs/latest/mllib-evaluation-metrics.html#binary-classification
----------------
++++++++++++++++
 
 
 import org.apache.spark.mllib.classification.LogisticRegressionWithLBFGS

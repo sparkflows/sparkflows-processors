@@ -1,5 +1,5 @@
 Run Python File
-=========== 
+===========
 
 This node executes the given python file.
 
@@ -31,7 +31,7 @@ Fields
 Details
 -------
 Run Python File Node
----------------
++++++++++++++++
 
 
 This node executes a specified Python script, allowing you to incorporate custom Python code into your data processing workflow.
@@ -40,7 +40,7 @@ This node executes a specified Python script, allowing you to incorporate custom
 Examples
 -------
 Run Python File Node Example
----------------
++++++++++++++++
 
 
 Scenario:

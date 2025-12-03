@@ -1,5 +1,5 @@
 Gauge Chart
-=========== 
+===========
 
 Type
 --------- 
@@ -59,7 +59,7 @@ Fields
 Details
 -------
 Gauge Details
----------------
++++++++++++++++
 
 
 This node represents data for different categories in Gauge format.

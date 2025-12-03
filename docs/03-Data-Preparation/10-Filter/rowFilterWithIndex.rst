@@ -1,5 +1,5 @@
 Node Row Filter By Index
-=========== 
+===========
 
 This node creates a new DataFrame containing only rows satisfying given condition
 
@@ -42,7 +42,7 @@ Fields
 Details
 -------
 Node Row Filter By Index Node Details
----------------
++++++++++++++++
 
 
 This node filters Rows for the specified Row Index numbers or the specified Row Index Range.
@@ -69,7 +69,7 @@ Output
 Examples
 -------
 Node Row Filter By Index Node Examples
----------------
++++++++++++++++
 
 
 

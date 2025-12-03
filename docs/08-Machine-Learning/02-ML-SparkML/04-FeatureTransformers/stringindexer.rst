@@ -1,5 +1,5 @@
 String Indexer
-=========== 
+===========
 
 StringIndexer encodes a string column of labels to a column of label indices
 
@@ -48,7 +48,7 @@ Fields
 Details
 -------
 String Indexer Node Details
----------------
++++++++++++++++
 
 
 The String Indexer node encodes a string column of labels to a column of label indices. The indices are in [0, numLabels).
@@ -82,7 +82,7 @@ Input Parameters
 Examples
 -------
 String Indexer Node Example
----------------
++++++++++++++++
 
 
 Assume that we have the following DataFrame with columns id and category:

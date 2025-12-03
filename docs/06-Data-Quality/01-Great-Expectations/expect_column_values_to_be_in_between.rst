@@ -1,5 +1,5 @@
 ExpectColumnValuesToBeInBetween
-=========== 
+===========
 
 
 
@@ -37,7 +37,7 @@ Fields
 Details
 -------
 Expect Column Values To Between Details
----------------
++++++++++++++++
 
 
 Expect the column entries to be between a minimum value and a maximum value (inclusive).
@@ -69,7 +69,7 @@ If `Max` is None, then `Min` is treated as a lower bound, and there is no maximu
 Examples
 -------
 Example
----------------
++++++++++++++++
 
 
 

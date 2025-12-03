@@ -1,5 +1,5 @@
 Join Using SQL
-=========== 
+===========
 
 This node registers the incoming DataFrames as temporary tables and executes the SQL provided
 
@@ -54,7 +54,7 @@ Fields
 Details
 -------
 Join Using SQL Details
----------------
++++++++++++++++
 
 
 
@@ -66,7 +66,7 @@ Join Using SQL Details
 Examples
 -------
 Join Using SQL Examples
----------------
++++++++++++++++
 
 
 

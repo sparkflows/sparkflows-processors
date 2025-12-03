@@ -1,5 +1,5 @@
 Execute In Loop
-=========== 
+===========
 
 
 
@@ -31,7 +31,7 @@ Fields
 Details
 -------
 Execute In Loop Node Details
----------------
++++++++++++++++
 
 
 The Execute In Loop Node loops through an iterable object and perform the same action for each entry.
@@ -51,7 +51,7 @@ Input Parameters
 Examples
 -------
 Execute In Loop Node Example
----------------
++++++++++++++++
 
 
 Consider the below dataframe which contains sales figures for a product as shown below:

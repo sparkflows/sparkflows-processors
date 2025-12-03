@@ -1,5 +1,5 @@
 String To Date
-=========== 
+===========
 
 This node converts string columns to date using the specified date/time format
 
@@ -40,7 +40,7 @@ Fields
 Details
 -------
 String To Date Multi Details
----------------
++++++++++++++++
 
 
 This node converts a string column to a date or timestamp datatype column. This node can be used to convert multiple string columns to new Date or Timestmp columns. 
@@ -84,7 +84,7 @@ Example
 Examples
 -------
 Format Examples
----------------
++++++++++++++++
 
 
 

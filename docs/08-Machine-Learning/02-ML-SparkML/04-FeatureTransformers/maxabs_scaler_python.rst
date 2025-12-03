@@ -1,5 +1,5 @@
 MaxAbs Scaler
-=========== 
+===========
 
 Rescale each feature individually to range [-1, 1] by dividing through the largest maximum absolute value in each feature.
 
@@ -34,7 +34,7 @@ Fields
 Details
 -------
 MaxAbs Scaler Node Details
----------------
++++++++++++++++
 
 
 The MaxAbs Scaler Node is used to rescale a dataset individually feature-wise to the given range [-1, 1]. It rescales each feature individually to range [-1, 1] by dividing through the largest maximum absolute value in each feature.
@@ -55,7 +55,7 @@ OUTPUT COLUMN : The name of the output column after scaling.
 Examples
 -------
 MaxAbs Scaler Node Example
----------------
++++++++++++++++
 
 
 Consider the below **MaxAbs Scaler** output for the **features** column

@@ -1,5 +1,5 @@
 Sort Columns
-=========== 
+===========
 
 It sorts the columns selection.
 

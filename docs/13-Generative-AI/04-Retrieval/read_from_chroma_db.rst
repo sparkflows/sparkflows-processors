@@ -1,5 +1,5 @@
 Read Chroma DB
-=========== 
+===========
 
 Read Vector Embeddings from Chroma DB Collection gives user query
 

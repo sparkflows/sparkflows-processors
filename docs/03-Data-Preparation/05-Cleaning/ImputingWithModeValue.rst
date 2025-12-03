@@ -1,5 +1,5 @@
 Imputing With Mode Value
-=========== 
+===========
 
 Imputing with most frequently observed value. It fills missing values (None) in selected columns with most frequently observed value in the corresponding column, in the incoming DataFrame.
 

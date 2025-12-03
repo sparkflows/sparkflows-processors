@@ -1,5 +1,5 @@
 ChiSq Selector
-=========== 
+===========
 
 Chi-Squared feature selection, which selects categorical features to use for predicting a categorical label.
 
@@ -63,7 +63,7 @@ More details are available at : http://spark.apache.org/docs/latest/ml-features.
 Examples
 -------
 The below example is available at :  http://spark.apache.org/docs/latest/ml-features.html#chisqselector
----------------
++++++++++++++++
 
 
 import org.apache.spark.ml.feature.ChiSqSelector

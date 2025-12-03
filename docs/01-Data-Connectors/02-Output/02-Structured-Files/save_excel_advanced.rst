@@ -1,5 +1,5 @@
 Save Excel Advanced
-=========== 
+===========
 
 Powerful Excel Writer Node – Export DataFrames to .xlsx files with full control over sheets, ranges, dynamic naming, record splitting, formatting preservation, password protection, and advanced save modes. Ideal for business reporting, finance dashboards, compliance exports, and audit-ready files.
 
@@ -67,7 +67,7 @@ Fields
 Details
 -------
 Save Excel Advanced Node – Complete Business-Ready Guide
----------------
++++++++++++++++
 
 The Save Excel Advanced node is the most feature-rich Excel writer available. It turns any Spark DataFrame into beautiful, audit-ready, pre-formatted Excel reports — exactly the way finance, compliance, and business teams expect them.
 
@@ -133,7 +133,7 @@ Critical in scheduled pipelines — no embarrassing empty files sent to executiv
 Examples
 -------
 Save Excel Advanced – Real Business Scenarios
----------------
++++++++++++++++
 
 
 

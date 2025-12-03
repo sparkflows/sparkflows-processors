@@ -1,5 +1,5 @@
 Compare All Columns
-=========== 
+===========
 
 Compares 2 incoming DataFrames. Outputs 3 DataFrames (A-B), (B-A), (A intersection B)
 
@@ -72,9 +72,8 @@ Examples
 after execution of CompareAllColumns node following three outgoing Dataframes would be created:
 
 
-
 (A-B) Outgoing Dataframe with rows that are part of 1st incoming Dataframe but not present in 2nd Dataframe
----------------
++++++++++++++++
 
 
 ::
@@ -85,9 +84,8 @@ after execution of CompareAllColumns node following three outgoing Dataframes wo
     E02       |    JOHN        |    SALES      |    35     |    2019-05-04        |    11 000.00  |    VERY GOOD
 
 
-
 (B-A) Outgoing Dataframe with rows that are part of 2nd incoming Dataframe but not present in 1st Dataframe
----------------
++++++++++++++++
 
 
 ::
@@ -98,9 +96,8 @@ after execution of CompareAllColumns node following three outgoing Dataframes wo
     E07       |    GAVIN       |    SALES      |    45     |    2020-05-04        |    10 000.00  |    VERY VERY GOOD
 
 
-
 (A insection B) Outgoing Dataframe with rows that are part of both incoming Dataframes
----------------
++++++++++++++++
 
 
 ::

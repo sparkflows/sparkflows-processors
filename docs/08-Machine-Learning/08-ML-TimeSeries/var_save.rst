@@ -1,5 +1,5 @@
 VAR Model Save
-=========== 
+===========
 
 This node saves the VAR model generated at the specified path in pickle file.
 

@@ -1,5 +1,5 @@
 Correlation
-=========== 
+===========
 
 calculates the correlation between two series of data.
 

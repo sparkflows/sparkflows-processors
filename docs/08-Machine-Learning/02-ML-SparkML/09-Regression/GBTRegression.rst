@@ -1,5 +1,5 @@
 GBT Regression
-=========== 
+===========
 
 It supports both continuous and categorical features.
 

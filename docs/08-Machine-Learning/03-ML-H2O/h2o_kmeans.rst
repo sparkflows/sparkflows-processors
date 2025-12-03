@@ -1,5 +1,5 @@
 H2O K-Means
-=========== 
+===========
 
 K-Means falls in the general category of clustering algorithms.
 

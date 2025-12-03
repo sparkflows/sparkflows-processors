@@ -1,5 +1,5 @@
 Apache Logs
-=========== 
+===========
 
 Reads in Apache Log files from a given path, parses them and loads them into a DataFrame
 

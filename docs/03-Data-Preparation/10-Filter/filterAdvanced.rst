@@ -1,5 +1,5 @@
 Filter Advanced
-=========== 
+===========
 
 This node generates two new DataFrames: one containing rows that meet the specified condition at the lower edge, and the other containing rows that fail to meet the condition at the higher edge.
 
@@ -75,7 +75,7 @@ Fields
 Details
 -------
 Filter Advanced Details
----------------
++++++++++++++++
 
 
 The Advanced Filter allows the user to filter out rows that meet a specific condition. This filtering can be performed using either the Basic Filter, Date Filter, or Custom Filter options.
@@ -86,7 +86,7 @@ This Node outputs two dataframe. Lower Edge outputs the filtered data and the Hi
 Examples
 -------
 Examples of Basic Filter
----------------
++++++++++++++++
 
 
 Example1:
@@ -286,10 +286,8 @@ Output Dataframe in the higher edge:
     +-----+-------+----------+
 
 
-
-
 Examples of Date Filter
----------------
++++++++++++++++
 
 Example1:
 
@@ -498,10 +496,8 @@ Output Dataframe in the higher edge:
     +-----+-------+----------+
 
 
-
-
 Examples of Custom Filter
----------------
++++++++++++++++
 
 
 Below are some examples of the Conditions Expression which can be used.

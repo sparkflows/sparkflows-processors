@@ -1,5 +1,5 @@
 NP Chart
-=========== 
+===========
 
 This node outputs SPC NP Chart and performs control tests.
 

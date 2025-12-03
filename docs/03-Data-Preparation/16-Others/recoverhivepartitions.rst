@@ -1,5 +1,5 @@
 Recover Hive Partitions
-=========== 
+===========
 
 Node to recover the partitions of external hive table.
 

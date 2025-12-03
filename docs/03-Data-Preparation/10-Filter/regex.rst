@@ -1,5 +1,5 @@
 Regex Advanced
-=========== 
+===========
 
 Advanced regex operations for text processing - similar to Alteryx Regex Tool with auto-detection of capturing groups
 
@@ -81,7 +81,7 @@ Fields
 Details
 -------
 Regex Advanced Node
----------------
++++++++++++++++
 
 
 
@@ -144,7 +144,7 @@ Advanced Options:
 Examples
 -------
 Regex Advanced Node Examples
----------------
++++++++++++++++
 
 
 

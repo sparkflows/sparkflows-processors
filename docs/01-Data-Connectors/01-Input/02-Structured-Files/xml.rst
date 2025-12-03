@@ -1,5 +1,5 @@
 Read XML
-=========== 
+===========
 
 It reads in XML files and creates a DataFrame from it
 
@@ -57,7 +57,7 @@ Fields
 Details
 -------
 Read XML Node Details
----------------
++++++++++++++++
 
 
 This node reads an XML file and creates the DataFrame which contains the schema and data of the specified XML file.
@@ -78,7 +78,7 @@ Parameters to be set:
 Examples
 -------
 Read XML Node Examples
----------------
++++++++++++++++
 
 
 

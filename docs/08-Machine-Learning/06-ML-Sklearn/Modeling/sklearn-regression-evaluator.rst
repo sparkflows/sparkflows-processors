@@ -1,5 +1,5 @@
 Sklearn Regression Evaluator
-=========== 
+===========
 
 Evaluator for regression, which expects two input columns: prediction and label.
 
