@@ -124,7 +124,7 @@ html_js_files = [
 ]
 
 def setup(app):
-    app.add_css_file('css/custom.css?v=2.0')
+    app.add_css_file('css/custom.css')
 
 html_logo = '_assets/logo.svg';
 html_show_sphinx = False
